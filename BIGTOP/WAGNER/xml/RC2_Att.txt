@@ -1,0 +1,1 @@
+{"Category":[{"CATEGORY_ID":"AS1-[C1]","Category_Name":"AUTOSUBCAT","Product_Count":1,"brandvalue":"","SearchString":"","CUSTOM_TEXT_FIELD1":"2018-01-05T00:00:00","select":"","eaPath":""},{"CATEGORY_ID":"CLONE1-SC2","Category_Name":"SUBCAT5","Product_Count":1,"brandvalue":"","SearchString":"","CUSTOM_TEXT_FIELD1":"2018-01-05T00:00:00","select":"","eaPath":""}]}

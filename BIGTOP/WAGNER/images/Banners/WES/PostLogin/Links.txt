@@ -1,0 +1,15 @@
+{
+  "Banner":[
+	{
+		"IMG_NAME":"WES_After_Login_Banners_1",
+		"URL":"/media/ebook/wescat2020/"
+	},
+	{
+		"IMG_NAME":"WES_After_Login_Banners_2",
+		"URL":"product_list.aspx?&id=0&pcr=WES-10J&cid=WK-202004111058&tsb=&tsm=&searchstr=&type=Category&value=Personal+Protective+Equipment+PPE&bname=&byp=1&Path=K6WOvrM7yDGJsbKYFM1l%2b53cP8HUT0Dxg%2bPOAn2YvT0XoEFwPAuCXcRUB%2ftlD4u1"
+	},
+	{
+		"IMG_NAME":"WES_After_Login_Banners_3",
+		"URL":"product_list.aspx?&id=0&pcr=WES-05E&cid=UBIQUITI&tsb=&tsm=&searchstr=&type=Category&value=Ubiquiti&bname=&byp=0&Path=K6WOvrM7yDGJsbKYFM1l%2b53cP8HUT0Dxg%2bPOAn2YvT0MIR57wXzlJw7XrDMQVFfSeYOIYN2kI1k%3d"
+	}
+]}

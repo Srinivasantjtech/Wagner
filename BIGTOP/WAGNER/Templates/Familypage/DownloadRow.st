@@ -1,0 +1,1 @@
+$if(TBT_FAMILY_HEAD)$ <div class="title7">$TBT_FAMILY_NAME$</div>$endif$<table class="table table-bordered" width="760px"><thead><tr><th>Description</th><th>File</th><th>Size</th></tr></thead><tbody>$TBWDataList:{$it.TBWDataListItem$}$</tbody></table>

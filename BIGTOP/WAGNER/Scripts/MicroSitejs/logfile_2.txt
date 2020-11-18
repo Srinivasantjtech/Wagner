@@ -1,0 +1,14 @@
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:39753/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:41022/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:41372/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:41714/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:42051/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:42416/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+/scripts/micrositejs/jquery-1.10.2.min.js?v=8
+http://localhost:42416/scripts/micrositejs/jquery-1.10.2.min.js?v=8

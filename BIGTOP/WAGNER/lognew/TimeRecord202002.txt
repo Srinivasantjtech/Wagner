@@ -1,0 +1,2782 @@
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="131.42"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="128209"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-128209-10022348-3-YRMJZP2MYCYIQCFO"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 17:24:01.9567029
+Time        : 2/3/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="131.42"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="128209"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-128209-10023373-3-207S2KGMZ6KPEE3V"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 17:29:54.0317029
+Time        : 2/3/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="142.03"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="128209"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-128209-10023373-3-RYW1WAHESQTZOM3Q"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 17:38:04.0887029
+Time        : 2/3/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="152.65"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="128209"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-128209-10023373-3-IJJT1UO2304T1539"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 17:49:44.8717219
+Time        : 2/3/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="163.26"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="128209"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-128209-10023373-3-CXY3F4EW3RRC82VS"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 18:40:15.8586961
+Time        : 2/3/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="184.49"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="128209"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-128209-10023373-3-88PK3Z0XP78PKNNQ"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 14:03:19.7476230
+Time        : 2/4/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 18:08:37.7096876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 18:08:37.7306876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:08:37.7516876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 18:08:38.0596876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:08:38.0736876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 18:08:38.1376876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:08:38.1486876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 18:08:38.2056876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:08:38.2146876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 18:08:38.2776876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:08:38.2866876
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:44766458-e8c2-4dd3-a40b-41b2d6c863ac
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 18:08:57.2867849
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 18:39:54.3111217
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 18:39:54.3451211
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:39:54.4051199
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 18:39:54.6751145
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:39:54.6951141
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 18:39:54.7551129
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:39:54.7751125
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 18:39:54.8871107
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:39:54.8971105
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 18:39:54.9471095
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:39:54.9571093
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:e37548de-59af-4622-9673-a5cf030b885a
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 18:40:11.3058611
+Time        : 2/6/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 11:29:51.3103114
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:29:51.3727102
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 11:29:51.6379051
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:29:51.6847042
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 11:29:51.8407012
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:29:51.8407012
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 11:29:51.9498991
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:29:51.9498991
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 11:29:52.0122979
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:29:52.0590970
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:24ddd75a-f930-4000-9afa-69df49beaff2
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 11:30:08.6685946
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 12:12:30.6416544
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 12:12:30.6728538
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:12:30.7196529
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 12:12:30.7508523
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:12:30.7976514
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 12:12:30.8600502
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:12:30.8600502
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 12:12:30.9848478
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:12:30.9848478
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 12:12:31.0472466
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:12:31.0472466
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:506e3fe5-7938-4ebd-b175-e26ef6bb8872
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:15:05.9148913
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 13:21:01.2407289
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:21:01.2407289
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 13:21:01.5683226
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:21:01.5839223
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 13:21:01.6463211
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:21:01.6775205
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 13:21:01.7243196
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:21:01.7399193
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 13:43:19.2875359
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 13:43:19.3031356
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:43:19.3499347
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 13:43:19.6151296
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:43:19.6151296
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 13:43:19.6931281
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:43:19.7087278
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 13:43:19.7711266
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 13:43:19.7867263
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 15:18:35.1788367
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 15:18:35.1944364
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:18:35.2412355
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 15:18:35.5064304
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:18:35.5532295
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 15:18:35.6936268
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:18:35.6936268
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 15:18:35.7560256
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:18:35.7560256
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 15:25:01.6246728
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 15:25:01.6402725
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:25:01.6714719
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 15:25:01.9522665
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:25:01.9522665
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 15:25:02.0146653
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:25:02.0926638
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 15:25:02.1394629
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:25:02.1394629
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 16:09:14.5328749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 16:09:14.5468749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:09:14.5808749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 16:09:14.9028749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:09:14.9748749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 16:09:15.0248749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:09:15.0358749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 16:09:15.0898749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:09:15.1348749
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:4adb2cdf-a426-4a5d-9b62-76427858a2a9
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 16:13:30.2812909
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:4adb2cdf-a426-4a5d-9b62-76427858a2a9
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 16:13:55.8224181
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 16:33:11.5983422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 16:33:11.6173422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:33:11.6973422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 16:33:12.0473422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:33:12.1673422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 16:33:12.2573422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:33:12.2873422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 16:33:12.3363422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:33:12.3503422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:08feae85-30c6-48a3-9715-a78f94e4136f
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 16:39:15.7713422
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:40:15.4486915
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:40:15.4798909
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:40:15.8230843
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:40:15.8542837
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:40:15.9166825
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:40:15.9634816
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:40:16.0102807
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:40:16.0414801
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 17:40:16.0882792
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:40:16.1194786
+Time        : 2/7/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 16:15:32.7714970
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:15:32.7870967
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 16:15:33.0990907
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:15:33.1302901
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 16:15:33.2082886
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:15:33.2394880
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 16:15:33.2862871
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:15:33.3174865
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 16:15:33.3642856
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 16:15:33.3798853
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:07:59.5651425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 17:07:59.5761425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:07:59.6211425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:07:59.9221425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:07:59.9431425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:07:59.9981425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:08:00.0611425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:08:00.1071425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:08:00.1351425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 17:08:00.1961425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:08:00.2181425
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:0c9b1c27-a9e7-4670-aa71-5ced8bfa3a50
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 17:24:08.4061080
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:24:49.5286624
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:24:49.5598618
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:24:49.6378603
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:24:49.6690597
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:24:49.7002591
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:24:49.7158588
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:24:49.7626579
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:24:49.8094570
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 17:24:49.8562561
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:24:49.9498543
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 19:24:31.1799055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 19:24:31.2239055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 19:24:31.3779055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 19:24:32.0829055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 19:24:32.1259055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 19:24:32.1869055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 19:24:32.1979055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 19:24:32.2579055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 19:24:32.2819055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 19:24:32.3309055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 19:24:32.3659055
+Time        : 2/10/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 11:57:09.6531987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:57:09.9251987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 11:57:10.8901987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:57:10.9141987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 11:57:11.0031987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:57:11.0231987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 11:57:11.1011987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:57:11.1231987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 11:57:11.1901987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 11:57:11.2231987
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 12:34:42.3335784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:34:42.4025784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 12:34:42.7575784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:34:42.7855784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 12:34:42.8775784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:34:42.8935784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 12:34:42.9405784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:34:42.9695784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 12:34:43.0705784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:34:43.0845784
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 15:13:50.6031616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:13:50.6601616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 15:13:50.9401616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:13:50.9511616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 15:13:51.0101616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:13:51.0381616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 15:13:51.0951616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:13:51.1321616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 15:13:51.2011616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:13:51.2441616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 15:13:51.3101616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:13:51.3231616
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 15:16:17.5373580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 15:16:17.5533580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:16:17.5743580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 15:16:17.6193580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:16:17.6483580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 15:16:17.7713580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:16:17.7883580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 15:16:17.8553580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:16:17.8853580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 15:16:17.9303580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:16:17.9623580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13405
+Date        : 15:16:18.0133580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:16:18.0243580
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 15:35:00.2079502
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13405
+Date        : 15:35:00.2235499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:35:00.2435499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 15:35:00.4055499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:35:00.4405499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 15:35:00.5455499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:35:00.6235499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 15:35:00.7225499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:35:00.7825499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 15:35:00.8455499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:35:00.8565499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 15:35:00.9175499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 15:35:00.9325499
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:14:01.3725045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:14:01.3995045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:14:01.4775045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:14:01.5005045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:14:01.5475045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:14:01.5595045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:14:01.6085045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:14:01.6335045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 17:14:01.6835045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:14:01.6965045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13405
+Date        : 17:14:01.7455045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:14:01.7805045
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','0','190'
+Date        : 17:15:04.7832931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','0','190'
+Date        : 17:15:04.8002931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetBillingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7570
+Date        : 17:15:04.9612931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetShippingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7320
+Date        : 17:15:04.9802931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id0
+Date        : 17:15:05.1602931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:20:03.8382931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13405
+Date        : 17:20:03.8432931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:20:03.9022931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 17:20:03.9902931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:20:04.0042931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:20:04.0852931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:20:04.0962931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:20:04.2102931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:20:04.2582931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:20:04.3722931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:20:04.3812931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 17:20:04.4532931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:20:04.4892931
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:21:55.2434910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 17:21:55.2554910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:21:55.2894910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:21:55.3544910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:21:55.3984910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:21:55.4594910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:21:55.4734910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:21:55.5194910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:21:55.5504910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 17:21:55.5994910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:21:55.6234910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13405
+Date        : 17:21:55.6654910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:21:55.6944910
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','0','190'
+Date        : 17:23:16.4420907
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','0','190'
+Date        : 17:23:16.4470907
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetBillingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7571
+Date        : 17:23:16.5090907
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetShippingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7321
+Date        : 17:23:16.5300907
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id0
+Date        : 17:23:16.5850907
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:366de943-ed69-4cc7-9353-4b6af6e07efd
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 17:23:16.9970907
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 17:54:52.4784457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:54:52.5104457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7110
+Date        : 17:54:52.6104457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:54:52.6214457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13388
+Date        : 17:54:52.6684457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:54:52.7114457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 17:54:52.7614457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:54:52.7954457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue7980
+Date        : 17:54:52.8684457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:54:52.9014457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 17:54:52.9754457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 17:54:52.9874457
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023396','128209','150'
+Date        : 17:56:44.2388430
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023396','128209','150'
+Date        : 17:56:44.2448430
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:5c5240ff-16c5-464a-9a0c-e3a01b258cbe
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 17:57:52.9468430
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetBillingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7572
+Date        : 17:57:58.0834427
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetShippingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7322
+Date        : 17:57:58.0834427
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id0
+Date        : 17:57:58.0984427
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023397','130405','150'
+Date        : 18:02:13.3358077
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023397','130405','150'
+Date        : 18:02:13.3768077
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetBillingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7572
+Date        : 18:02:24.9738077
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at ExpressCheckout.GetShippingAddress(Int32 OrderID) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\WAGNER\ExpressCheckout.aspx.cs:line 7322
+Date        : 18:02:24.9878077
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id0
+Date        : 18:02:26.3368077
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:90166158-79c6-4c54-8f28-12f7fd5e9165
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 18:02:35.5238077
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023398','130406','150'
+Date        : 18:21:56.1606053
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023398','130406','150'
+Date        : 18:21:56.2086053
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023399','130407','150'
+Date        : 18:31:15.8289576
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023399','130407','150'
+Date        : 18:31:15.8499576
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id130407
+Date        : 18:31:49.9609576
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:8033dd2c-2691-4fb5-b881-7c054dd2bb7a
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 18:32:07.6259576
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023400','130408','150'
+Date        : 18:42:47.6737507
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023400','130408','150'
+Date        : 18:42:47.7107507
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id130408
+Date        : 18:43:13.4827507
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:8a7b1ea3-8676-4aa5-a811-5a8c66b80adf
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 18:43:13.6317507
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023401','130409','150'
+Date        : 19:07:47.2827507
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:0acb986e-5bbc-4fa9-bb92-d4f72bd55bea
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 19:08:01.9677507
+Time        : 2/11/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 10:01:30.5922650
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13472
+Date        : 10:01:30.6262650
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 10:01:30.6722650
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 10:04:43.5144648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 10:04:43.7584648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023402','130410','150'
+Date        : 10:06:47.0074648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023402','130410','150'
+Date        : 10:06:47.0514648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:3202324c-4d7f-4776-a222-c35529fa6cf3
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 10:06:51.0874648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023403','130411','150'
+Date        : 11:06:11.6334648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023403','130411','150'
+Date        : 11:06:11.6714648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:e1ceadaa-a4c9-4ab0-a20e-4706d1553227
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 11:06:15.8524648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 11:33:03.5934648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023404','130412','150'
+Date        : 11:33:04.7054648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023404','130412','150'
+Date        : 11:33:04.7554648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:e3bc420b-d6d4-44a1-a072-65b04a3fd6b5
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 11:33:07.7144648
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 16:59:58.7249752
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023405','130413','150'
+Date        : 17:00:06.5687752
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023405','130413','150'
+Date        : 17:00:06.5843752
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:92302ad1-0d28-4d8e-a191-c70f9934e1ec
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 17:01:05.4883894
+Time        : 2/12/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:24:29.9243512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:24:52.0263512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:25:06.5403512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:25:20.5763512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:25:24.7093512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 12:28:47.6333512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023406','130414','150'
+Date        : 12:28:51.4773512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023406','130414','150'
+Date        : 12:28:52.6223512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponseSUCCESS
+Date        : 12:29:05.9773512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130414,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 12:30:23.0783512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:1d7defd6-a440-41ba-88f5-8f22ebf56d1f
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:30:50.4143512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:38.7053512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:57.6453512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:01:11.9473512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:01:20.0623512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:01:25.5443512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 13:04:11.8843512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023407','130415','150'
+Date        : 13:04:13.2713512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023407','130415','150'
+Date        : 13:04:13.4693512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponseSUCCESS
+Date        : 13:04:16.1073512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130415,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 13:04:37.8373512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:0a3fbe8e-f67d-4544-a961-5056552953fa
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 13:04:42.0673512
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:40:16.9851618
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:40:36.9261557
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:40:46.1200750
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:40:54.7569386
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:41:00.3544983
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:2be0f419-04f7-4fa5-ab23-8ec461ca0ca0
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 13:53:55.8673427
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:06:24.6392990
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:07:14.5320090
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:07:23.9415849
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:07:28.1751618
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:12:11.8735466
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:17:22.4795761
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:17:56.0405649
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:20:00.2338219
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:20:27.0280212
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:20:45.7700212
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:20:55.6520212
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:21:06.4920212
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:21:33.6794178
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:21:37.8744178
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:23:08.3654178
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:26:08.7764178
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:34:19.8065871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:35:40.2725871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:36:23.5715871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:36:43.0965871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:37:31.6465871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:37:43.6615871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:37:57.8115871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:38:00.8395871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:39:24.9135871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:53:13.7895871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:54:34.2095871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:58:01.2585871
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:10:52.4002834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:11:10.7362834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:22:27.7372834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:22:43.3562834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:22:46.1262834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 17:23:32.4302834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023408','130416','150'
+Date        : 17:23:39.0542834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponseSUCCESS
+Date        : 17:23:45.5502834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130416,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 17:24:08.2462834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:3416f74f-4423-440e-b7ac-34d715ba8d52
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 17:24:09.9712834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:36:33.2012834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:36:50.1902834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:36:59.2002834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:37:08.2932834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:37:11.6762834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 17:38:23.3442834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023409','130417','150'
+Date        : 17:38:24.2822834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023409','130417','150'
+Date        : 17:38:24.7412834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponseSUCCESS
+Date        : 17:38:29.2232834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id130417
+Date        : 17:38:57.3442834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:eeeb7844-b260-400f-9285-765606121ed5
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 17:38:57.5242834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 19:11:44.2562834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 19:11:50.8092834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:11:59.3212834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:12:31.6262834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:14:25.0422834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:14:34.1002834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:14:37.5372834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 19:15:18.1512834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023410','130418','150'
+Date        : 19:15:19.0352834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023410','130418','150'
+Date        : 19:15:19.0432834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:15:33.1802834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130418,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 19:15:40.4392834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponseSUCCESS
+Date        : 19:15:47.6762834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : oOrderInfo status16
+Date        : 19:15:48.0332834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130418,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 19:16:09.3122834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1564
+ClientConnectionId:c1fe8d85-8d7e-4b4c-8bf5-cfcef2c3e3cd
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 19:16:11.0712834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:19:01.2782834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 19:19:08.0702834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 19:19:13.8152834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:19:22.0332834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:19:33.8062834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:19:36.8492834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 19:20:14.5152834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023411','130419','150'
+Date        : 19:20:15.2132834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023411','130419','150'
+Date        : 19:20:15.2282834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130419,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 19:20:36.4552834
+Time        : 2/13/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 13:30:58.8847086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 13:31:11.8377086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:31:23.6077086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:31:43.8857086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:32:09.8627086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:32:53.8267086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:32:57.9047086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 14:20:20.2977086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023412','130420','150'
+Date        : 14:20:21.8547086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023412','130420','150'
+Date        : 14:20:21.8547086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130420,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 14:20:43.5227086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 14:29:09.7277086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 14:29:17.2627086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:29:38.4687086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:30:08.8177086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:40:10.7497086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:40:29.8947086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:40:33.1547086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 14:41:32.0077086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023413','130421','150'
+Date        : 14:42:10.5587086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023413','130421','150'
+Date        : 14:42:10.6087086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130421,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 14:46:50.1947086
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 17:13:58.4720946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 17:14:39.8860946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:14:57.4220946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:15:25.0710946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:15:37.5550946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:15:47.3300946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 17:15:51.3180946
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:40:44.3984429
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:49:18.3107333
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:49:19.0126883
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:49:29.4346573
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:49:51.4846043
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:50:01.1425183
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:50:10.9758228
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:50:14.9943148
+Time        : 2/14/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 11:15:57.3036551
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 11:16:36.4541075
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:32:24.3960908
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:49:53.2820908
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:50:11.5020908
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:51:28.6350908
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 11:51:28.6620908
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:51:31.8430908
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 12:20:04.5655640
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 12:20:08.9197106
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:20:29.8640584
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:23:09.8262200
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:23:19.1701060
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:23:27.8728034
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 12:23:27.9462026
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:23:33.0503442
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 12:51:55.0842534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 12:52:01.1682534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:52:10.7242534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:52:43.4862534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:52:53.3722534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:53:03.9592534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 12:53:03.9812534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 12:53:07.2382534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 12:59:40.8162534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 12:59:45.4692534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:03.9922534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:21.1422534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:30.4242534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:38.9492534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 13:00:38.9762534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:00:41.9812534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:02:40.4062534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 13:53:20.1702534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 13:53:38.5382534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:53:48.5502534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:54:21.1822534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:54:31.2452534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:54:52.7192534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 13:54:52.7412534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:54:56.4982534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 13:56:22.8022534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023414','130422','150'
+Date        : 13:56:25.0672534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10023414','130422','150'
+Date        : 13:56:25.0762534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',130422,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 13:56:47.0602534
+Time        : 2/17/2020
+^^-------------------------------------------------------------------^^
+Method        : setsession_productpd.aspx?&pid=13115&fid=959876&cid=WES2105827N&path=w69oz9yt7nzLyCLCqK9wJzcf%2bCuhoudzTudtlFipxiP2KonpLX1vAJ2AayFoZKaJqK4bYIkLuC0ZsoJUQrWbMcPd5913VZjiqWIh0pxmOXc0PT9wUZ3K%2fyj6WLNpjpFvOFHjjppEd%2fpWYzUfQl%2fNpCv1pdwGgdpmPYUyoeDguGU%3d
+Date        : 15:56:09.9359714
+Time        : 2/24/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 13:33:03.5817218
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 13:33:13.5215820
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:33:26.5773579
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:34:35.0964211
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 13:34:35.1374211
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : inside check order exsist 132420
+Date        : 13:34:36.7563803
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 13:34:42.9672147
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 13:38:25.6920518
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_POP_PAYMENT_REQUEST_RESPONSE_BR 'Wagner-132420-10024412-3-QVKCMIN64U0JSVZ6','0','20202702133825000000+300',10024412,132420,-1,'','411111XXXXXXX111','','',3
+Date        : 13:53:09.0129610
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10024412','132420','150'
+Date        : 13:53:09.7529388
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '10024412','132420','150'
+Date        : 13:53:09.7729382
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id132420
+Date        : 14:12:07.6781267
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 14:19:06.8308254
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 14:19:18.9335020
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:19:40.9120256
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:34:52.2388690
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:39:30.8011563
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:39:41.7030399
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 14:39:41.8670384
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : inside check order exsist 132421
+Date        : 14:39:43.0740297
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:39:47.1269976
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:41:08.0260995
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 14:54:39.6170133
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:20:33.3151347
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:20:40.8870168
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:21:13.0615699
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:25:50.0026347
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:25:54.2399411
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:26:00.0159983
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:26:11.3439295
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:26:26.3101651
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:26:36.3791243
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:26:47.6304519
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 18:26:47.7084499
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:27:05.9841971
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:27:27.6904719
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 18:27:28.6142527
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:27:55.5777839
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:28:10.8318023
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 18:28:10.8630015
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:28:20.1519767
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 18:37:45.9962931
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Remove continue13115
+Date        : 18:37:46.0022931
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 18:37:46.0362931
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 18:37:51.1626675
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:38:00.7320331
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:38:08.8900363
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 18:38:08.9120363
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : inside check order exsist 132421
+Date        : 18:38:09.3820243
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:38:12.5679523
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 18:39:37.5035219
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_POP_PAYMENT_REQUEST_RESPONSE_BR 'Wagner-132421-10024414-3-6X4IZBSKZA7UNN84','0','20202702184024000000+300',10024414,132421,-1,'','411111XXXXXXX111','','',3
+Date        : 18:41:05.7618823
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 18:43:36.1881463
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:43:52.3969455
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="2123.00"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="132421"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-132421-10024414-3-HJG1Q3L81HTC3ZTB"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 18:45:23.6358367
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:01:49.1632007
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 19:04:13.7578035
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','132421','150'
+Date        : 19:04:22.6146015
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','132421','150'
+Date        : 19:04:22.6146015
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_POP_MAIL_LOG 3,'Review',132421,'','The parameter 'addresses' cannot be an empty string.
+Parameter name: addresses'
+Date        : 19:04:44.0466931
+Time        : 2/27/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:25:09.6079537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 11:30:54.3989537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : 58994
+Date        : 11:31:02.7989537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:31:19.9919537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:31:31.1159537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 11:31:31.1419537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : inside check order exsist 132422
+Date        : 11:31:31.5419537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:31:34.9429537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:31:56.1969537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:33:16.0679537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:34:25.7299537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:41:31.2539537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : <form id="PostForm" name="PostForm" action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="POST"><input type="hidden" name="cmd" value="_xclick"><input type="hidden" name="business" value="au1.testwes@gmail.com"><input type="hidden" name="item_name" value="Total Amount"><input type="hidden" name="amount" value="10.62"><input type="hidden" name="return" value="http://localhost:22930/expresscheckout.aspx?key=qkrM2qtHi2XO7ItjHbO2shcHTTBWxq0BMNnpkNBN%2bySEu4GTWaqImz%2bo7Tptyk2sMf0egHXq%2flaxx79x9LeXFqde6XMDsksM"><input type="hidden" name="invoice" value="132422"><input type="hidden" name="address_override" value="1"><input type="hidden" name="custom" value="Wagner-132422-10024415-3-LVEM4BRTBS0WLYQ7"><input type="hidden" name="rm" value="2"><input type="hidden" name="currency_code" value="AUD"><input type="hidden" name="first_name" value="Indumathi"><input type="hidden" name="last_name" value="NAGARAJAN"><input type="hidden" name="address1" value="sydney"><input type="hidden" name="address2" value=""><input type="hidden" name="city" value="Suburb  GH"><input type="hidden" name="state" value=" Australian Capital Territory"><input type="hidden" name="zip" value="2018"><input type="hidden" name="country" value="AU"><input type="hidden" name="email" value="indumathi@jtechindia.com"><input type="hidden" name="night_phone_b" value="12345678"></form><script language='javascript'>var vPostForm = document.PostForm;vPostForm.submit();</script>to open new page
+Date        : 11:41:32.1359537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:42:33.3839537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 11:44:47.4319537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','132422','150'
+Date        : 11:45:21.6929537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : Exec STP_TBWC_SEND_SIGNAL '0','132422','150'
+Date        : 11:45:22.4609537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : Order Amount is less than 25 for Order Id132422
+Date        : 11:45:59.8229537
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:23:40.4861525
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:24:30.7457358
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : 999
+Date        : 18:24:36.5874838
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:24:47.4226456
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:25:29.1405990
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:25:42.3732306
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:25:50.3922918
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : BtnL3Continue_Click
+Date        : 18:25:50.4172918
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : inside check order exsist 133420
+Date        : 18:25:51.1174624
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:25:54.3357371
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : paySPresponse
+Date        : 18:26:49.2917692
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 18:34:38.9048282
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^
+Method        : error fieldVisa
+Date        : 18:43:45.5312631
+Time        : 2/28/2020
+^^-------------------------------------------------------------------^^

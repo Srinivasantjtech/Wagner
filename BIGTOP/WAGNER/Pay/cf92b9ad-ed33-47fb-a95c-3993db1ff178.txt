@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SecurePayMessage><Status><statusCode>566</statusCode><statusDescription>txnType must be numeric.txnType must be no longer than 10 characters.amount must be numeric.</statusDescription></Status></SecurePayMessage>

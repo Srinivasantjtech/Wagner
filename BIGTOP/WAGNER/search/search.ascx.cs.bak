@@ -1,0 +1,599 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using TradingBell.WebCat;
+using TradingBell.WebCat.CatalogDB;
+using TradingBell.WebCat.Helpers;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+using TradingBell.WebCat.EasyAsk;
+using TradingBell.WebCat.TemplateRender;
+using TradingBell.WebCat.CommonServices;
+using System.Text.RegularExpressions;
+
+
+
+
+
+
+
+public partial class search_search : System.Web.UI.UserControl
+{
+    string _searchStr = string.Empty;
+    HelperServices objHelperServices = new HelperServices();
+    ErrorHandler objErrorHandler = new ErrorHandler();
+    ConnectionDB objConnectionDB = new ConnectionDB();
+    //SqlConnection oCon = new SqlConnection(ConfigurationManager.ConnectionStrings["TBWebCatShoppingCartConnString"].ToString());
+    SqlDataReader psrdr = null;
+    int iCatalogId;
+    string sCategoryId = string.Empty;
+    int iInventoryLevelCheck;
+    int iRecordsPerPage;
+    bool bIsStartOver;
+    string sSortBy = string.Empty;
+    bool bDoPaging;
+    int iPageNo = 1;
+    bool ExistStrChk = false;
+    string breadcrumb = string.Empty;
+    EasyAsk_WAGNER EasyAsk = new EasyAsk_WAGNER();
+    Security objSecurity = new Security();
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        //if ((Request.RawUrl.ToLower().Contains("_")))
+        //{
+        //    Search_PageLoad();
+        //}
+        //else
+        //{
+            Search_PageLoad_New();
+        //}
+        //LoadCatList();
+      
+        //ddlsubcategory_DataBound();
+    }
+
+    //private void Search_PageLoad()
+    //{
+    //    try
+    //    {
+    //        try
+    //        {
+
+    //            string rurl = Request.RawUrl.Replace("/ps.aspx?", "");
+    //            string dbq = HttpUtility.UrlDecode("%E2%80%9C");
+    //            string dbq1 = HttpUtility.UrlDecode("%E2%80%9D");
+    //            string dbq2 = HttpUtility.UrlDecode("%C3%98");
+    //            string dbq3 = HttpUtility.UrlDecode("%C3%98");
+    //            rurl = rurl.Replace('_', ' ').Replace(" / ", "~..~").Replace(" /", "~..").Replace("/ ", "..~").Replace("./.", ".~.");
+    //            string[] rurl1 = Regex.Split(rurl, "/");
+    //            rurl = rurl1[0].Replace("~..~", " / ").Replace("~..", " /").Replace("..~", "/ ").Replace(".~.", "/").Replace("%E2%80%9C", dbq).Replace("%E2%80%9D", dbq1)
+    //                .Replace("%C3%98", dbq2).Replace("%26","&").Replace("%23","#").Replace ("%2B","+").Replace( "%22","\"") ; 
+    //            try
+    //            {
+    //                if (Request.QueryString["ld"] != null && Request.QueryString["ld"].ToString() != "")
+    //                {
+    //                    Session["filter"] = null;
+    //                }
+    //            }
+    //            catch (Exception ex)
+    //            {
+
+    //            }
+
+    //            try
+    //            {
+                   
+    //                //if (Request.QueryString["src"] != null && Request.QueryString["src"].ToString() != "" && !IsPostBack)
+    //                //{
+    //                //    txtSearch.Text = HttpUtility.HtmlDecode(Request.QueryString["src"].ToString());
+
+    //                //}
+    //                //rurl.Length > 0 &&
+    //                if ( !IsPostBack)
+    //                {
+    //                    txtSearch.Text = rurl.ToString().Trim().Replace('_', ' ').Replace("%20", " ");
+    //                }
+    //            }
+    //            catch (Exception) { }
+
+
+    //            //if (Request.QueryString["srctext"] != null && Request.QueryString["srctext"].ToString() != "" && !IsPostBack)
+    //            //{
+    //            //    txtSearch.Text = HttpUtility.HtmlDecode(Request.QueryString["srctext"].ToString());
+
+    //            //}
+    //            //rurl.Length > 0 &&
+    //            if ( !IsPostBack)
+    //            {
+    //                txtSearch.Text = rurl.ToString().Replace('_', ' ').Replace("%20", " ").Trim();
+    //            }
+
+
+    //        }
+    //        catch (Exception ex)
+    //        {
+
+    //        }
+    //        GetStoreConfig();
+    //        GetPageConfig();
+    //        if (IsPostBack)
+    //        {
+    //            //this checking is used to ovoid unneccesary tasks if the user clicked clear button
+    //            if (hdnForClear.Value != "CLEAR")
+    //            {
+    //                //chkSearchWithin.Visible = true;
+    //                //Added by M/A on sep 27 09
+    //                Session["PS_SEARCH_STR"] = txtSearch.Text.Replace(' ', '_');
+    //                lblSearchError.Text = "";
+    //                //bIsStartOver = !chkSearchWithin.Checked;
+    //               // Session["PS_IS_START_OVER"] = chkSearchWithin.Checked ? "NO" : "YES";
+    //            }
+    //        }
+    //        else
+    //        {
+
+    //            if (txtSearch.Text != "")
+    //            {
+    //                //chkSearchWithin.Visible = false;
+    //                //Added by M/A on sep 27 09
+    //                Session["PS_SEARCH_STR"] = txtSearch.Text.Replace(' ', '_');
+    //                lblSearchError.Text = "";
+    //                //bIsStartOver = !chkSearchWithin.Checked;
+    //                //Session["PS_IS_START_OVER"] = chkSearchWithin.Checked ? "NO" : "YES";
+    //            }
+    //            else
+    //            {
+    //                Session["PS_SEARCH_STR"] = "";
+    //                //bIsStartOver = chkSearchWithin.Checked;
+    //                //Session["PS_IS_START_OVER"] = chkSearchWithin.Checked ? "NO" : "YES";
+    //                //chkSearchWithin.Visible = false;
+    //            }
+    //        }
+    //      // ExecutePowerSearch();
+    //    }
+    //    catch (Exception ex)
+    //    {
+    //        objErrorHandler.ErrorMsg = ex;
+    //        objErrorHandler.CreateLog();
+    //    }
+
+  //   txtSearch.Attributes.Add("onkeypress", "javascript:return blockspecialcharacters(event);");
+        
+    //}
+    private void Search_PageLoad_New()
+    {
+        try
+        {
+            try
+            {
+              
+                string rawurl = string.Empty;
+                if (Request.RawUrl.ToString().ToLower().Contains("ps.aspx?") && Request.RawUrl.ToString().ToLower().Contains("/ps/"))
+                {
+                    string[] rawurl1 = Request.RawUrl.ToString().Split(new string[] { "ps.aspx?" }, StringSplitOptions.None);
+                    rawurl = rawurl1[0];
+                }
+                else
+                {
+                    rawurl = Request.RawUrl.ToString().ToLower();
+                }
+               // string querystring = objHelperServices.URlStringReverse(rawurl);
+                string rurl = rawurl;
+                //string dbq = HttpUtility.UrlDecode("%E2%80%9C");
+                //string dbq1 = HttpUtility.UrlDecode("%E2%80%9D");
+                //string dbq2 = HttpUtility.UrlDecode("%C3%98");
+                //string dbq3 = HttpUtility.UrlDecode("%C3%98");
+                //rurl = rurl.Replace('_', ' ').Replace(" / ", "~..~").Replace(" /", "~..").Replace("/ ", "..~").Replace("`/`", ".~.");
+                string[] rurl1 = Regex.Split(rurl, "/");
+                if (!rurl.ToLower().Contains("/wa-"))
+                {
+                    Array.Reverse(rurl1);
+                    rurl = rurl1[2].Replace("~~", "/").Replace("-", " ");
+                }
+                else
+
+                {
+
+                    rurl = rurl1[1].Replace("~~", "/").Replace("-", " ");
+                }
+                //.Replace("~..~", " / ").Replace("~..", " /").Replace("..~", "/ ").Replace(".~.", "/").Replace("%E2%80%9C", dbq).Replace("%E2%80%9D", dbq1)
+                //    .Replace("%C3%98", dbq2).Replace("%26","&").Replace("%23","#").Replace ("%2B","+").Replace( "%22","\"") ; 
+                try
+                {
+                    if (Request.QueryString["ld"] != null && Request.QueryString["ld"].ToString() != "")
+                    {
+                        Session["filter"] = null;
+                    }
+                }
+                catch (Exception ex)
+                {
+
+                }
+
+                try
+                {
+
+                    //if (Request.QueryString["src"] != null && Request.QueryString["src"].ToString() != "" && !IsPostBack)
+                    //{
+                    //    txtSearch.Text = HttpUtility.HtmlDecode(Request.QueryString["src"].ToString());
+
+                    //}
+                    //rurl.Length > 0 &&
+                    if (!IsPostBack)
+                    {
+                        //if (rurl1[1].Contains("-"))
+                        //{
+                            if (HttpContext.Current.Session["CurrSearch"] != null)
+                            {
+                                string _searchstr = HttpContext.Current.Session["CurrSearch"].ToString();
+                                txtSearch.Text = _searchstr;
+                                //string[] checkifsameurl = rurl.Split('-');
+                                //if (_searchstr.Contains(checkifsameurl[0]) == false)
+                                //{
+
+                                //    _searchstr = rurl.ToString().Trim().Replace("-", " ");
+                                //}
+                            }
+                            else
+                            {
+                                txtSearch.Text = rurl.ToString().Trim();
+                            }
+                        //}
+                        //else
+                        //{
+
+                        //    txtSearch.Text = rurl.ToString().Trim();
+
+                        //}
+                    }
+                }
+                catch (Exception) { }
+
+
+                //if (Request.QueryString["srctext"] != null && Request.QueryString["srctext"].ToString() != "" && !IsPostBack)
+                //{
+                //    txtSearch.Text = HttpUtility.HtmlDecode(Request.QueryString["srctext"].ToString());
+
+                //}
+                //rurl.Length > 0 &&
+                //if (!IsPostBack)
+                //{
+                //    txtSearch.Text = rurl.ToString().Replace('_', ' ').Replace("%20", " ").Trim();
+                //}
+
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+            GetStoreConfig();
+            GetPageConfig();
+            //if (IsPostBack)
+            //{
+            //    //this checking is used to ovoid unneccesary tasks if the user clicked clear button
+            //    if (hdnForClear.Value != "CLEAR")
+            //    {
+            //        //chkSearchWithin.Visible = true;
+            //        //Added by M/A on sep 27 09
+            //        Session["PS_SEARCH_STR"] = txtSearch.Text.Replace(' ', '_');
+            //        lblSearchError.Text = "";
+            //        //bIsStartOver = !chkSearchWithin.Checked;
+            //        // Session["PS_IS_START_OVER"] = chkSearchWithin.Checked ? "NO" : "YES";
+            //    }
+            //}
+            //else
+            //{
+
+            //    if (txtSearch.Text != "")
+            //    {
+            //        //chkSearchWithin.Visible = false;
+            //        //Added by M/A on sep 27 09
+            //        Session["PS_SEARCH_STR"] = txtSearch.Text.Replace(' ', '_');
+            //        lblSearchError.Text = "";
+            //        //bIsStartOver = !chkSearchWithin.Checked;
+            //        //Session["PS_IS_START_OVER"] = chkSearchWithin.Checked ? "NO" : "YES";
+            //    }
+            //    else
+            //    {
+            //        Session["PS_SEARCH_STR"] = "";
+            //        //bIsStartOver = chkSearchWithin.Checked;
+            //        //Session["PS_IS_START_OVER"] = chkSearchWithin.Checked ? "NO" : "YES";
+            //        //chkSearchWithin.Visible = false;
+            //    }
+            //}
+            if ((txtSearch.Text == "~fl~") || (txtSearch.Text == "~pl~") || (txtSearch.Text == "~ps~") || (txtSearch.Text == "~ct~") || (txtSearch.Text == "~pd~") || (txtSearch.Text == "~bb~") || (txtSearch.Text == "~bk~") || (txtSearch.Text == "~bp~"))
+            {
+                txtSearch.Text = txtSearch.Text.Replace("~", "");
+            }
+            // ExecutePowerSearch();
+        }
+        catch (Exception ex)
+        {
+            objErrorHandler.ErrorMsg = ex;
+            objErrorHandler.CreateLog();
+        }
+
+     //   txtSearch.Attributes.Add("onkeypress", "javascript:return blockspecialcharacters(event);");
+    }
+
+
+ 
+   
+
+    //private void ExecutePowerSearch()
+    //{
+    //    try
+    //    {
+    //        //oCon.Open();
+    //       // PowerSearch ps = new PowerSearch(oCon);
+    //        PowerSearchServices ps = new PowerSearchServices();
+    //        ps.USER_SESSION_ID = Session.SessionID;
+    //        ps.CATALOG_ID = iCatalogId;
+    //        ps.CATEGORY_ID = sCategoryId;
+    //        ps.CATEGORY_ID = "";
+    //        if (!IsPostBack)
+    //            if (Request.QueryString["cyid"] != null)
+    //            {
+    //                if (Request.QueryString["cyid"].ToString().Length > 0)
+    //                {
+    //                    ps.CATEGORY_ID = Request.QueryString["cyid"].ToString();
+    //                }
+    //            }
+    //            else if (Request.QueryString["cid"] != null)
+    //            {
+    //                if (Request.QueryString["cid"].ToString().Length > 0)
+    //                {
+    //                    ps.CATEGORY_ID = Request.QueryString["cid"].ToString();
+    //                }
+    //            }
+    //        ps.SEARCH_STR = Session["PS_SEARCH_STR"].ToString();
+    //        ps.FILTER_STR = "";
+    //        ps.INVENTORY_CHECK = iInventoryLevelCheck;
+    //        ps.USE_PARAMETRIC_FILTER = false;
+    //        ps.IS_START_OVER = bIsStartOver;
+    //        Session["PS_SEARCH_RESULTS"] = Convert.ToString(ps.ExecutePowerSearch());
+
+    //        if (Request.QueryString["cyid"] != null)
+    //        {
+    //            if (Request.QueryString["cyid"].ToString().Length > 0)
+    //            {
+    //                ps.CATEGORY_ID = Request.QueryString["cyid"].ToString();
+    //                Session["PS_SEARCH_RESULTS"] = Convert.ToString(ps.ExecutePowerSearch());
+    //            }
+    //        }
+    //    }
+    //    catch (Exception ex)
+    //    {
+    //        objErrorHandler.ErrorMsg = ex;
+    //        objErrorHandler.CreateLog();
+    //    }
+    //    finally
+    //    {
+    //        //if (oCon != null)
+    //        //{
+    //        //    oCon.Close();
+    //        //}
+    //    }
+    //}
+
+    //public string Bread_Crumbs()
+    //{
+    //    string breadcrumb = "", paraPID = "", paraFID = "", paraCID = "";
+    //    if (Request.QueryString["pid"] != "null")
+    //    {
+    //        paraPID = Request.QueryString["pid"].ToString();
+    //    }
+    //    if (Request.QueryString["fid"] != "null")
+    //        paraFID = Request.QueryString["pid"].ToString();
+    //    if (Request.QueryString["cid"] != null)
+    //        paraCID = Request.QueryString["cid"].ToString();
+
+    //    if (paraPID != "")
+    //    {
+    //        DataSet DSBC = null;
+
+    //        DSBC = GetDataSet("SELECT String_value FROM TB_prod_specs WHERE product_ID = " + paraPID + "and attribute_id=1");
+    //        foreach (DataRow DR in DSBC.Tables[0].Rows)
+    //        {
+    //            breadcrumb = DR[0].ToString();
+    //        }
+    //        if (paraFID != "")
+    //        {
+    //            string catIDtemp = "";
+    //            DSBC = GetDataSet("SELECT family_name,category_id FROM TB_family WHERE family_ID = " + paraFID);
+    //            foreach (DataRow DR in DSBC.Tables[0].Rows)
+    //            {
+    //                breadcrumb = DR[0].ToString() + " / " + breadcrumb;
+    //                catIDtemp = DR[1].ToString();
+    //            }
+    //            do
+    //            {
+    //                DSBC = GetDataSet("SELECT CATEGORY_NAME,PARENT_CATEGORY,CATEGORY_ID FROM TB_CATEGORY WHERE CATEGORY_ID = '" + catIDtemp + "'");
+    //                foreach (DataRow DR in DSBC.Tables[0].Rows)
+    //                {
+    //                    breadcrumb = DR["CATEGORY_NAME"].ToString() + " / " + breadcrumb;
+    //                    catIDtemp = DR["PARENT_CATEGORY"].ToString();
+    //                }
+    //            } while (DSBC.Tables[0].Rows[0].ItemArray[1].ToString() != "0");
+    //        }
+    //    }
+    //    else if (paraFID != "")
+    //    {
+    //        DataSet DSBC = null;
+    //        string catIDtemp = "";
+    //        DSBC = GetDataSet("SELECT family_NAME,category_id FROM TB_family WHERE family_ID = " + paraFID);
+    //        foreach (DataRow DR in DSBC.Tables[0].Rows)
+    //        {
+    //            breadcrumb = DR[0].ToString();
+    //            catIDtemp = DR[1].ToString();
+    //        }
+    //        do
+    //        {
+    //            DSBC = GetDataSet("SELECT CATEGORY_NAME,PARENT_CATEGORY,CATEGORY_ID FROM TB_CATEGORY WHERE CATEGORY_ID = '" + catIDtemp + "'");
+    //            foreach (DataRow DR in DSBC.Tables[0].Rows)
+    //            {
+    //                breadcrumb = DR["CATEGORY_NAME"].ToString() + " / " + breadcrumb;
+    //                catIDtemp = DR["PARENT_CATEGORY"].ToString();
+    //            }
+    //        } while (DSBC.Tables[0].Rows[0].ItemArray[1].ToString() != "0");
+    //    }
+    //    else if (paraCID != "")
+    //    {
+    //        DataSet DSBC = null;
+    //        string catIDtemp = paraCID;
+    //        do
+    //        {
+    //            DSBC = GetDataSet("SELECT CATEGORY_NAME,PARENT_CATEGORY,CATEGORY_ID FROM TB_CATEGORY WHERE CATEGORY_ID = '" + catIDtemp + "'");
+    //            foreach (DataRow DR in DSBC.Tables[0].Rows)
+    //            {
+    //                if (breadcrumb == "")
+    //                    breadcrumb = DR["CATEGORY_NAME"].ToString();
+    //                else
+    //                    breadcrumb = DR["CATEGORY_NAME"].ToString() + " / " + breadcrumb;
+    //                catIDtemp = DR["PARENT_CATEGORY"].ToString();
+    //            }
+    //        } while (DSBC.Tables[0].Rows[0].ItemArray[1].ToString() != "0");
+    //    }
+    //    return breadcrumb;
+    //}
+
+    //private DataSet GetDataSet(string SQLQuery)
+    //{
+    //    DataSet ds = new DataSet();
+    //    SqlDataAdapter da = new SqlDataAdapter(SQLQuery, oCon.ConnectionString.Substring(oCon.ConnectionString.IndexOf(';') + 1));
+    //    da.Fill(ds, "generictable");
+    //    return ds;
+    //}
+    private void GetStoreConfig()
+    {
+        try
+        {
+            //Modify and develop a generic method to get these vars from store config table
+            //iCatalogId = Convert.ToInt32(Session["CATALOG_ID"].ToString());
+            //iInventoryLevelCheck = Convert.ToInt32(Session["INVENTORY_LEVEL_CHECK"].ToString());
+
+        }
+        catch (Exception ex)
+        {
+            objErrorHandler.ErrorMsg = ex;
+            objErrorHandler.CreateLog();
+        }
+    }
+
+    private void GetPageConfig()
+    {
+        try
+        {
+            //Changes this to get from page settings
+            //iRecordsPerPage = Convert.ToInt32(Session["RECORDS_PER_PAGE"].ToString());
+
+            //if (HidItemPage.Value.ToString() == string.Empty || HidItemPage.Value.ToString() == null)
+            //{
+            //    if (Session["RECORDS_PER_PAGE_POWERSEARCH"] != null)
+            //        iRecordsPerPage = Convert.ToInt32(Session["RECORDS_PER_PAGE_POWERSEARCH"].ToString());
+            //}
+            //else
+            //{
+            //    iRecordsPerPage = Convert.ToInt32(HidItemPage.Value.ToString());
+            //    Session["RECORDS_PER_PAGE_POWERSEARCH"] = HidItemPage.Value.ToString();
+            //}
+            //bDoPaging = Convert.ToBoolean(Session["DO_PAGING"].ToString());
+            //iPageNo = 1;
+            //sSortBy = "";
+            //iCatalogId = Convert.ToInt32(Session["CATALOG_ID"].ToString());
+        }
+        catch (Exception ex)
+        {
+            objErrorHandler.ErrorMsg = ex;
+            objErrorHandler.CreateLog();
+        }
+    }
+
+    protected void btnsearch_Click(object sender, EventArgs e)
+    {
+        try
+        {
+
+            if (txtSearch.Text.Trim() != "")
+            {
+                //Response.Redirect("ps.aspx?&srctext=" + txtsearchhidden.Value.ToString().Replace("#", "%23").Replace("&", "%26"), true);
+                string strsearch = txtSearch.Text;
+                //if (strsearch.Contains("_/_") == false && strsearch.Contains("_/") == false || strsearch.Contains("/_") == false)
+                //{
+                //    strsearch = strsearch.Replace("/", "`/`");
+
+
+                //}
+                //if ((strsearch == "fl") || (strsearch == "pl") || (strsearch == "ps") || (strsearch == "ct") || (strsearch == "pd") || (strsearch == "bb"))
+                //{
+                //    strsearch = strsearch + "~";
+                //}
+                string strvalue = objHelperServices.SimpleURL_Str(strsearch, "ps.aspx",false);
+
+                if (strvalue.Contains("-"))
+                {
+                    HttpContext.Current.Session["CurrSearch"] = strsearch;
+                }
+
+                Response.Redirect("/"+ strvalue + "/ps/");
+            }
+            else
+            {
+                brnClear_Click(sender, e);
+            }
+        }
+        catch (System.Threading.ThreadAbortException)
+        {
+            // ignore it
+        }
+        catch (Exception ex)
+        {
+            objErrorHandler.ErrorMsg = ex;
+            objErrorHandler.CreateLog();
+        }
+    }
+
+    protected void brnClear_Click(object sender, EventArgs e)
+    {
+        try
+        {
+            //clearing search result
+            txtSearch.Text = "";
+            //oCon.Open();
+            PowerSearchServices ps = new PowerSearchServices();
+            ps.USER_SESSION_ID = Session.SessionID;
+            int iNoOfEffectedRecords = ps.ClearSearchResults();
+            hdnForClear.Value = "";
+            //Response.Redirect("ps.aspx?&srctext=");
+            Response.Redirect("ps.aspx?");
+        }
+        catch (System.Threading.ThreadAbortException)
+        {
+            // ignore it
+        }
+        catch (Exception ex)
+        {
+            objErrorHandler.ErrorMsg = ex;
+            objErrorHandler.CreateLog();
+        }
+    }
+    //public string Bread_Crumbs()
+    //{
+
+    //    breadcrumb = EasyAsk.GetBreadCrumb(Server.MapPath("Templates"));
+    //    return breadcrumb;
+    //}
+    public string Spell_Correction()
+    {
+        string SpellCorrection = "";
+        if (HttpContext.Current.Session["Spell_Correction"] != null || HttpContext.Current.Session["Spell_Correction"] == "")
+        {
+            SpellCorrection = "<div class='alert yellowbox icon_4' style='background-color:#FFD52B' >" + HttpContext.Current.Session["Spell_Correction"].ToString() + "</div>";
+        }
+        return SpellCorrection;
+    }
+}

@@ -1,0 +1,1 @@
+<table><tr><td>$browserby$</td></tr><tr><td>$advertisement$</td></tr></table>

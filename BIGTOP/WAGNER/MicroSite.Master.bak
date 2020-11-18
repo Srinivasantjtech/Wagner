@@ -1,0 +1,820 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MicroSite.master.cs" Inherits="WES.MicroSite" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%
+    // Response.Buffer = true;
+%>
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+
+<head id="Head1" runat="server">
+      <asp:ContentPlaceHolder ID="metatag" runat="server">
+    </asp:ContentPlaceHolder>
+<link rel="publisher" href="https://plus.google.com/116358396388718801562"/>
+<link rel="search" type="application/opensearchdescription+xml" title="Wagner Online Store" href="/opensearch.xml" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link id="SeoTag" rel="canonical" href="https://www.wagneronline.com.au/" runat="server" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1.0">
+<link rel="icon" HREF="/images/favicon.ico" type="image/MicroSiteimages/x-icon"/>
+<link rel="/images/apple-touch-icon" href="/images/apple-touch-icon.png"/>
+<title>Wagner</title>
+
+<meta name="keywords" content="Wagner"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<%-- new code start--%>
+
+<script type="text/javascript" src="/Scripts/MicroSitejs/jquery-1.10.2.min.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>"></script>
+<%--    <script src="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>scripts/jquery-1.11.1.js" type="text/javascript"></script>--%>
+<link rel="Stylesheet" href="/css/MicroSitecss/mobile/css/main1.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" media="only screen and (max-width:767px)" />
+<link rel="Stylesheet" href="/css/MicroSitecss/bootstrap.min.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" />
+ 
+<script type="text/javascript">
+    function OnclickTab_Top(Attribute) {
+
+        var elem = document.getElementById(Attribute);
+        var defValue = elem.value;
+
+        document.getElementById("hfclickedattr_top").value = defValue;
+
+        $.ajax({
+            type: "POST",
+            url: "/mpl.aspx/Assignds",
+            data: "{'strvalue':'" + defValue + "'}",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                if (data.d != "") {
+
+
+
+                }
+            },
+            error: function (xhr, status, error) {
+
+                // var err = eval("(" + xhr.responseText + ")");
+            }
+        })
+
+
+
+    };
+
+    //function mhomehref(href) {
+    //    window.location.href = href;
+    //}
+
+</script>
+ <%--<script  type="text/javascript" src="/Scripts/MicroSitejs/mobile/js/modernizr.js"></script> --%>
+
+<%-- new code end--%>
+
+<%--<link rel="Stylesheet" href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>css/MicroSitecss/normalize.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" />
+<link href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>css/MicroSitecss/style.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" rel="stylesheet" type="text/css" />
+
+<link href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>css/MicroSitecss/Dynamicstyle.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" rel="stylesheet" type="text/css" />
+    
+--%>
+<link rel="stylesheet" type="text/css"  href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>css/animate.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>"   media="screen"/>
+<script type="text/javascript" src="/scripts/animate_on_scroll.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>"></script>
+
+<asp:ContentPlaceHolder id="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+
+<body id="shopping_cart" style="" class="logged-out modern">
+ 
+    <form id="form1" runat="server">
+
+      <%--      <asp:ScriptManager ID="ScriptManager1" runat="server"  EnablePageMethods="true"  ScriptMode="Release" EnablePartialRendering="false" >
+    </asp:ScriptManager>--%>
+     <%  
+     
+  if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mct.aspx") == true)
+    {
+            contactmenu="";
+            aboutmenu="";
+            homemenu="active_menu";
+            contactmenu_m="";
+            aboutmenu_m="";
+            homemenu_m="green_bg";
+            activemenu_faq = "";
+            activemenu_cl = "";
+    }
+    else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("maboutus.aspx") == true)
+    {
+            contactmenu="";
+            aboutmenu="active_menu";
+            homemenu="";
+             contactmenu_m="";
+            aboutmenu_m="green_bg";
+            homemenu_m="";
+            activemenu_faq = "";
+            activemenu_cl = "";
+    }
+    else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mcontactus.aspx") == true)
+    {
+            contactmenu="active_menu";
+            aboutmenu="";
+            homemenu="";
+             contactmenu_m="green_bg";
+            aboutmenu_m="";
+            homemenu_m="";
+            activemenu_faq = "";
+            activemenu_cl = "";
+    }
+  else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mfaq.aspx") == true )
+  {
+      activemenu_faq = "active_menu";
+  }
+  else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mchannellist.aspx") == true)
+  {
+      activemenu_cl = "active_menu";
+  }
+
+    %>
+          <%GetSupplierdetail(); %>
+      <%=GetCheckoutURL() %>
+          <%=ST_Top_Cart_item() %>
+        
+  
+
+    <!--<![endif]-->
+<!-- mobile view starts -->
+<div class="hidden-lg visible-xs ">
+   <div id="page_view">
+    <header>
+      <div class="container padding_left_right_mob">
+        <div class="logo" >
+            <div>
+             <a href="<%=micrositeurl%>" class="<%=homemenu_m %>" style="display: block; z-index: 9999; width: 100%; height: 100%;background:transparent  !important;">
+      <%--  <div></div>--%>
+          <%--<div> <img src='' alt="" class="print" /><span>JB Hi-Fi</span> </div>--%>
+          </a>
+            </div>
+        </div>
+        <nav role="navigation">
+          <ul id="main_menu" >
+              <% 
+                  
+                  string mobsuppcontact = "";
+
+                  if (strsupplierId == "SPF-CYP")
+                  {
+                      mobsuppcontact = "cypconverters";
+                  }
+                  else if (strsupplierId == "SPF-EWO")
+                  {
+                      mobsuppcontact = "electrical-wholesalers-online";
+                  }
+                  else if (strsupplierId == "SPF-VIPVISION")
+                  {
+                      mobsuppcontact = "vip-vision";
+                  }
+                  else if (strsupplierId == "SPF-REEL")
+                  {
+                      mobsuppcontact = "reelplay-tv-australia";
+                  }
+                  else
+                  {
+                      mobsuppcontact = "wagner";
+                  }
+                  
+                  if (strsupplierId == string.Empty)
+                  {
+                      GetSupplierdetail();
+                  }
+                  if (strsupplierId == "SPF-REEL")
+               { %>
+            <li class="products"  id="Mproducts" ><a>Products</a></li>
+            <li class="stores" id="MAccount"> <a><span class="bp bp2 bp3 bp4">Stores</span><span class="bp bp1">Account</span></a></li>
+              <li id="mprofile" class="profile"><a><span class="bp bp2 bp3 bp4">Profile</span><span class="bp bp1">Profile</span></a></li>
+              <li id="mch_list" class="ch_list"><a><span class="bp bp2 bp3 bp4">Channels</span><span class="bp bp1">More</span></a></li>
+             <li class="cart" id="MCart"> <a onclick="return fasle;"><span id="Span1"><%=CartCount_mobile %></span><span class="mob_cart_item">Cart Items</span></a> </li>
+              <% } else
+                 { %>
+            <li class="products"  id="Li1" ><a onclick="return fasle;">Products</a></li>
+            <li class="stores" id="Li2"> <a onclick="return fasle;"><span class="bp bp2 bp3 bp4">Stores</span><span class="bp bp1">Account</span></a></li>
+            <li class="giftcards <%=aboutmenu_m   %>"  id="MAboutus">
+              <%--  <a href="/maboutus.aspx?cid=<%=strsupplierId %>"><span class="bp bp1">About us</span></a>--%>
+                  <a href="/<%=mobsuppcontact %>/about/"><span class="bp bp1">About us</span></a>
+            </li>
+            <li class="account <%=contactmenu_m %>" id="MContact" > 
+                <%--<a href="/mcontactus.aspx?cid=<%=strsupplierId %>">Contact</a>--%>
+                <a href="/<%=mobsuppcontact %>/contact/">Contact</a>
+
+            </li>
+            <li class="cart" id="Li3"> <a onclick="return fasle;"><span id="itemsCountmobile"><%=CartCount_mobile %></span><span class="mob_cart_item">Cart Items</span></a> </li>
+              <%} %>
+          </ul>
+          <div id="products_menu">
+            <div>
+                <h2>Products</h2>
+                   <%=ST_TOP_CategoryMenuMobile()%>
+            </div>    
+
+          </div>
+          <div id="my_account">
+            
+            <div>
+           
+            <% if (HttpContext.Current.Session["USER_ID"] != "" && Convert.ToInt32(HttpContext.Current.Session["USER_ID"].ToString()) > 0 && HttpContext.Current.Session["USER_ID"].ToString() != "999")
+          {
+
+              string username1 = HttpContext.Current.Session["USER_NAME"].ToString();
+         
+              %>
+
+              <h2>Hi <%=username1 %></h2>
+              <%
+           }
+         %>
+              <ul>
+                  <%  if (System.Web.HttpContext.Current.Session["USER_ID"] != null && System.Web.HttpContext.Current.Session["USER_ID"].ToString() != "" && Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) > 0 && Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) != 999)
+             {
+ %>
+                <li class="clear"><a href="/mmyaccount.aspx">
+               <%-- <img src="/images/micrositeimages/myaccount_w.png" 
+                class="margin_right">--%>
+                <img class="margin_right sprite sprite-myaccount" alt=""  /> 
+                My Account</a></li>
+                <%} %>
+                <li><a href="<%=Orderdet_URL %>">
+            <%--    <img src="/images/micrositeimages/top_cart_w.png" class="margin_right">--%>
+                    <img class="margin_right sprite sprite-topcart" alt="" />
+                My Cart	</a></li>
+                <li><a href="<%=Checkout_URL %>"><img  class="margin_right sprite sprite-checkout" alt="" />Checkout</a></li>
+               <%--   <li><a href="/mlogin.aspx?status=Login"><img src="/images/micrositeimages/top_login_w.png" class="margin_right">Register / Login</a></li>--%>
+                <%--<li><a href="/Logout.aspx?status=Microsite"><img src="/images/micrositeimages/top_login_w.png" class="margin_right">Logout</a></li>--%>
+              </ul>
+                 <%  if (System.Web.HttpContext.Current.Session["USER_ID"] == null || System.Web.HttpContext.Current.Session["USER_ID"].ToString() == "" || Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) == 0 || Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) == 999)
+             {
+ %>
+               <a href="/mlogin.aspx?status=Login" class="btn padding_none" id="menu_login_lbtnLogout"><span>Register / Login</span></a> 
+                <% }
+                else
+                {
+                 %>
+                     <a   href="/Logout.aspx?status=Microsite" class="btn padding_none" id="A1"><span>Logout</span></a> 
+                 <%} %>
+
+             
+              </div>
+          </div>
+          <div id="cart">
+          
+             <%=Cartdetail_mobile%>  
+          </div>
+             <% if (strsupplierId == "SPF-REEL")
+               { %>
+            <div id="profile" >
+            
+            <div>
+              <div class="inner_profile">
+              	<a href="/reelplay-tv-australia/about/" class="pro_about btn">About Us</a>
+                <a href="/reelplay-tv-australia/contact/" class="pro_contact btn">Contact Us</a>
+              </div>
+           </div>
+           
+          </div>
+            <div id="ch_list" >
+            
+            <div>
+              <div class="inner_profile">
+              <%--	<a href="/reelplay-tv-australia/channellist/" class="channel btn">Channel List</a>--%>
+                <a href="/the-loudspeaker-kit/faq/" class="ch_faq btn">Faq</a>
+              </div>
+           </div>
+           
+          </div>
+            <% } 
+             %>
+        </nav>
+        
+      </div>
+    </header>
+  </div>
+</div>
+<div class="hidden-xs visible-lg visible-sm visible-md ">
+<!-- mobile view ends -->
+<div class="navbar navbar-default header_top" id="topnavbar">
+  <div class="container">
+    <div class="row">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      </div>
+      <div class=" navbar-collapse collapse" id="navbar">
+        <ul class="nav navbar-nav top_menu">
+      <li><a href="<%=micrositeurl%>"><%=GetSupplierName()%> Wagner Online Store</a></li>
+      </ul>
+              <ul class="nav navbar-nav navbar-right top_menu">
+       <% if (HttpContext.Current.Session["USER_ID"] != "" && Convert.ToInt32(HttpContext.Current.Session["USER_ID"].ToString()) > 0 && HttpContext.Current.Session["USER_ID"].ToString() != "999")
+          {
+
+              string username = HttpContext.Current.Session["USER_NAME"].ToString();
+         
+              %>
+       <%-- <div class=" text-center col-lg-5"></div>--%>
+         <li><a class="pull-left header_top_mob_menu" href="#" >Welcome   <%= username%></a> <span class="mob-hidden">|</span> </li>
+<%
+           }
+         %>
+
+                <%  if (System.Web.HttpContext.Current.Session["USER_ID"] != null && System.Web.HttpContext.Current.Session["USER_ID"].ToString() != "" && Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) > 0 && Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) != 999)
+             {
+ %>
+         <li><a class="pull-left header_top_mob_menu" href="/mmyaccount.aspx">
+        
+                                                      <img src="/images/micrositeimages/myaccount.png" alt="myaccount" class="top_left margin_right top_left margin_bottom_none"/>
+                                                   
+                                                    My account</a> <span class="mob-hidden">|</span> </li>
+          <%
+             } %>
+      
+          <li><a class="pull-left header_top_mob_menu" href="<%=Orderdet_URL %>" 
+          id="CartMyCart" >
+        <%--  <p class="top_left margin_right top_left margin_bottom_none">--%>
+          <%-- src="/images/micrositeimages/top_cart.png" --%>
+          <img class="pull-left margin_right sprite sprite-topcart"   alt=""         
+          />
+         <%-- </p>--%>
+          My cart</a> <span class="mob-hidden">|</span> </li>
+          <li><a class="pull-left header_top_mob_menu" 
+          href="<%=Checkout_URL %>" id="CartCheckOut" >
+         <%-- <p class="top_left margin_right top_left margin_bottom_none">--%>
+          
+      <%--    src="/images/micrositeimages/top_checkout.png"--%>
+          <img class="pull-left margin_right sprite sprite-checkout"  alt=""  />
+       <%--   </p>--%>
+          Checkout</a> <span class="mob-hidden">|</span> </li>
+              <%  if (System.Web.HttpContext.Current.Session["USER_ID"] == null || System.Web.HttpContext.Current.Session["USER_ID"].ToString() == "" || Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) == 0 || Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) == 999)
+             {
+ %>
+          <li ><a class="pull-left header_top_mob_menu" 
+          href="/mlogin.aspx?status=Login">
+        <%--  <p class="top_left margin_right top_left margin_bottom_none">--%>
+            <%-- src="/images/micrositeimages/top_login.png" --%>
+          <img class="pull-left margin_right sprite sprite-login"        
+          alt="" />
+    <%--      </p> --%>
+          Register / Login</a> <%--<span class="mob-hidden">|</span> --%></li>
+       <%--   <li><a href="/mlogin.aspx?status=Login">Login</a></li>--%>
+        <%
+             } 
+                  else
+                  {
+            %>
+        
+           <li><a href="/Logout.aspx?status=Microsite">
+           <p class="top_left margin_right margin_bottom_none">
+        <%--   src="/images/micrositeimages/desk_logout.png"--%>
+           <img class="pull-left margin_right sprite sprite-logout"  alt="" /></p> Logout</a></li>
+           <%
+             }  %>
+        </ul>
+      </div>
+      </div>
+    </div>
+  </div>
+  
+
+           
+<div class="container-fluid navigation_header">
+  <div class="container">
+    <div class="row">
+     <%-- <nav class="navbar margin_bottom_none">--%>
+        <div class="navbar-header">
+          <button data-target=".js-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle  mob_menu_2"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a href="#" class="navbar-brand font_family hidden-sm visible-xs hidden-lg hidden-md mob_font_size_16"> Navigation</a> </div>
+        <div class="collapse navbar-collapse js-navbar-collapse blue_color padding_left_right" id="ulnavbar">
+          <ul class="nav navbar-nav" id="ulhome">
+            <li class="margin_min <%=homemenu %>" >
+            <%--<a class="font_family" href="/cellular-accessories/909/mct/">HOME</a> --%>  
+            <a class="font_family" href="<%=micrositeurl%>" >HOME</a>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav " id="ulproduct">
+            <li class="dropdown mega-dropdown" id="mdd"> <a href="#" class="dropdown-toggle font_family pull-left width_100" data-toggle="dropdown">PRODUCTS <span class="glyphicon glyphicon-chevron-down pull-right arrow_menu"></span></a>
+             <ul id="megadropmenu" class="dropdown-menu mega-dropdown-menu row open_menu" >
+               <div class="col-xs-12 col-sm-5 padding_left_right padding_left_right_tab tab_width_menu">
+                       <%=ST_TOP_CategoryMenu()%>
+
+                    </div>
+                
+                
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav" id="ulus">
+
+              <% 
+                  string suppcontact = "";
+                
+                  if (strsupplierId == "SPF-CYP")
+                 {
+                     suppcontact = "cypconverters";
+                 }
+                  else if (strsupplierId == "SPF-EWO")
+                 {
+                     suppcontact = "electrical-wholesalers-online";
+                 }
+                  else if (strsupplierId == "SPF-VIPVISION")
+                 {
+                     suppcontact = "vip-vision";
+                 }
+                  else if (strsupplierId == "SPF-REEL")
+                 {
+                     suppcontact = "reelplay-tv-australia";
+                 }
+                  else if (strsupplierId == "SPF-LSK")
+                  {
+                      suppcontact = "the-loudspeaker-kit";
+                  }
+                 else
+                 {
+                     suppcontact = "wagner";
+                 } %>
+                      
+           <li class="margin_min <%=aboutmenu %>" >
+           <%-- <a class="font_family"  href="/maboutus.aspx?cid=<%=strsupplierId %>" >ABOUT US--%>
+                <a class="font_family"  href="/<%=suppcontact %>/about/" >ABOUT US
+            </a>
+           </li>
+            <li class="margin_min <%=contactmenu %>" >
+          <%--  <a class="font_family" href="/mcontactus.aspx?cid=<%=strsupplierId %>">CONTACT US--%>
+                  <a class="font_family" href="/<%=suppcontact %>/contact/">CONTACT US
+            </a>
+            </li> 
+
+               <% if (strsupplierId == "SPF-LSK")
+               { %>
+             <li class="margin_min <%=activemenu_faq %>" >
+            <a class="font_family" href="/the-loudspeaker-kit/faq/">FAQ
+            </a>
+            </li> 
+                <%-- <li class="margin_min <%=activemenu_cl %>" >
+            <a class="font_family" href="/reelplay-tv-australia/channellist/">CHANNEL LIST
+            </a>
+            </li> --%>
+            <%} %>
+          </ul>
+          <div class="menu_icon_right">
+                <ul class="nav navbar-nav ">         
+              <li class="white_color semi_bold mobile_menu_space call_mar_top font_15 call_font_13"><img class="margin_right sprite sprite-call" alt=""  />(+61) 02 9798 9233 <span class="margin_left margin_right"> /</span> </li>
+              <li class="white_color semi_bold mobile_menu_space call_mar_top font_15 call_font_13">
+              <img class="margin_righ sprite sprite-mail"  alt=""
+              />sales@wagneronline.com.au </li>
+            </ul>
+          </div>
+        </div>
+        <!-- /.nav-collapse --> 
+     <%-- </nav>--%>
+    </div>
+  </div>
+</div>
+
+</div>
+<div class="container header_border_bottom">
+  <div class="row margin_top_btm">
+   
+    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-6 text-center1 padding_left_right"><a  href="<%=micrositeurl%>">
+    <img class="responsive-img tab_logo" src="<%=strsupplier_logo %>" alt="" style="max-height:67px;max-width:385px;" /></a>
+    </div>
+    <div class="col-lg-5 col-md-4 col-sm-6 col-xs-12 text-center1 padding_left_right">
+    <%--  <form name="" id="">--%>
+         <input type="hidden" value ="<%= strsupplierName %>" id ="SupplierName" />    
+       <%-- <input type="search" placeholder="Search.." 
+        class="input-search pull-left" id="srcfield" 
+        name="srcfield" onkeypress="return urlredirectKMS(event)"/>--%>
+
+         <input  type="search" placeholder="Search.." 
+        class="input-search pull-left" id="srcfield" 
+        name="srcfield" onkeypress="return urlredirectKMS(event)"/>
+
+        <input type="button" value="" class="search_submit"  onclick="urlredirectMS();"/>
+
+    <%--  </form>--%>
+    </div>
+    <div class="col-lg-3 col-md-4 col-sm-5 col-xs-12 padding_left_right">
+                <div class="navbar navbar-default item_cart large_pull_right border_radius_none hidden-xs" role="navigation">
+                        <div class="">
+                        <div>
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown" id="CartCountItems"> 
+              
+                                    <%=CartCount %>  
+                
+               
+                                <%=Cartdetail%>  
+             
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+   
+                   </div>
+    </div>
+        
+       
+
+   </div>
+
+</div>
+
+
+
+
+
+
+  <asp:ContentPlaceHolder ID="Banner" runat="server">
+     
+                    </asp:ContentPlaceHolder>
+
+ <%  if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("maboutus.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mcontactus.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mlogin.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mconfirmmessage.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mfaq.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mfaq-spf-lsk.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mchannellist.aspx") == true)
+ {
+     string cssclass = "";
+     string imgsrc = "";
+     if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("maboutus.aspx") == true)
+     {
+        // cssclass = "container-fluid about_us_bg";
+        cssclass = "container-fluid-us";
+         imgsrc = "/images/MicroSiteimages/about.png";
+         }
+     else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mcontactus.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("mconfirmmessage.aspx") == true)
+     {
+         //cssclass = "container-fluid contact_bg";
+         cssclass = "container-fluid-us";
+         imgsrc="/images/MicroSiteimages/contact.png";
+         }
+     else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mlogin.aspx") == true)
+     {
+         //cssclass = "container-fluid register_bg";
+         cssclass = "container-fluid-us";
+         imgsrc="/images/MicroSiteimages/register.png";      
+         }
+     else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mfaq.aspx") == true)
+     {
+         //cssclass = "container-fluid register_bg";
+         cssclass = "container-fluid-us";
+         imgsrc = "/images/MicroSiteimages/faq.jpg";
+     }
+     else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mfaq-spf-lsk.aspx") == true)
+     {
+         //cssclass = "container-fluid register_bg";
+         cssclass = "container-fluid-us";
+         imgsrc = "/images/MicroSiteimages/faq.jpg";
+     }
+     else if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("mchannellist.aspx") == true)
+     {
+         //cssclass = "container-fluid register_bg";
+         cssclass = "container-fluid-us";
+         imgsrc = "/images/MicroSiteimages/channel.jpg";
+     }
+     else
+         cssclass = "";
+ %>
+      <div class="<%=cssclass%>">
+       <img src="<%=imgsrc%>" class="responsive_img" style="height:165px;" alt="img" />
+      </div>
+        <%
+      } %>
+
+  <div class="container margin_top">
+  <div class="row">
+    <!-- left menu -->
+
+       <asp:ContentPlaceHolder ID="Contentbreadcrumb" runat="server">
+     
+                    </asp:ContentPlaceHolder>
+
+
+
+         <asp:ContentPlaceHolder ID="leftnav" runat="server">
+       </asp:ContentPlaceHolder>
+       
+
+    
+
+          
+         <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="Popupcontent" runat="server"></asp:ContentPlaceHolder>
+
+  </div>
+</div>
+
+<div class="container-fluid footer_color padding_top">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+       <% =ST_Botton_CategoryMenu()%>
+
+      </div>
+   
+       <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+        <ul class="list-group foot_menu">
+          <li class="list-group-item font_weight white_color font_size_15"><%=strsupplierName %> Store</li> 
+          <li class="list-group-item"> 
+             <%-- <a href="/maboutus.aspx?cid=<%=strsupplierId %>" title="About Us"> About Us</a>--%>
+               <a href="/<%=suppcontact %>/about/" title="About Us"> About Us</a>
+          </li>
+          <li class="list-group-item"> <a href="/OnlineCatalogue.aspx" title="Online Catalogue / Downloads"> Online Catalogue / Downloads</a></li>
+            <% if (strsupplierId == "SPF-LSK")
+               { %>
+            <li class="list-group-item"> <a href="/the-loudspeaker-kit/faq/">Faq</a></li>
+          <%--  <li class="list-group-item"> <a href="/reelplay-tv-australia/channellist/">Channel List</a></li>--%>
+            <%} %>
+          <li class="list-group-item"> <a href=""> </a></li>
+          <li class="list-group-item"> <a href=""> </a></li>
+          <li class="list-group-item foot_font_weight white_color font_size_15 line_min_height"><a href="/" title="Wagner Online Stores">Wagner Online Stores </a></li>
+         
+          <li class="list-group-item">
+              <a href="/cypconverters/mct/" title="CYP Converters Online Store">CYP Converters Online Store</a>
+          </li>
+          <li class="list-group-item">
+           <a href="/electrical-wholesalers-online/mct/" title="Electrical Wholesalers Online Store">Electrical Wholesalers Online Store</a>
+          </li>
+           <li class="list-group-item">
+          <%--<a href="<%=micrositeurl%>" title="<%=strsupplierName %> Online Store"><%=strsupplierName %> Online Store</a>--%>
+          <a href="/vip-vision/mct/" class="tx_4" title="VIP-Vision Online Store">VIP-Vision Online Store</a>
+          </li>
+              <li class="list-group-item">
+          <%--<a href="<%=micrositeurl%>" title="<%=strsupplierName %> Online Store"><%=strsupplierName %> Online Store</a>--%>
+          <a href="/the-loudspeaker-kit/mct/" class="tx_4" title="The LoudSpeaker Kit">The LoudSpeaker Kit</a>
+          </li>
+           <%--   <li class="list-group-item">
+       
+          <a href="/reelplay-tv-australia/mct/" class="tx_4" title="ReelPlay TV Australia">ReelPlay TV Australia</a>
+              
+          </li>--%>
+        </ul>
+      </div>
+      <div class="col-lg-2 col-md-3 col-sm-6 col-xs-12 padding_left_right">
+        <ul class="list-group foot_menu">
+          <li class="list-group-item font_weight white_color font_size_15">Wagner Online Info</li>
+          <li class="list-group-item"> <a href="/" title="Wagner Online Main Site"> Wagner Online Main Site</a></li>
+          <li class="list-group-item"> <a href="/aboutus.aspx" title="About Us"> About Us</a></li>
+          <li class="list-group-item"> <a href="/contactus.aspx" title="Contact Us"> Contact Us</a></li>
+          <li class="list-group-item"> <a href="/Termsandconditions.aspx" title="Shipping Details"> Shipping Details</a></li>
+          <li class="list-group-item"> <a href="/myaccount.aspx" title="My Account"> My Account</a></li>
+          <li class="list-group-item"> <a href="/Termsandconditions.aspx" title="Terms and Conditions"> Terms and Conditions</a></li>
+          <li class="list-group-item"> <a href="/Privacepolicy.aspx" title="Privacy Policy"> Privacy Policy</a></li>
+          <li class="list-group-item"> <a href="/0-9/bk/" title="Browse Keyword Index"> Browse Keyword Index</a></li>
+          <li class="list-group-item"> <a href="/0-9/bp/" title="Browse Product Tag Index"> Browse Product Tag Index</a></li>
+          <li class="list-group-item"> <a href="/sitemap.aspx" title="Site Map"> Site Map</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4 col-md-3 col-sm-6 col-xs-12">
+           <ul class="list-group foot_menu">
+          <li class="list-group-item font_weight white_color font_size_15">Connect With Us</li>
+          <li class="list-group-item social"> 
+         <a class=" text_decoation"  href="https://www.facebook.com/wagner.electronics/"  title="Connect with facebook" target="_blank">
+       
+          <img class="margin_right mob_mar_top sprite sprite-fb" alt=""  /> </a>
+     
+          <a class=" text_decoation" href="https://plus.google.com/116358396388718801562/posts" title="Connect with googleplus" target="_blank" >
+          <img class="margin_right mob_mar_top sprite sprite-g" alt=""  /> </a> 
+          <a class=" text_decoation" href="https://twitter.com/WagnerOnlineAU" title="Connect with twitter" target="_blank">
+      
+          <img class="margin_right mob_mar_top sprite sprite-t"  alt="" /> </a> 
+          <a class=" text_decoation" href="https://www.instagram.com/wagner_electronics/" title="Connect with instagram" target="_blank">
+       <img class="margin_right mob_mar_top sprite sprite-in" alt="">
+       </a>
+          </li>
+          <li class="list-group-item"></li>
+          <li class="list-group-item foot_font_weight white_color font_size_16">Payment Options</li>
+          <li class="list-group-item"> 
+          <img class="margin_right mob_mar_top sprite sprite-master_card"  alt=""  /> 
+          <img alt="" class="margin_right mob_mar_top sprite sprite-visa"  /> 
+                    <img class="margin_right mob_mar_top sprite sprite-american_express"  alt=""   /> 
+          <img class="margin_right mob_mar_top sprite sprite-paypal"      alt=""   /> </li>
+          <li class="list-group-item"></li>
+          <li class="list-group-item foot_font_weight white_color font_size_16">Newsletter Sign Up</li>
+          <li class="list-group-item line_min_height"> Receive Latest product updates and releases </li>
+          <li class="list-group-item">
+         
+              <input type="email" placeholder="please enter your Mail address" id="txtMail1" class="foot_subscribe"/>
+        
+             <input type="button"  class="sub_submit" onclick="GetDeal(); return false;"/>
+         <input type="hidden" id="hfclickedattr_top" name="hfclickedattr_top" value="" />
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid text-center copy_text"> &copy; 2015 Wagner Online Store. All Rights Reserved </div>
+     
+
+    </form>
+    
+   <%-- <script src="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>Scripts/MicroSitejs/script.js" type="text/javascript"></script>
+<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>Scripts/MicroSitejs/superfish.js" type="text/javascript"></script>
+--%>
+<%--newcode start--%>
+
+<%--<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>Scripts/MicroSitejs/site.js" type="text/javascript"></script>--%>
+<script language="javascript" src="/Scripts/MicroSitejs/jquery.darktooltip.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>" type="text/javascript" />
+
+   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js" type="text/javascript"></script>
+
+
+
+ <script language="javascript" src="/Scripts/micrositejs/thickboxAddtocart_MS.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>" type="text/javascript" />
+
+
+
+
+<script src="/Scripts/MicroSitejs/2.1.1/jquery.min.js" type="text/javascript"></script>
+<script src="/Scripts/MicroSitejs/bootstrap.min.js" type="text/ecmascript"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+
+
+
+
+<script src="/Scripts/MicroSitejs/ie10-viewport-bug-workaround.js" type="text/javascript"></script>
+
+
+<script src="/Scripts/MicroSitejs/MS_AllJS.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>" type="text/javascript"></script>
+<!-- vertical js -->
+
+
+<%--newcode end--%>
+<asp:ContentPlaceHolder ID="footer" runat="server">
+
+</asp:ContentPlaceHolder>
+
+   
+
+
+    <script type="text/javascript" language="javascript">
+        function goBack() {
+            window.history.back()
+        }
+
+</script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            var width = $(window).width();
+            $(window).resize(function () {
+                if ($(this).width() < 992) {
+                    $('.mobile_filter').removeClass('in');
+                } else {
+                    $('.mobile_filter').addClass('in');
+                }
+            });
+
+            if ($(window).width() < 992) {
+
+                $('.mobile_filter').removeClass('in');
+            }
+
+        });
+
+</script>
+
+ 
+
+
+
+<%--
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-46606700-1']);
+    _gaq.push(['_setDomainName', 'wagneronline.com.au']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-46606700-1']);
+    _gaq.push(['_setDomainName', 'wagneronline.com.au']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>--%>
+<script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-46606700-1', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>
+

@@ -1,0 +1,1 @@
+ <ul  class="dynamic_list"> <div class="holder clearfix"> <li id="l1" class="mgmenu_heading"> <a href="/$TBT_REWRITEURL$/pl/"> $TBT_CATEGORY_NAME$ </a> </li> $SUBCAT_LIST1$ </div> </ul> 

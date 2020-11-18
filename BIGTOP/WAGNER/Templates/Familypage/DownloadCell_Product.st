@@ -1,0 +1,9 @@
+<tr>
+  <td class="familydownload_td">$TBT_PRODUCT_ATT_DESC$</td>
+  <td class="familydownload_td" >
+    <a href="$TBT_ATTACH_FILE_PATH$" target="_blank"   onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);">$TBT_ATTACH_FILE_NAME$</a>
+  </td>
+  <td class="familydownload_td">
+    <a href="$TBT_ATTACH_FILE_PATH$" target="_blank"   onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);">$TBT_ATTACH_SIZE$</a>
+  </td>
+</tr>

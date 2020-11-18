@@ -1,0 +1,8 @@
+F:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\Helper\bin\Release\TradingBell.WebCat.Helper.dll
+F:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\Helper\bin\Release\TradingBell.WebCat.Helper.pdb
+F:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\Helper\obj\Release\TradingBell.WebCat.Helper.dll
+F:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\Helper\obj\Release\TradingBell.WebCat.Helper.pdb
+D:\Tradingbell\Development\CDN_Wagner\Wagner_2012_Prod_Source\Helper\bin\Release\TradingBell.WebCat.Helper.dll
+D:\Tradingbell\Development\CDN_Wagner\Wagner_2012_Prod_Source\Helper\bin\Release\TradingBell.WebCat.Helper.pdb
+D:\Tradingbell\Development\CDN_Wagner\Wagner_2012_Prod_Source\Helper\obj\Release\TradingBell.WebCat.Helper.dll
+D:\Tradingbell\Development\CDN_Wagner\Wagner_2012_Prod_Source\Helper\obj\Release\TradingBell.WebCat.Helper.pdb

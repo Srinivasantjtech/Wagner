@@ -1,0 +1,1 @@
+<a href="$TBT_REWRITEURL$/pl/"  class="tx_4">$TBT_CATEGORY_NAME$</a><br/>

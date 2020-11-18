@@ -1,0 +1,1051 @@
+Method        : before OrderPickReady mail
+Date        : 12:11:12.5883952
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:13:46.3393888
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:13:46.5203888
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:14:08.6699970
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:14:29.7165890
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:14:29.7255890
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:14:50.7691834
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:14:50.7701834
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:15:11.8097798
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:15:11.8097798
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:15:32.8563766
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:15:32.8563766
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:15:53.8802804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:15:53.8892804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:16:14.9322804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:16:35.9472804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:16:35.9502804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:16:56.9752804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:17:17.9892804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:17:17.9912804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:17:39.0102804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:18:00.1262804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:18:00.1322804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:18:21.3512804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:18:42.3552804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:19:03.3862804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:19:03.3882804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:19:24.4282804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:19:24.4342804
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:19:45.4830814
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:19:45.4930812
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:20:06.5146684
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:20:27.5442812
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:20:48.5571140
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:21:09.6151140
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:21:30.6499716
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:21:30.6499716
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:21:51.6775530
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:21:51.6775530
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:22:12.7231334
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:22:12.7231334
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:22:33.7607152
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:22:33.7607152
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:22:54.8102964
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:23:15.8258774
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:23:15.8258774
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:23:36.8524678
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:23:57.8820560
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:23:57.8820560
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:24:18.8996596
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:24:39.9172466
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:25:00.9368342
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:25:22.0052246
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:25:22.0052246
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:25:43.0648196
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:26:04.0932152
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:26:04.0932152
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:26:25.1216108
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:26:25.1372105
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:26:46.1968055
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:27:07.2564005
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:27:07.2564005
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:27:28.3315952
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:27:49.3911902
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:27:49.4067899
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:28:10.4507852
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:28:31.4947805
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:28:52.5543755
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:28:52.5699752
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:29:13.6451699
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:29:34.6891652
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:29:34.7047649
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:29:55.7497707
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:29:55.7497707
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:30:16.8093657
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:30:37.8903775
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:30:37.8903775
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:30:59.0591704
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:30:59.0903698
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:31:20.1114132
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:31:41.1581478
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:32:02.2037282
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:32:23.2223138
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Error        : Failure sending mail.
+Method        : before OrderPickReady mail
+Date        : 12:32:23.2223138
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:32:44.2578968
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:32:44.2578968
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:33:05.2934848
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:33:05.2944848
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:33:26.3390724
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:33:47.3666640
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:34:09.1972348
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:34:30.3048196
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:34:51.3304058
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:34:51.3304058
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:35:12.3749938
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:35:33.4215770
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:35:54.4391610
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:36:15.4967416
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:36:15.4977416
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:36:36.5343252
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:36:36.5343252
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:36:57.5799480
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:36:57.5899478
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:37:18.6245366
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:37:39.6521200
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 12:37:39.6521200
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 12:38:00.6797020
+Time        : 2/6/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 15:03:43.0695241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 15:06:40.4335241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 15:07:02.1275241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 15:07:02.1385241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 15:11:00.0925241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 15:11:21.2295241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 15:11:21.2355241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 15:11:36.6075241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 15:11:57.8215241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 15:11:57.8285241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 15:11:57.8405241
+Time        : 2/16/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:30:55.0603388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:31:18.8493388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:31:18.9863388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:31:19.0273388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:31:44.9613388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:32:05.9763388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:32:05.9773388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:32:06.0333388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:32:27.0453388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:32:27.0463388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:32:27.0473388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:32:27.0853388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:32:48.1043388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:32:48.1053388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:32:48.1113388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:32:48.1903388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:36:36.7153388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:47:43.7663388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:48:06.3133388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:48:06.3553388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:48:06.3803388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:48:43.3723388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:49:04.4163388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:49:04.4533388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:49:04.4563388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:49:06.9303388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:49:28.0003388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:49:28.0043388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:49:28.1423388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:49:33.7573388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:49:54.8113388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:49:54.8263388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:49:54.8373388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:49:59.8783388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:50:21.2113388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:50:21.2293388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:50:21.2423388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:50:47.5743388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:51:08.6283388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:51:08.6323388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:51:08.6503388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : after OrderPickReady mail
+Date        : 11:51:29.6813388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : before OrderPickReady mail
+Date        : 11:51:29.6893388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : Inside send mail122121orderstatus34
+Date        : 11:51:29.6893388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : D:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\Invoices\In317453.pdf
+Date        : 11:51:29.8013388
+Time        : 2/19/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:06:15.2306645
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:06:44.5765988
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:07:11.3902799
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:08:13.3354738
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:08:40.8852285
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:11:27.4356612
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:22:08.6876612
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:27:24.1557199
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:33:03.9776595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:34:18.8766595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:34:39.1796595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:37:32.9476595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:38:31.6056595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:38:59.5726595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:40:02.0886595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 13:43:07.7886595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 14:03:51.6126595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 14:04:05.5766595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 14:05:54.8116595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 14:09:31.5236595
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 15:31:05.1056510
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 15:31:39.3856510
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 15:32:11.2426510
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 15:32:35.8436510
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 15:32:56.7756510
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 15:36:27.7696510
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:06:03.0206476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:06:31.2826476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:07:16.1056476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:07:34.7716476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:07:46.8536476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:08:17.8696476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:10:33.0166476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:14:01.5526476
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 16:16:36.6289596
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 17:18:38.6256480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 17:19:10.7606480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:37:19.2296480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:37:21.2296480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4713
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4960
+Date        : 17:37:21.2376480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:37:23.2666480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4713
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4960
+Date        : 17:37:23.2686480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:37:25.8906480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4713
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4960
+Date        : 17:37:25.9006480
+Time        : 2/27/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 10:44:57.8955732
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 10:48:32.3615732
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 10:49:09.4725732
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 11:01:11.5423169
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 11:01:29.0335627
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 6964
+Date        : 11:09:43.6590189
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:11:44.0885647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:12:28.7045647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:15:29.0665647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:18:55.5195647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:32:22.8325647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:32:45.8465647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:40:58.5805647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:41:31.3765647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:44:52.6815647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:45:41.9715647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:50:39.7495647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 12:51:59.5885647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 13:02:49.4345647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 13:04:12.2965647
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 13:51:05.9565545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:06:18.7705545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:08:13.7575545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:09:06.5425545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:10:28.8715545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:10:35.3335545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:12:54.0625545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:13:50.0725545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:13:52.6585545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 14:13:54.5485545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 17:04:23.1035545
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 17:32:32.1064606
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 17:39:15.8562486
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 17:39:39.2305858
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Production\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7586
+Date        : 17:39:40.5347162
+Time        : 2/28/2019
+^^-------------------------------------------------------------------^^

@@ -1,0 +1,151 @@
+Method        : getuserinfo
+Date        : 17:00:57.5427808
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 17:01:08.7198311
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : after request
+Date        : 17:01:59.4894827
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : {"error":"invalid_client","error_description":"Client Authentication failed"}
+Date        : 17:02:05.3387423
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 17:20:00.8717497
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : Completedhttps://api.sandbox.paypal.com/v1/identity/openidconnect/tokenservice
+Date        : 17:20:54.4986169
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : {"error_description":"Grant type is null","error":"invalid_grant","correlation_id":"7f7df2356d184","information_link":"https://developer.paypal.com/docs/api/#errors"}
+Date        : 17:20:54.5236369
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : Completedhttps://api.sandbox.paypal.com/v1/oauth2/token
+Date        : 17:29:27.0559260
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : {"error":"invalid_client","error_description":"Client Authentication failed"}
+Date        : 17:29:27.0579258
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 17:31:22.0594245
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : Completedhttps://api.sandbox.paypal.com/v1/oauth2/token
+Date        : 17:32:49.4316864
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : {"error":"invalid_client","error_description":"Client Authentication failed"}
+Date        : 17:32:49.4356860
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 18:23:34.6335740
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 18:23:58.9871384
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 21:07:24.3675426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 21:07:24.4125426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 21:08:01.0365426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 21:08:24.5565426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 21:09:12.9935426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 21:09:12.9975426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsyncBuffered>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at TradingBell.WebCat.CommonServices.PayPalService.<getuserinfo>d__29.MoveNext() in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CommonServices\PayPalService.cs:line 613
+Date        : 21:09:55.6705426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : 
+Date        : 21:09:55.7255426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: The request was aborted: Could not create SSL/TLS secure channel.
+   at System.Net.HttpWebRequest.EndGetRequestStream(IAsyncResult asyncResult, TransportContext& context)
+   at System.Net.Http.HttpClientHandler.GetRequestStreamCallback(IAsyncResult ar)
+   --- End of inner exception stack trace ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Net.Http.HttpClient.<FinishSendAsyncBuffered>d__58.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at TradingBell.WebCat.CommonServices.PayPalService.<getuserinfo>d__29.MoveNext() in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CommonServices\PayPalService.cs:line 613
+Date        : 21:09:55.7345426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : 
+Date        : 21:09:55.7445426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 21:17:18.1185426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 21:17:22.5385426
+Time        : 3/23/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 12:06:20.5956812
+Time        : 3/24/2020
+^^-------------------------------------------------------------------^^
+Method        : referore request
+Date        : 12:14:36.2546812
+Time        : 3/24/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 15:16:22.6944261
+Time        : 3/24/2020
+^^-------------------------------------------------------------------^^
+Method        : System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Http.HttpRequestMessage'.
+   at System.Net.Http.HttpRequestMessage.CheckDisposed()
+   at System.Net.Http.HttpRequestMessage.set_Content(HttpContent value)
+   at TradingBell.WebCat.CommonServices.PayPalService.<getuserinfo>d__29.MoveNext() in D:\Tradingbell\Development\CDN_Wagner_Production_developmentsource\Wagner_2012_Prod_Source\CommonServices\PayPalService.cs:line 611
+Date        : 15:21:47.5189053
+Time        : 3/24/2020
+^^-------------------------------------------------------------------^^
+Method        : 
+Date        : 15:21:47.5779112
+Time        : 3/24/2020
+^^-------------------------------------------------------------------^^
+Method        : getuserinfo
+Date        : 16:24:53.8483405
+Time        : 3/24/2020
+^^-------------------------------------------------------------------^^

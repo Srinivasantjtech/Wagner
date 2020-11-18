@@ -1,0 +1,1 @@
+<li><a href="PSearch$TBT_SEARCH_TEXT$" rel="/ps.aspx?srctext=$TBT_SEARCH_TEXT$">$TBT_SEARCH_TEXT_FORMAT$</a></li>

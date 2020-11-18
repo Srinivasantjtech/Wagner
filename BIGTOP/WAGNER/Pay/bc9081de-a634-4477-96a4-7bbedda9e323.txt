@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><SecurePayMessage><Status><statusCode>566</statusCode><statusDescription>amount must be numeric.</statusDescription></Status></SecurePayMessage>

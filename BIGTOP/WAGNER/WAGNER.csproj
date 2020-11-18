@@ -1,0 +1,2779 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3036A21E-1F8B-44C0-8587-0BD29C44BA77}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WES</RootNamespace>
+    <AssemblyName>WES</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort>
+    </IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.40412.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.StringTemplate, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Antlr3.StringTemplate.dll</HintPath>
+    </Reference>
+    <Reference Include="Braintree, Version=4.16.0.0, Culture=neutral, PublicKeyToken=31b586f34d3e96c7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Braintree.4.16.0\lib\net452\Braintree.dll</HintPath>
+    </Reference>
+    <Reference Include="BraintreeHttp-Dotnet, Version=0.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\BraintreeHttp-Dotnet.0.3.0\lib\netstandard2.0\BraintreeHttp-Dotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="CustomCaptcha">
+      <HintPath>dll\CustomCaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="EcmaScript.NET.modified, Version=0.1.1.0, Culture=neutral, PublicKeyToken=7d53ba4f537753a5, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\EcmaScript.NET.modified.dll</HintPath>
+    </Reference>
+    <Reference Include="GCheckout, Version=1.1.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\GCheckout.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=1.0.0.3, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Intelligencia.UrlRewriter, Version=2.0.0.9, Culture=neutral, PublicKeyToken=0573f3650687980d, processorArchitecture=MSIL">
+      <HintPath>..\packages\Intelligencia.UrlRewriter.dll.2.0.0.9\lib\2.0\Intelligencia.UrlRewriter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Extensions.Configuration, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.1.1.2\lib\netstandard1.1\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.1.1.2\lib\netstandard1.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.FileExtensions, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.FileExtensions.1.1.2\lib\net451\Microsoft.Extensions.Configuration.FileExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Json, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Json.1.1.2\lib\net451\Microsoft.Extensions.Configuration.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.1.1\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Abstractions, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Abstractions.1.1.1\lib\netstandard1.0\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Physical, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Physical.1.1.1\lib\net451\Microsoft.Extensions.FileProviders.Physical.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileSystemGlobbing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileSystemGlobbing.1.1.1\lib\net45\Microsoft.Extensions.FileSystemGlobbing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.1.1.2\lib\netstandard1.1\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.1.1.2\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=1.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.1.1.1\lib\netstandard1.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Atlas, Version=2.0.50727.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Microsoft.Web.Atlas.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MSCaptcha, Version=1.0.2832.11804, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\MSCaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="msgBox, Version=1.0.1704.38191, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\msgBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PayPalCoreSDK, Version=1.7.1.0, Culture=neutral, PublicKeyToken=5b4afc1ccaef40fb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\PayPalCoreSDK.1.7.1\lib\net40\PayPalCoreSDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Recaptcha, Version=1.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Recaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="RestClient, Version=2.5.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestClient.2.5.0.6\lib\net451\RestClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.AppContext.4.3.0\lib\net46\System.AppContext.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Console, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Console.4.3.0\lib\net46\System.Console.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Globalization.Calendars.4.3.0\lib\net46\System.Globalization.Calendars.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.4.3.0\lib\net46\System.IO.Compression.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.IO.Compression.ZipFile, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Compression.ZipFile.4.3.0\lib\net46\System.IO.Compression.ZipFile.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.4.3.0\lib\net46\System.IO.FileSystem.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.0\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Net.Sockets, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Sockets.4.3.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.3.0\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net461\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml.ReaderWriter, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Xml.ReaderWriter.4.3.0\lib\net46\System.Xml.ReaderWriter.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="TradingBell.WebCat.TemplateRender, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\TemplateRender\bin\Debug\TradingBell.WebCat.TemplateRender.dll</HintPath>
+    </Reference>
+    <Reference Include="TradingBell5.CatalogX, Version=5.0.3055.11277, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\TradingBell5.CatalogX.dll</HintPath>
+    </Reference>
+    <Reference Include="TradingBell5.CatalogX.CSDBProvider, Version=5.0.3055.11173, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\TradingBell5.CatalogX.CSDBProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="TradingBell5.CatalogX.CSDBProviderEX, Version=5.0.3055.11277, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\TradingBell5.CatalogX.CSDBProviderEX.dll</HintPath>
+    </Reference>
+    <Reference Include="Yahoo.Yui.Compressor.NET20, Version=1.4.0.0, Culture=neutral, PublicKeyToken=0734edc2d38ad47d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Yahoo.Yui.Compressor.NET20.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="404New.htm" />
+    <Content Include="AboutUs.aspx" />
+    <Content Include="AJAXroutine.js" />
+    <Content Include="AlertMessage.aspx" />
+    <Content Include="AutoSitemap.aspx" />
+    <Content Include="bb.aspx" />
+    <Content Include="BillInfo.aspx" />
+    <Content Include="BrowseKeyword.aspx" />
+    <Content Include="bs.aspx" />
+    <Content Include="bt.aspx" />
+    <Content Include="btnew.aspx" />
+    <Content Include="BulkOrder.aspx" />
+    <Content Include="Cataloguedownload.aspx" />
+    <Content Include="Cataloguerequest.aspx" />
+    <Content Include="ChangePassword.aspx" />
+    <Content Include="CompanyProfile.aspx" />
+    <Content Include="Compare.aspx" />
+    <Content Include="Confirm.aspx" />
+    <Content Include="ConfirmMessage.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="Activation.aspx" />
+    <Content Include="ChangeUserName.aspx" />
+    <Content Include="BillInfoSP.aspx" />
+    <Content Include="BrowseProductTag.aspx" />
+    <Content Include="BillInfoP.aspx" />
+    <Content Include="CheckOut.aspx" />
+    <Content Include="css\combined.css" />
+    <Content Include="download.aspx" />
+    <Content Include="EAhomeindex1.aspx" />
+    <Content Include="EasyaskNoResponse.aspx" />
+    <Content Include="ExpressCheckout.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Login.aspx" />
+    <Content Include="mActivation.aspx" />
+    <Content Include="MakeOpenOrderMail.aspx" />
+    <Content Include="MakeOpenOrder_abo.aspx" />
+    <Content Include="MakePaymentMail.aspx" />
+    <Content Include="MakeResendAllMail.aspx" />
+    <Content Include="MBrand.aspx" />
+    <Content Include="MCheckOut.aspx" />
+    <Content Include="MFAQ-SPF-LSK.aspx" />
+    <Content Include="mGetDeal.aspx" />
+    <Content Include="MOrderDetails.aspx" />
+    <Content Include="maboutus.aspx" />
+    <Content Include="MConfirmMessage.aspx" />
+    <Content Include="mcontactus.aspx" />
+    <Content Include="mct.aspx" />
+    <Content Include="mfl.aspx" />
+    <Content Include="MForgotPassWord.aspx" />
+    <Content Include="mLogin.aspx" />
+    <Content Include="mOrderReport.aspx" />
+    <Content Include="mpd.aspx" />
+    <Content Include="mpl.aspx" />
+    <Content Include="mps.aspx" />
+    <Content Include="mResetPwd.aspx" />
+    <Content Include="MUserProfile.aspx" />
+    <Content Include="OrderDetailsExpress.aspx" />
+    <Content Include="OrderPickReady_Mail.aspx" />
+    <Content Include="ppapi.aspx" />
+    <Content Include="ct.aspx" />
+    <Content Include="EAhomeindex.aspx" />
+    <Content Include="fl.aspx" />
+    <Content Include="Microsite.aspx" />
+    <Content Include="PaySP.aspx" />
+    <Content Include="GetDeal.aspx" />
+    <Content Include="IPNHandler.aspx" />
+    <Content Include="OrderTemplate.aspx" />
+    <Content Include="PaymentHistory.aspx" />
+    <Content Include="GblWebMethods.aspx" />
+    <Content Include="payonline.aspx" />
+    <Content Include="PayOnlineCC.aspx" />
+    <Content Include="pd.aspx" />
+    <Content Include="pl.aspx" />
+    <Content Include="PopChangePwd.aspx" />
+    <Content Include="ProductItem.aspx" />
+    <Content Include="ps.aspx" />
+    <Content Include="RetailerEditUserProfile.aspx" />
+    <Content Include="RetailerRegistration.aspx" />
+    <Content Include="Csc.aspx" />
+    <Content Include="EditUserProfile.aspx" />
+    <Content Include="ForgotPassWord.aspx" />
+    <Content Include="ForgotUserName.aspx" />
+    <Content Include="home.aspx" />
+    <Content Include="Layout.xml" />
+    <Content Include="logout.aspx" />
+    <Content Include="MultiUserSetup.aspx" />
+    <Content Include="MyAccount.aspx" />
+    <Content Include="Newsupdate.aspx" />
+    <Content Include="OrderDetails.aspx" />
+    <Content Include="OrderHistory.aspx" />
+    <Content Include="OrderReport.aspx" />
+    <Content Include="OrderReview.aspx" />
+    <Content Include="Orders.aspx" />
+    <Content Include="Payment.aspx" />
+    <Content Include="PendingOrder.aspx" />
+    <Content Include="PrintInvoice.aspx" />
+    <Content Include="Privacepolicy.aspx" />
+    <Content Include="QuoteList.aspx" />
+    <Content Include="QuoteReview.aspx" />
+    <Content Include="QuoteView.aspx" />
+    <Content Include="ResetPassword.aspx" />
+    <Content Include="Review.aspx" />
+    <Content Include="SampleBraintree.aspx" />
+    <Content Include="Scripts\app-controller.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\All_Js_Top.js" />
+    <Content Include="Scripts\AllMasterScript.js" />
+    <Content Include="Scripts\ea-autocomplete-1.2.2.min.js" />
+    <Content Include="Scripts\jquery-ui.min.js" />
+    <Content Include="Scripts\jquery.sidebarFix.js" />
+    <Content Include="Scripts\MicroSitejs\1.9min.js" />
+    <Content Include="Scripts\MicroSitejs\2.1.1\jquery.min.js" />
+    <Content Include="Scripts\MicroSitejs\3.1.1\bootstrap.min.js" />
+    <Content Include="Scripts\MicroSitejs\BeatPicker.min.js" />
+    <Content Include="Scripts\MicroSitejs\bootstrap.js" />
+    <Content Include="Scripts\MicroSitejs\bootstrap.min.js" />
+    <Content Include="Scripts\MicroSitejs\Copy of site.js" />
+    <Content Include="Scripts\MicroSitejs\gallery.js" />
+    <Content Include="Scripts\MicroSitejs\ie10-viewport-bug-workaround.js" />
+    <Content Include="Scripts\MicroSitejs\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\MicroSitejs\jquery-1.3.2.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.colorbox.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.darktooltip.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.easing-1.3.pack.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.easing.1.3.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.elastislide.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.fancybox.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.jcarousel.pack.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.magnifier.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.pageslide.min.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.tmpl.min.js" />
+    <Content Include="Scripts\MicroSitejs\jquery.tooltip.js" />
+    <Content Include="Scripts\MicroSitejs\jssor.js" />
+    <Content Include="Scripts\MicroSitejs\jssor.slider.js" />
+    <Content Include="Scripts\MicroSitejs\main.js" />
+    <Content Include="Scripts\MicroSitejs\modernizr-2.6.2.min.js" />
+    <Content Include="Scripts\MicroSitejs\MS_AllJS.js" />
+    <Content Include="Scripts\MicroSitejs\multiaccordion.jquery.js" />
+    <Content Include="Scripts\MicroSitejs\multiaccordion.jquery.min.js" />
+    <Content Include="Scripts\MicroSitejs\Product_MS.js" />
+    <Content Include="Scripts\MicroSitejs\script.js" />
+    <Content Include="Scripts\MicroSitejs\site.js" />
+    <Content Include="Scripts\MicroSitejs\smk-accordion.js" />
+    <Content Include="Scripts\MicroSitejs\superfish.js" />
+    <Content Include="Scripts\MicroSitejs\thickboxAddtocart_MS.js" />
+    <Content Include="Scripts\Notification_Subscribe.js" />
+    <Content Include="Scripts\thickboxAddtocart.js" />
+    <Content Include="search.css" />
+    <Content Include="search\search.ascx" />
+    <Content Include="search\search.css" />
+    <Content Include="search\searchrsltproductfamily.ascx" />
+    <Content Include="search\searchrsltproducts.ascx" />
+    <Content Include="search\templates\bybrand\design\filter_by_category.html" />
+    <Content Include="search\templates\bybrand\design\header5.jpg" />
+    <Content Include="search\templates\bybrand\design\products.html" />
+    <Content Include="search\templates\bybrand\design\search_home.html" />
+    <Content Include="search\templates\bybrand\design\tpphome.png" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts.htm" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\base.css" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\btn_ActiveSort_Up.jpg" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\btn_Sort_Down.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\btn_Sort_Up.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\BuyButton.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\buy_selected.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\header-search-bar-end.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\icon_cart.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\icon_contact.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\icon_phone.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\pdf.gif" />
+    <Content Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\urchin.js" />
+    <Content Include="search\templates\type1\design\filter_by_category.html" />
+    <Content Include="search\templates\type1\design\header5.jpg" />
+    <Content Include="search\templates\type1\design\products.html" />
+    <Content Include="search\templates\type1\design\search_home.html" />
+    <Content Include="search\templates\type1\design\tpphome.png" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\base.css" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\btn_ActiveSort_Up.jpg" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\btn_Sort_Down.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\btn_Sort_Up.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\BuyButton.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\buy_selected.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\header-search-bar-end.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\icon_cart.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\icon_contact.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\icon_phone.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\pdf.gif" />
+    <Content Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\urchin.js" />
+    <Content Include="SendNotificationMsg.aspx" />
+    <Content Include="service-worker-wagner.js" />
+    <Content Include="Shipping.aspx" />
+    <Content Include="sitemap.aspx" />
+    <Content Include="Sorrymail.aspx" />
+    <Content Include="SubProducts.aspx" />
+    <Content Include="support.aspx" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts.htm" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\base.css" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\btn_ActiveSort_Up.jpg" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\btn_Sort_Down.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\btn_Sort_Up.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\BuyButton.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\buy_selected.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\header-search-bar-end.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\icon_cart.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\icon_contact.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\icon_phone.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\pdf.gif" />
+    <Content Include="Templates\CategoryProductList\searchrsltproducts_files\urchin.js" />
+    <Content Include="Termsandconditions.aspx" />
+    <Content Include="Test.htm" />
+    <Content Include="TestCart.aspx" />
+    <Content Include="testmap.aspx" />
+    <Content Include="TradingBellNavigation.js" />
+    <Content Include="UC\Aboutus.ascx" />
+    <Content Include="UC\banner.ascx" />
+    <Content Include="UC\Bottom.ascx" />
+    <Content Include="UC\BrowseKeyword.ascx" />
+    <Content Include="UC\bs.ascx" />
+    <Content Include="UC\BulkOrder.ascx" />
+    <Content Include="UC\bybrand.ascx" />
+    <Content Include="UC\CartItems.ascx" />
+    <Content Include="UC\CatalogueDownload.ascx" />
+    <Content Include="UC\Cataloguerequest.ascx" />
+    <Content Include="UC\categorylist.ascx" />
+    <Content Include="UC\contactus.ascx" />
+    <Content Include="UC\BrowseProductTag.ascx" />
+    <Content Include="UC\family.ascx" />
+    <Content Include="UC\login.ascx" />
+    <Content Include="UC\maincategory.ascx" />
+    <Content Include="UC\MBrand.ascx" />
+    <Content Include="UC\MICROSITE\familyMS.ascx" />
+    <Content Include="UC\MICROSITE\micrologin.ascx" />
+    <Content Include="UC\MICROSITE\OrderDet.ascx" />
+    <Content Include="UC\MICROSITE\PowerSearchAndBM.ascx" />
+    <Content Include="UC\MICROSITE\ProductListMS.ascx" />
+    <Content Include="UC\MICROSITE\ProductMS.ascx" />
+    <Content Include="UC\MICROSITE\searchctrlMS.ascx" />
+    <Content Include="UC\middlecontent.ascx" />
+    <Content Include="UC\moreproducts.ascx" />
+    <Content Include="UC\newproductlognav.ascx" />
+    <Content Include="UC\newproducts.ascx" />
+    <Content Include="UC\newproductsnav.ascx" />
+    <Content Include="UC\Newsupdate.ascx" />
+    <Content Include="UC\OrderDet.ascx" />
+    <Content Include="UC\OrderDetExp.ascx" />
+    <Content Include="UC\Privacepolicy.ascx" />
+    <Content Include="UC\Product.ascx" />
+    <Content Include="UC\productlist.ascx" />
+    <Content Include="UC\promotions.ascx" />
+    <Content Include="UC\Quickbuy.ascx" />
+    <Content Include="UC\QuoteInvoice.ascx" />
+    <Content Include="UC\searchby.ascx" />
+    <Content Include="UC\searchctrl.ascx" />
+    <Content Include="UC\sitemap.ascx" />
+    <Content Include="UC\subcategoryimagelist.ascx" />
+    <Content Include="UC\subcategorylist.ascx" />
+    <Content Include="UC\Termsandconditions.ascx" />
+    <Content Include="UC\Top.ascx" />
+    <Content Include="UC\Toplog.ascx" />
+    <Content Include="UC\topnext.ascx" />
+    <Content Include="UI\Invoice.ascx" />
+    <Content Include="UI\InvoiceOrder.ascx" />
+    <Content Include="UI\mInvoice.ascx" />
+    <Content Include="UI\QuoteInvoice.ascx" />
+    <Content Include="UI\SupplierList.ascx" />
+    <Content Include="UserProfile.aspx" />
+    <Content Include="wagcaptcha.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="OnlineCatalogue.aspx" />
+    <Content Include="mMyAccount.aspx" />
+    <Content Include="mchangepassword.aspx" />
+    <Content Include="mchangeusername.aspx" />
+    <Content Include="mOrderHistory.aspx" />
+    <Content Include="mfaq.aspx" />
+    <Content Include="mchannellist.aspx" />
+    <Content Include="Zoom.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.aspx.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddtoCardPopup.Master.cs">
+      <DependentUpon>AddtoCardPopup.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddtoCardPopup.Master.designer.cs">
+      <DependentUpon>AddtoCardPopup.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AlertMessage.aspx.cs">
+      <DependentUpon>AlertMessage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AlertMessage.aspx.designer.cs">
+      <DependentUpon>AlertMessage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Activation.aspx.cs">
+      <DependentUpon>Activation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Activation.aspx.designer.cs">
+      <DependentUpon>Activation.aspx</DependentUpon>
+    </Compile>
+    <Content Include="App_Code\IFilesHandler.cs" />
+    <Content Include="App_Code\CL\StaticCache.cs" />
+    <Compile Include="AutoSitemap.aspx.cs">
+      <DependentUpon>AutoSitemap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AutoSitemap.aspx.designer.cs">
+      <DependentUpon>AutoSitemap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bb.aspx.cs">
+      <DependentUpon>bb.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bb.aspx.designer.cs">
+      <DependentUpon>bb.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BillInfo.aspx.cs">
+      <DependentUpon>BillInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BillInfo.aspx.designer.cs">
+      <DependentUpon>BillInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Blank.Master.cs">
+      <DependentUpon>Blank.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Blank.Master.designer.cs">
+      <DependentUpon>Blank.Master</DependentUpon>
+    </Compile>
+    <Compile Include="BrowseKeyword.aspx.cs">
+      <DependentUpon>BrowseKeyword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BrowseKeyword.aspx.designer.cs">
+      <DependentUpon>BrowseKeyword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bs.aspx.cs">
+      <DependentUpon>bs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bs.aspx.designer.cs">
+      <DependentUpon>bs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bt.aspx.cs">
+      <DependentUpon>bt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bt.aspx.designer.cs">
+      <DependentUpon>bt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="btnew.aspx.cs">
+      <DependentUpon>btnew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="btnew.aspx.designer.cs">
+      <DependentUpon>btnew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeUserName.aspx.cs">
+      <DependentUpon>ChangeUserName.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangeUserName.aspx.designer.cs">
+      <DependentUpon>ChangeUserName.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BillInfoSP.aspx.cs">
+      <DependentUpon>BillInfoSP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BillInfoSP.aspx.designer.cs">
+      <DependentUpon>BillInfoSP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BrowseProductTag.aspx.cs">
+      <DependentUpon>BrowseProductTag.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BrowseProductTag.aspx.designer.cs">
+      <DependentUpon>BrowseProductTag.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BillInfoP.aspx.cs">
+      <DependentUpon>BillInfoP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BillInfoP.aspx.designer.cs">
+      <DependentUpon>BillInfoP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CheckOut.aspx.cs">
+      <DependentUpon>CheckOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckOut.aspx.designer.cs">
+      <DependentUpon>CheckOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="download.aspx.cs">
+      <DependentUpon>download.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="download.aspx.designer.cs">
+      <DependentUpon>download.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EAhomeindex1.aspx.cs">
+      <DependentUpon>EAhomeindex1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EAhomeindex1.aspx.designer.cs">
+      <DependentUpon>EAhomeindex1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EasyaskNoResponse.aspx.cs">
+      <DependentUpon>EasyaskNoResponse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EasyaskNoResponse.aspx.designer.cs">
+      <DependentUpon>EasyaskNoResponse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExpressCheckout.aspx.cs">
+      <DependentUpon>ExpressCheckout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ExpressCheckout.aspx.designer.cs">
+      <DependentUpon>ExpressCheckout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.master.cs">
+      <DependentUpon>HomePage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HomePage.master.designer.cs">
+      <DependentUpon>HomePage.master</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mActivation.aspx.cs">
+      <DependentUpon>mActivation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mActivation.aspx.designer.cs">
+      <DependentUpon>mActivation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mainpage_Express.Master.cs">
+      <DependentUpon>Mainpage_Express.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mainpage_Express.Master.designer.cs">
+      <DependentUpon>Mainpage_Express.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MakeOpenOrderMail.aspx.cs">
+      <DependentUpon>MakeOpenOrderMail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MakeOpenOrderMail.aspx.designer.cs">
+      <DependentUpon>MakeOpenOrderMail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MakeOpenOrder_abo.aspx.cs">
+      <DependentUpon>MakeOpenOrder_abo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MakeOpenOrder_abo.aspx.designer.cs">
+      <DependentUpon>MakeOpenOrder_abo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MakePaymentMail.aspx.cs">
+      <DependentUpon>MakePaymentMail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MakePaymentMail.aspx.designer.cs">
+      <DependentUpon>MakePaymentMail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MakeResendAllMail.aspx.cs">
+      <DependentUpon>MakeResendAllMail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MakeResendAllMail.aspx.designer.cs">
+      <DependentUpon>MakeResendAllMail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MBrand.aspx.cs">
+      <DependentUpon>MBrand.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MBrand.aspx.designer.cs">
+      <DependentUpon>MBrand.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MCheckOut.aspx.cs">
+      <DependentUpon>MCheckOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MCheckOut.aspx.designer.cs">
+      <DependentUpon>MCheckOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MFAQ-SPF-LSK.aspx.cs">
+      <DependentUpon>MFAQ-SPF-LSK.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MFAQ-SPF-LSK.aspx.designer.cs">
+      <DependentUpon>MFAQ-SPF-LSK.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mGetDeal.aspx.cs">
+      <DependentUpon>mGetDeal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mGetDeal.aspx.designer.cs">
+      <DependentUpon>mGetDeal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MOrderDetails.aspx.cs">
+      <DependentUpon>MOrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MOrderDetails.aspx.designer.cs">
+      <DependentUpon>MOrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="maboutus.aspx.cs">
+      <DependentUpon>maboutus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="maboutus.aspx.designer.cs">
+      <DependentUpon>maboutus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MConfirmMessage.aspx.cs">
+      <DependentUpon>MConfirmMessage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MConfirmMessage.aspx.designer.cs">
+      <DependentUpon>MConfirmMessage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mcontactus.aspx.cs">
+      <DependentUpon>mcontactus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mcontactus.aspx.designer.cs">
+      <DependentUpon>mcontactus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mct.aspx.cs">
+      <DependentUpon>mct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mct.aspx.designer.cs">
+      <DependentUpon>mct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mfl.aspx.cs">
+      <DependentUpon>mfl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mfl.aspx.designer.cs">
+      <DependentUpon>mfl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MForgotPassWord.aspx.cs">
+      <DependentUpon>MForgotPassWord.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MForgotPassWord.aspx.designer.cs">
+      <DependentUpon>MForgotPassWord.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MicroSite.Master.cs">
+      <DependentUpon>MicroSite.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MicroSite.Master.designer.cs">
+      <DependentUpon>MicroSite.Master</DependentUpon>
+    </Compile>
+    <Compile Include="mLogin.aspx.cs">
+      <DependentUpon>mLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mLogin.aspx.designer.cs">
+      <DependentUpon>mLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mOrderReport.aspx.cs">
+      <DependentUpon>mOrderReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mOrderReport.aspx.designer.cs">
+      <DependentUpon>mOrderReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mpd.aspx.cs">
+      <DependentUpon>mpd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mpd.aspx.designer.cs">
+      <DependentUpon>mpd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mpl.aspx.cs">
+      <DependentUpon>mpl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mpl.aspx.designer.cs">
+      <DependentUpon>mpl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mps.aspx.cs">
+      <DependentUpon>mps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mps.aspx.designer.cs">
+      <DependentUpon>mps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mResetPwd.aspx.cs">
+      <DependentUpon>mResetPwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mResetPwd.aspx.designer.cs">
+      <DependentUpon>mResetPwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MUserProfile.aspx.cs">
+      <DependentUpon>MUserProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MUserProfile.aspx.designer.cs">
+      <DependentUpon>MUserProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderDetailsExpress.aspx.cs">
+      <DependentUpon>OrderDetailsExpress.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderDetailsExpress.aspx.designer.cs">
+      <DependentUpon>OrderDetailsExpress.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderPickReady_Mail.aspx.cs">
+      <DependentUpon>OrderPickReady_Mail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderPickReady_Mail.aspx.designer.cs">
+      <DependentUpon>OrderPickReady_Mail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ppapi.aspx.cs">
+      <DependentUpon>ppapi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ppapi.aspx.designer.cs">
+      <DependentUpon>ppapi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ct.aspx.cs">
+      <DependentUpon>ct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ct.aspx.designer.cs">
+      <DependentUpon>ct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EAhomeindex.aspx.cs">
+      <DependentUpon>EAhomeindex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EAhomeindex.aspx.designer.cs">
+      <DependentUpon>EAhomeindex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="fl.aspx.cs">
+      <DependentUpon>fl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="fl.aspx.designer.cs">
+      <DependentUpon>fl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Microsite.aspx.cs">
+      <DependentUpon>Microsite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Microsite.aspx.designer.cs">
+      <DependentUpon>Microsite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaySP.aspx.cs">
+      <DependentUpon>PaySP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaySP.aspx.designer.cs">
+      <DependentUpon>PaySP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GetDeal.aspx.cs">
+      <DependentUpon>GetDeal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GetDeal.aspx.designer.cs">
+      <DependentUpon>GetDeal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IPNHandler.aspx.cs">
+      <DependentUpon>IPNHandler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IPNHandler.aspx.designer.cs">
+      <DependentUpon>IPNHandler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderTemplate.aspx.cs">
+      <DependentUpon>OrderTemplate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderTemplate.aspx.designer.cs">
+      <DependentUpon>OrderTemplate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentHistory.aspx.cs">
+      <DependentUpon>PaymentHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaymentHistory.aspx.designer.cs">
+      <DependentUpon>PaymentHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GblWebMethods.aspx.cs">
+      <DependentUpon>GblWebMethods.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GblWebMethods.aspx.designer.cs">
+      <DependentUpon>GblWebMethods.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="payonline.aspx.cs">
+      <DependentUpon>payonline.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="payonline.aspx.designer.cs">
+      <DependentUpon>payonline.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PayOnlineCC.aspx.cs">
+      <DependentUpon>PayOnlineCC.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PayOnlineCC.aspx.designer.cs">
+      <DependentUpon>PayOnlineCC.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pd.aspx.cs">
+      <DependentUpon>pd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pd.aspx.designer.cs">
+      <DependentUpon>pd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pl.aspx.cs">
+      <DependentUpon>pl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pl.aspx.designer.cs">
+      <DependentUpon>pl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PopChangePwd.aspx.cs">
+      <DependentUpon>PopChangePwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PopChangePwd.aspx.designer.cs">
+      <DependentUpon>PopChangePwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductItem.aspx.cs">
+      <DependentUpon>ProductItem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductItem.aspx.designer.cs">
+      <DependentUpon>ProductItem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ps.aspx.cs">
+      <DependentUpon>ps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ps.aspx.designer.cs">
+      <DependentUpon>ps.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RetailerEditUserProfile.aspx.cs">
+      <DependentUpon>RetailerEditUserProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RetailerEditUserProfile.aspx.designer.cs">
+      <DependentUpon>RetailerEditUserProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RetailerRegistration.aspx.cs">
+      <DependentUpon>RetailerRegistration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RetailerRegistration.aspx.designer.cs">
+      <DependentUpon>RetailerRegistration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotUserName.aspx.cs">
+      <DependentUpon>ForgotUserName.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgotUserName.aspx.designer.cs">
+      <DependentUpon>ForgotUserName.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home.aspx.designer.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="logout.aspx.designer.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mainpage.master.designer.cs">
+      <DependentUpon>Mainpage.master</DependentUpon>
+    </Compile>
+    <Compile Include="MultiUserSetup.aspx.designer.cs">
+      <DependentUpon>MultiUserSetup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyAccount.aspx.designer.cs">
+      <DependentUpon>MyAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Newsupdate.aspx.designer.cs">
+      <DependentUpon>Newsupdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BulkOrder.aspx.cs">
+      <DependentUpon>BulkOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BulkOrder.aspx.designer.cs">
+      <DependentUpon>BulkOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cataloguedownload.aspx.cs">
+      <DependentUpon>Cataloguedownload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cataloguedownload.aspx.designer.cs">
+      <DependentUpon>Cataloguedownload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cataloguerequest.aspx.cs">
+      <DependentUpon>Cataloguerequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cataloguerequest.aspx.designer.cs">
+      <DependentUpon>Cataloguerequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyProfile.aspx.cs">
+      <DependentUpon>CompanyProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CompanyProfile.aspx.designer.cs">
+      <DependentUpon>CompanyProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Compare.aspx.cs">
+      <DependentUpon>Compare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Compare.aspx.designer.cs">
+      <DependentUpon>Compare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Confirm.aspx.cs">
+      <DependentUpon>Confirm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Confirm.aspx.designer.cs">
+      <DependentUpon>Confirm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmMessage.aspx.cs">
+      <DependentUpon>ConfirmMessage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConfirmMessage.aspx.designer.cs">
+      <DependentUpon>ConfirmMessage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Csc.aspx.cs">
+      <DependentUpon>Csc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Csc.aspx.designer.cs">
+      <DependentUpon>Csc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditUserProfile.aspx.cs">
+      <DependentUpon>EditUserProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditUserProfile.aspx.designer.cs">
+      <DependentUpon>EditUserProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FamilyMaster.master.cs">
+      <DependentUpon>FamilyMaster.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FamilyMaster.master.designer.cs">
+      <DependentUpon>FamilyMaster.master</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassWord.aspx.cs">
+      <DependentUpon>ForgotPassWord.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgotPassWord.aspx.designer.cs">
+      <DependentUpon>ForgotPassWord.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="home.aspx.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="logout.aspx.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mainpage.master.cs">
+      <DependentUpon>Mainpage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MultiUserSetup.aspx.cs">
+      <DependentUpon>MultiUserSetup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyAccount.aspx.cs">
+      <DependentUpon>MyAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Newsupdate.aspx.cs">
+      <DependentUpon>Newsupdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderDetails.aspx.cs">
+      <DependentUpon>OrderDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderDetails.aspx.designer.cs">
+      <DependentUpon>OrderDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderHistory.aspx.cs">
+      <DependentUpon>OrderHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderHistory.aspx.designer.cs">
+      <DependentUpon>OrderHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderReport.aspx.cs">
+      <DependentUpon>OrderReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderReport.aspx.designer.cs">
+      <DependentUpon>OrderReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OrderReview.aspx.cs">
+      <DependentUpon>OrderReview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OrderReview.aspx.designer.cs">
+      <DependentUpon>OrderReview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Orders.aspx.cs">
+      <DependentUpon>Orders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Orders.aspx.designer.cs">
+      <DependentUpon>Orders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.aspx.cs">
+      <DependentUpon>Payment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Payment.aspx.designer.cs">
+      <DependentUpon>Payment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PendingOrder.aspx.cs">
+      <DependentUpon>PendingOrder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PendingOrder.aspx.designer.cs">
+      <DependentUpon>PendingOrder.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrintInvoice.aspx.cs">
+      <DependentUpon>PrintInvoice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrintInvoice.aspx.designer.cs">
+      <DependentUpon>PrintInvoice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Privacepolicy.aspx.cs">
+      <DependentUpon>Privacepolicy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Privacepolicy.aspx.designer.cs">
+      <DependentUpon>Privacepolicy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QuoteList.aspx.cs">
+      <DependentUpon>QuoteList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuoteList.aspx.designer.cs">
+      <DependentUpon>QuoteList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QuoteReview.aspx.cs">
+      <DependentUpon>QuoteReview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuoteReview.aspx.designer.cs">
+      <DependentUpon>QuoteReview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QuoteView.aspx.cs">
+      <DependentUpon>QuoteView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuoteView.aspx.designer.cs">
+      <DependentUpon>QuoteView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.aspx.designer.cs">
+      <DependentUpon>ResetPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Review.aspx.cs">
+      <DependentUpon>Review.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Review.aspx.designer.cs">
+      <DependentUpon>Review.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SampleBraintree.aspx.cs">
+      <DependentUpon>SampleBraintree.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SampleBraintree.aspx.designer.cs">
+      <DependentUpon>SampleBraintree.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="search\search.ascx.cs">
+      <DependentUpon>search.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="search\search.ascx.designer.cs">
+      <DependentUpon>search.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="search\searchrsltproductfamily.ascx.cs">
+      <DependentUpon>searchrsltproductfamily.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="search\searchrsltproductfamily.ascx.designer.cs">
+      <DependentUpon>searchrsltproductfamily.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="search\searchrsltproducts.ascx.cs">
+      <DependentUpon>searchrsltproducts.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="search\searchrsltproducts.ascx.designer.cs">
+      <DependentUpon>searchrsltproducts.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="SendNotificationMsg.aspx.cs">
+      <DependentUpon>SendNotificationMsg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SendNotificationMsg.aspx.designer.cs">
+      <DependentUpon>SendNotificationMsg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Shipping.aspx.cs">
+      <DependentUpon>Shipping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Shipping.aspx.designer.cs">
+      <DependentUpon>Shipping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sitemap.aspx.cs">
+      <DependentUpon>sitemap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sitemap.aspx.designer.cs">
+      <DependentUpon>sitemap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sorrymail.aspx.cs">
+      <DependentUpon>Sorrymail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sorrymail.aspx.designer.cs">
+      <DependentUpon>Sorrymail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SubProducts.aspx.cs">
+      <DependentUpon>SubProducts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SubProducts.aspx.designer.cs">
+      <DependentUpon>SubProducts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="support.aspx.cs">
+      <DependentUpon>support.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="support.aspx.designer.cs">
+      <DependentUpon>support.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Termsandconditions.aspx.cs">
+      <DependentUpon>Termsandconditions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Termsandconditions.aspx.designer.cs">
+      <DependentUpon>Termsandconditions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestCart.aspx.cs">
+      <DependentUpon>TestCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestCart.aspx.designer.cs">
+      <DependentUpon>TestCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testmap.aspx.cs">
+      <DependentUpon>testmap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testmap.aspx.designer.cs">
+      <DependentUpon>testmap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Aboutus.ascx.cs">
+      <DependentUpon>Aboutus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Aboutus.ascx.designer.cs">
+      <DependentUpon>Aboutus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\banner.ascx.cs">
+      <DependentUpon>banner.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\banner.ascx.designer.cs">
+      <DependentUpon>banner.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Bottom.ascx.cs">
+      <DependentUpon>Bottom.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Bottom.ascx.designer.cs">
+      <DependentUpon>Bottom.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\BrowseKeyword.ascx.cs">
+      <DependentUpon>BrowseKeyword.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\BrowseKeyword.ascx.designer.cs">
+      <DependentUpon>BrowseKeyword.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\bs.ascx.cs">
+      <DependentUpon>bs.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\bs.ascx.designer.cs">
+      <DependentUpon>bs.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\BulkOrder.ascx.cs">
+      <DependentUpon>BulkOrder.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\BulkOrder.ascx.designer.cs">
+      <DependentUpon>BulkOrder.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\bybrand.ascx.cs">
+      <DependentUpon>bybrand.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\bybrand.ascx.designer.cs">
+      <DependentUpon>bybrand.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\CartItems.ascx.cs">
+      <DependentUpon>CartItems.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\CartItems.ascx.designer.cs">
+      <DependentUpon>CartItems.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\CatalogueDownload.ascx.cs">
+      <DependentUpon>CatalogueDownload.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\CatalogueDownload.ascx.designer.cs">
+      <DependentUpon>CatalogueDownload.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Cataloguerequest.ascx.cs">
+      <DependentUpon>Cataloguerequest.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Cataloguerequest.ascx.designer.cs">
+      <DependentUpon>Cataloguerequest.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\categorylist.ascx.cs">
+      <DependentUpon>categorylist.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\categorylist.ascx.designer.cs">
+      <DependentUpon>categorylist.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\contactus.ascx.cs">
+      <DependentUpon>contactus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\contactus.ascx.designer.cs">
+      <DependentUpon>contactus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\BrowseProductTag.ascx.cs">
+      <DependentUpon>BrowseProductTag.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\BrowseProductTag.ascx.designer.cs">
+      <DependentUpon>BrowseProductTag.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\family.ascx.cs">
+      <DependentUpon>family.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\family.ascx.designer.cs">
+      <DependentUpon>family.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\login.ascx.cs">
+      <DependentUpon>login.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\login.ascx.designer.cs">
+      <DependentUpon>login.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\maincategory.ascx.cs">
+      <DependentUpon>maincategory.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\maincategory.ascx.designer.cs">
+      <DependentUpon>maincategory.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MBrand.ascx.cs">
+      <DependentUpon>MBrand.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MBrand.ascx.designer.cs">
+      <DependentUpon>MBrand.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\familyMS.ascx.cs">
+      <DependentUpon>familyMS.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\familyMS.ascx.designer.cs">
+      <DependentUpon>familyMS.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\micrologin.ascx.cs">
+      <DependentUpon>micrologin.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\micrologin.ascx.designer.cs">
+      <DependentUpon>micrologin.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\OrderDet.ascx.cs">
+      <DependentUpon>OrderDet.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\OrderDet.ascx.designer.cs">
+      <DependentUpon>OrderDet.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\PowerSearchAndBM.ascx.cs">
+      <DependentUpon>PowerSearchAndBM.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\PowerSearchAndBM.ascx.designer.cs">
+      <DependentUpon>PowerSearchAndBM.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\ProductListMS.ascx.cs">
+      <DependentUpon>ProductListMS.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\ProductListMS.ascx.designer.cs">
+      <DependentUpon>ProductListMS.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\ProductMS.ascx.cs">
+      <DependentUpon>ProductMS.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\ProductMS.ascx.designer.cs">
+      <DependentUpon>ProductMS.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\MICROSITE\searchctrlMS.ascx.cs">
+      <DependentUpon>searchctrlMS.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\MICROSITE\searchctrlMS.ascx.designer.cs">
+      <DependentUpon>searchctrlMS.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\middlecontent.ascx.cs">
+      <DependentUpon>middlecontent.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\middlecontent.ascx.designer.cs">
+      <DependentUpon>middlecontent.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\moreproducts.ascx.cs">
+      <DependentUpon>moreproducts.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\moreproducts.ascx.designer.cs">
+      <DependentUpon>moreproducts.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\newproductlognav.ascx.cs">
+      <DependentUpon>newproductlognav.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\newproductlognav.ascx.designer.cs">
+      <DependentUpon>newproductlognav.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\newproducts.ascx.cs">
+      <DependentUpon>newproducts.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\newproducts.ascx.designer.cs">
+      <DependentUpon>newproducts.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\newproductsnav.ascx.cs">
+      <DependentUpon>newproductsnav.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\newproductsnav.ascx.designer.cs">
+      <DependentUpon>newproductsnav.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Newsupdate.ascx.cs">
+      <DependentUpon>Newsupdate.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Newsupdate.ascx.designer.cs">
+      <DependentUpon>Newsupdate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\OrderDet.ascx.cs">
+      <DependentUpon>OrderDet.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\OrderDet.ascx.designer.cs">
+      <DependentUpon>OrderDet.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\OrderDetExp.ascx.cs">
+      <DependentUpon>OrderDetExp.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\OrderDetExp.ascx.designer.cs">
+      <DependentUpon>OrderDetExp.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Privacepolicy.ascx.cs">
+      <DependentUpon>Privacepolicy.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Privacepolicy.ascx.designer.cs">
+      <DependentUpon>Privacepolicy.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Product.ascx.cs">
+      <DependentUpon>Product.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Product.ascx.designer.cs">
+      <DependentUpon>Product.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\productlist.ascx.cs">
+      <DependentUpon>productlist.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\productlist.ascx.designer.cs">
+      <DependentUpon>productlist.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\promotions.ascx.cs">
+      <DependentUpon>promotions.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\promotions.ascx.designer.cs">
+      <DependentUpon>promotions.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Quickbuy.ascx.cs">
+      <DependentUpon>Quickbuy.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Quickbuy.ascx.designer.cs">
+      <DependentUpon>Quickbuy.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\QuoteInvoice.ascx.cs">
+      <DependentUpon>QuoteInvoice.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\QuoteInvoice.ascx.designer.cs">
+      <DependentUpon>QuoteInvoice.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\searchby.ascx.cs">
+      <DependentUpon>searchby.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\searchby.ascx.designer.cs">
+      <DependentUpon>searchby.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\searchctrl.ascx.cs">
+      <DependentUpon>searchctrl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\searchctrl.ascx.designer.cs">
+      <DependentUpon>searchctrl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\sitemap.ascx.cs">
+      <DependentUpon>sitemap.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\sitemap.ascx.designer.cs">
+      <DependentUpon>sitemap.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\subcategoryimagelist.ascx.cs">
+      <DependentUpon>subcategoryimagelist.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\subcategoryimagelist.ascx.designer.cs">
+      <DependentUpon>subcategoryimagelist.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\subcategorylist.ascx.cs">
+      <DependentUpon>subcategorylist.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\subcategorylist.ascx.designer.cs">
+      <DependentUpon>subcategorylist.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Termsandconditions.ascx.cs">
+      <DependentUpon>Termsandconditions.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Termsandconditions.ascx.designer.cs">
+      <DependentUpon>Termsandconditions.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Top.ascx.cs">
+      <DependentUpon>Top.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Top.ascx.designer.cs">
+      <DependentUpon>Top.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\Toplog.ascx.cs">
+      <DependentUpon>Toplog.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\Toplog.ascx.designer.cs">
+      <DependentUpon>Toplog.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC\topnext.ascx.cs">
+      <DependentUpon>topnext.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC\topnext.ascx.designer.cs">
+      <DependentUpon>topnext.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Invoice.ascx.cs">
+      <DependentUpon>Invoice.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\Invoice.ascx.designer.cs">
+      <DependentUpon>Invoice.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\InvoiceOrder.ascx.cs">
+      <DependentUpon>InvoiceOrder.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\InvoiceOrder.ascx.designer.cs">
+      <DependentUpon>InvoiceOrder.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\mInvoice.ascx.cs">
+      <DependentUpon>mInvoice.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\mInvoice.ascx.designer.cs">
+      <DependentUpon>mInvoice.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuoteInvoice.ascx.cs">
+      <DependentUpon>QuoteInvoice.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\QuoteInvoice.ascx.designer.cs">
+      <DependentUpon>QuoteInvoice.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SupplierList.ascx.cs">
+      <DependentUpon>SupplierList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\SupplierList.ascx.designer.cs">
+      <DependentUpon>SupplierList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.aspx.cs">
+      <DependentUpon>UserProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserProfile.aspx.designer.cs">
+      <DependentUpon>UserProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineCatalogue.aspx.cs">
+      <DependentUpon>OnlineCatalogue.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OnlineCatalogue.aspx.designer.cs">
+      <DependentUpon>OnlineCatalogue.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mMyAccount.aspx.cs">
+      <DependentUpon>mMyAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mMyAccount.aspx.designer.cs">
+      <DependentUpon>mMyAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mchangepassword.aspx.cs">
+      <DependentUpon>mchangepassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mchangepassword.aspx.designer.cs">
+      <DependentUpon>mchangepassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mchangeusername.aspx.cs">
+      <DependentUpon>mchangeusername.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mchangeusername.aspx.designer.cs">
+      <DependentUpon>mchangeusername.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mOrderHistory.aspx.cs">
+      <DependentUpon>mOrderHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mOrderHistory.aspx.designer.cs">
+      <DependentUpon>mOrderHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wagcaptcha.aspx.cs">
+      <DependentUpon>wagcaptcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wagcaptcha.aspx.designer.cs">
+      <DependentUpon>wagcaptcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mfaq.aspx.cs">
+      <DependentUpon>mfaq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mfaq.aspx.designer.cs">
+      <DependentUpon>mfaq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mchannellist.aspx.cs">
+      <DependentUpon>mchannellist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mchannellist.aspx.designer.cs">
+      <DependentUpon>mchannellist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Zoom.aspx.cs">
+      <DependentUpon>Zoom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zoom.aspx.designer.cs">
+      <DependentUpon>Zoom.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\WebCat\WebCatSkin.skin" />
+    <Content Include="Blank.Master" />
+    <Content Include="AddtoCardPopup.Master" />
+    <Content Include="FamilyMaster.master" />
+    <Content Include="App_LocalResources\CCPayInfo.aspx.resx.exclude" />
+    <Content Include="App_LocalResources\DefultTop.ascx.de.resx.exclude" />
+    <Content Include="App_LocalResources\DefultTop.ascx.resx.exclude" />
+    <Content Include="App_LocalResources\Top.ascx.de.resx.exclude" />
+    <Content Include="App_LocalResources\Top.ascx.resx.exclude" />
+    <None Include="css\fonts\glyphicons-halflings-regular.eot" />
+    <None Include="css\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="css\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="css\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="css\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Mainpage.master" />
+    <Content Include="MicroSite.Master" />
+    <Content Include="packages.config" />
+    <Content Include="Mainpage_Express.Master" />
+    <Content Include="HomePage.master" />
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+    <None Include="Properties\PublishProfiles\wagner.pubxml" />
+    <None Include="search\templates\bybrand\searchbybrandcategory\multilistcontainer.st" />
+    <None Include="search\templates\bybrand\searchbybrandcategory\multilistitem.st" />
+    <None Include="search\templates\bybrand\searchbybrandcategory\multilistmain.st" />
+    <None Include="search\templates\bybrand\searchbybrandFamily\multilistcontainer.st" />
+    <None Include="search\templates\bybrand\searchbybrandFamily\multilistitem.st" />
+    <None Include="search\templates\bybrand\searchbybrandFamily\multilistmain.st" />
+    <None Include="search\templates\bybrand\searchbybrand\multilistcontainer.st" />
+    <None Include="search\templates\bybrand\searchbybrand\multilistitem.st" />
+    <None Include="search\templates\bybrand\searchbybrand\multilistmain.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory\attribute.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory\categories.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory\main.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory\mainattribute.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory_flat\categories.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory_flat\categorycontainer.st" />
+    <None Include="search\templates\bybrand\searchrsltcategory_flat\main.st" />
+    <None Include="search\templates\bybrand\searchrsltparametricfilter\multilistcontainer.st" />
+    <None Include="search\templates\bybrand\searchrsltparametricfilter\multilistitem.st" />
+    <None Include="search\templates\bybrand\searchrsltparametricfilter\multilistmain.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Catmain.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\multilistcontainer.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\multilistitem.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\multilistitem1.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\multilistmain.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\Catmain.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\main.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\productlist_even.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\productlist_odd.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\productpageno.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\productpagenoNext.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\producttable_even.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old t22042013\producttable_odd.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\main.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\productlist_even.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\productlist_odd.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\productpageno.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\productpagenoNext.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\producttable_even.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\Old Template\producttable_odd.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\productlist_even.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\productlist_odd.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\productpageno.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\bybrand\searchrsltproducts\productpagenoNext.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\producttable_even.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\producttable_odd.st" />
+    <None Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\Thumbs.db" />
+    <None Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\WebResource%281%29.axd" />
+    <None Include="search\templates\bybrand\searchrsltproducts\searchrsltproducts_files\WebResource.axd" />
+    <None Include="search\templates\product_list\searchrsltproducts\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\product_list\searchrsltproducts\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\product_list\searchrsltproducts\productlist_odd.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell2.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell4.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell_Family.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell_Family1.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\cell_Family_Brand.st" />
+    <Content Include="search\templates\type1\searchrsltcategoryleft\cell_model.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\main.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\mainfl.st" />
+    <Content Include="search\templates\type1\searchrsltcategoryleft\main_model.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\row.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\row1.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\row2.st" />
+    <Content Include="search\templates\type1\searchrsltcategoryleft\row_model.st" />
+    <None Include="search\templates\type1\searchrsltcategoryleft\YHSCell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltcategoryright\cell.st" />
+    <None Include="search\templates\type1\searchrsltcategoryright\cell2.st" />
+    <None Include="search\templates\type1\searchrsltcategoryright\main.st" />
+    <None Include="search\templates\type1\searchrsltcategoryright\row.st" />
+    <None Include="search\templates\type1\searchrsltcategoryright\row1.st" />
+    <None Include="search\templates\type1\searchrsltcategory\categories.st" />
+    <None Include="search\templates\type1\searchrsltcategory\main.st" />
+    <None Include="search\templates\type1\searchrsltcategory_flat\categories.st" />
+    <None Include="search\templates\type1\searchrsltcategory_flat\categorycontainer.st" />
+    <None Include="search\templates\type1\searchrsltcategory_flat\main.st" />
+    <None Include="search\templates\type1\searchrsltparametricfilter\multilistcontainer.st" />
+    <None Include="search\templates\type1\searchrsltparametricfilter\multilistitem.st" />
+    <None Include="search\templates\type1\searchrsltparametricfilter\multilistmain.st" />
+    <None Include="search\templates\type1\searchrsltproducts\multilistitem.st" />
+    <None Include="search\templates\type1\searchrsltproducts\multilistitem1.st" />
+    <None Include="search\templates\type1\searchrsltproducts\multilistmain.st" />
+    <None Include="search\templates\type1\searchrsltproducts\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltproducts\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="search\templates\type1\searchrsltproducts\OldSltPro\main.st" />
+    <None Include="search\templates\type1\searchrsltproducts\OldSltPro\productlist_even.st" />
+    <None Include="search\templates\type1\searchrsltproducts\OldSltPro\productlist_odd.st" />
+    <None Include="search\templates\type1\searchrsltproducts\OldSltPro\producttable_even.st" />
+    <None Include="search\templates\type1\searchrsltproducts\OldSltPro\producttable_odd.st" />
+    <None Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\Thumbs.db" />
+    <None Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\WebResource%281%29.axd" />
+    <None Include="search\templates\type1\searchrsltproducts\searchrsltproducts_files\WebResource.axd" />
+    <None Include="Templates\Aboutus\cell.st" />
+    <None Include="Templates\Aboutus\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Aboutus\row.st" />
+    <Content Include="Templates\AutoSearch\cell.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\AutoSearch\main.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\AutoSearch\cell_suggestion.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\AutoSearch\cell_Price.st" />
+    <Content Include="Templates\AutoSearch\cell_Category.st" />
+    <None Include="Templates\Banner\cell.st" />
+    <None Include="Templates\Banner\main.st" />
+    <None Include="Templates\Banner\row.st" />
+    <None Include="Templates\Bottom\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Bottom\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Bottom\row.st" />
+    <None Include="Templates\BreadCrumb\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\BreadCrumb\lastcell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\BreadCrumb\Home.st" />
+    <None Include="Templates\Browsebybrand\cell.st" />
+    <None Include="Templates\Browsebybrand\main.st" />
+    <None Include="Templates\Browsebybrand\row.st" />
+    <None Include="Templates\Browsebycategory\cell.st" />
+    <None Include="Templates\Browsebycategory\main.st" />
+    <None Include="Templates\Browsebycategory\row.st" />
+    <None Include="Templates\Browsebyproduct\cell.st" />
+    <None Include="Templates\Browsebyproduct\main.st" />
+    <None Include="Templates\Browsebyproduct\row.st" />
+    <Content Include="Templates\BrowseBy\cell_Keyword.st" />
+    <Content Include="Templates\BrowseBy\main.st" />
+    <Content Include="Templates\BrowseBy\cell_product.st" />
+    <None Include="Templates\CartItemsMobile\CartCount.st" />
+    <None Include="Templates\CartItemsMobile\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CartItemsMobile\main.st" />
+    <None Include="Templates\CartItems\CartCount.st" />
+    <None Include="Templates\CartItems\cell.st" />
+    <None Include="Templates\CartItems\main.st" />
+    <None Include="Templates\Cataloguedownload\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Cataloguedownload\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Cataloguedownload\row.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Cataloguedownload\row1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylistbrand\cell.st" />
+    <None Include="Templates\Categorylistbrand\cell1.st" />
+    <None Include="Templates\Categorylistbrand\cell2.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylistbrand\main.st" />
+    <None Include="Templates\Categorylistbrand\main1.st" />
+    <None Include="Templates\Categorylistbrand\row.st" />
+    <None Include="Templates\Categorylistbrand\row1.st" />
+    <None Include="Templates\Categorylistimg\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylistimg\cell1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylistimg\main.st" />
+    <None Include="Templates\Categorylistimg\row.st" />
+    <None Include="Templates\Categorylist\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylist\cell1.st" />
+    <None Include="Templates\Categorylist\cell2.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylist\cell3.st" />
+    <None Include="Templates\Categorylist\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylist\main1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Categorylist\main2.st" />
+    <None Include="Templates\Categorylist\row.st" />
+    <None Include="Templates\Categorylist\row1.st" />
+    <None Include="Templates\CategoryProductList\Advmain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CategoryProductList\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CategoryProductList\productlist_even.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CategoryProductList\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CategoryProductList\productlist_odd.st" />
+    <None Include="Templates\CategoryProductList\productlist_WESeven.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CategoryProductList\productlist_WESodd.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\CategoryProductList\productpageno.st" />
+    <None Include="Templates\CategoryProductList\productpagenoNext.st" />
+    <None Include="Templates\CategoryProductList\producttable_even.st" />
+    <None Include="Templates\CategoryProductList\producttable_odd.st" />
+    <None Include="Templates\CategoryProductList\searchrsltproducts_files\Thumbs.db" />
+    <None Include="Templates\CategoryProductList\searchrsltproducts_files\WebResource%281%29.axd" />
+    <None Include="Templates\CategoryProductList\searchrsltproducts_files\WebResource.axd" />
+    <None Include="Templates\Compare\cell.st" />
+    <None Include="Templates\Compare\main.st" />
+    <None Include="Templates\Compare\row.st" />
+    <None Include="Templates\Contactus\cell.st" />
+    <None Include="Templates\Contactus\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Contactus\row.st" />
+    <None Include="Templates\Csfamilypagelogo\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypagelogo\main.st" />
+    <None Include="Templates\Csfamilypagelogo\row.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypagewithsubfamily\cell.st" />
+    <None Include="Templates\Csfamilypagewithsubfamily\main.st" />
+    <None Include="Templates\Csfamilypagewithsubfamily\row.st" />
+    <Content Include="Templates\Csfamilypage\askaquestion.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\Csfamilypage\bulkbuy.st" />
+    <Content Include="Templates\Csfamilypage\bulkbuyrow.st" />
+    <None Include="Templates\Csfamilypage\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Templates\Csfamilypage\Group_Procell.st" />
+    <Content Include="Templates\Csfamilypage\Group_ProcellHead.st" />
+    <Content Include="Templates\Csfamilypage\Group_row.st" />
+    <None Include="Templates\Csfamilypage\Promain_dyn.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\FPmain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\Promain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\ProcellHead.st" />
+    <Content Include="Templates\Csfamilypage\Prorow2.st" />
+    <Content Include="Templates\Csfamilypage\Prorow3.st" />
+    <None Include="Templates\Csfamilypage\ProrowHead.st" />
+    <None Include="Templates\Csfamilypage\Prorow.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\Procell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\main1.st" />
+    <None Include="Templates\Csfamilypage\main2.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Csfamilypage\row.st" />
+    <None Include="Templates\Familypagewithsubfamily\cell.st" />
+    <None Include="Templates\Familypagewithsubfamily\main.st" />
+    <None Include="Templates\Familypagewithsubfamily\row.st" />
+    <None Include="Templates\Familypage\BulkBuyPP.st" />
+    <None Include="Templates\Familypage\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Familypage\DowloadUpdate.st" />
+    <None Include="Templates\Familypage\DownloadCell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Familypage\DownloadCell_Product.st" />
+    <None Include="Templates\Familypage\DownloadMain_Product.st" />
+    <None Include="Templates\Familypage\DownloadRow.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Familypage\DownloadMain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Familypage\DownloadRow_Product.st" />
+    <None Include="Templates\Familypage\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Familypage\multilistitem.st" />
+    <None Include="Templates\Familypage\row.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Familypage\WithDowloadUpdate.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Homepage\footer.st" />
+    <None Include="Templates\Homepage\header.st" />
+    <None Include="Templates\Homepage\LeftNav.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Homepage\maincontent.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Homepage\RightNav.st" />
+    <Content Include="Templates\HomeProduct\row.st" />
+    <None Include="Templates\Home\footer.st" />
+    <None Include="Templates\Home\header.st" />
+    <None Include="Templates\Home\LeftNav.st" />
+    <None Include="Templates\Home\maincontentblock.st" />
+    <None Include="Templates\Home\RightNav.st" />
+    <None Include="Templates\Mail-wagner\Forgotuseridmain.st" />
+    <None Include="Templates\Mail-wagner\ForgotuserPwdRow.st" />
+    <None Include="Templates\Mail-wagner\OrderSubmitted.st" />
+    <None Include="Templates\Mail-wagner\PendingOrder.st" />
+    <Content Include="Templates\Mail-wagner\RegiExpressCheckout.st" />
+    <None Include="Templates\Mail-wagner\Register.st" />
+    <None Include="Templates\Mail-wagner\Row.st" />
+    <Content Include="Templates\Mail\OrderSubmittedAfterPay_wes.st" />
+    <Content Include="Templates\Mail\OrderSubmittedAfterPay_Review.st" />
+    <Content Include="Templates\Mail\OrderOpenStatus.st" />
+    <Content Include="Templates\Mail\Order_Sorry.st" />
+    <Content Include="Templates\Mail\OrderOpenStatus_aba.st" />
+    <Content Include="Templates\Mail\openrow.st" />
+    <Content Include="Templates\Mail\openrow_aba.st" />
+    <Content Include="Templates\Mail\AwaitingPayment.st" />
+    <None Include="Templates\Mail\OrderSubmittedMakePay.st" />
+    <None Include="Templates\Mail\OrderSubmittedAfterPay.st" />
+    <None Include="Templates\Mail\ForgotuserPwdRow.st" />
+    <None Include="Templates\Mail\Forgotuseridmain.st" />
+    <None Include="Templates\Mail\Row.st" />
+    <None Include="Templates\Mail\OrderSubmitted.st" />
+    <None Include="Templates\Mail\PendingOrder.st" />
+    <Content Include="Templates\MBrand\cell.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\MBrand\main.st" />
+    <Content Include="Templates\MBrand\row.st" />
+    <Content Include="Templates\MBrand\mainslide.st" />
+    <Content Include="Templates\MBrand\cellslide.st" />
+    <Content Include="Templates\MBrand\rowslide.st" />
+    <Content Include="Templates\MBrand\rowslideActive.st" />
+    <Content Include="Templates\MBrand\cell1.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\MBrand\main1.st" />
+    <Content Include="Templates\MICROSITE\Autosearch\cell.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\MICROSITE\Autosearch\cell_Category.st" />
+    <Content Include="Templates\MICROSITE\Autosearch\cell_Price.st" />
+    <Content Include="Templates\MICROSITE\Autosearch\cell_suggestion.st" />
+    <Content Include="Templates\MICROSITE\Autosearch\main.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\Mail\Row_Makepayment.st" />
+    <Content Include="Templates\Mail\OrderReady.st" />
+    <Content Include="Templates\Mail\Row_AwaitingPayment.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Templates\MICROSITE\BottomCatMenu\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\BottomCatMenu\main.st" />
+    <None Include="Templates\MICROSITE\BottomCatMenu\row.st" />
+    <None Include="Templates\MICROSITE\Bottom\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Bottom\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Bottom\row.st" />
+    <None Include="Templates\MICROSITE\BreadCrumb\cell.st" />
+    <None Include="Templates\MICROSITE\BreadCrumb\Home.st" />
+    <None Include="Templates\MICROSITE\BreadCrumb\lastcell.st" />
+    <None Include="Templates\MICROSITE\BreadCrumb\Main.st" />
+    <None Include="Templates\MICROSITE\CartItems\CartCount.st" />
+    <None Include="Templates\MICROSITE\CartItems\cell.st" />
+    <None Include="Templates\MICROSITE\CartItems\main.st" />
+    <None Include="Templates\MICROSITE\CartItemsMobile\CartCount.st" />
+    <None Include="Templates\MICROSITE\CartItemsMobile\cell.st" />
+    <None Include="Templates\MICROSITE\CartItemsMobile\main.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\cell.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\FPmain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\main1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\main2.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\Procell.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\ProcellHead.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\Promain.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\Prorow.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\ProrowHead.st" />
+    <None Include="Templates\MICROSITE\Copy of Csfamilypage\row.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\Procell_V.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\Promain_dyn_micro.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Csfamilypage\Prorow_V.st" />
+    <None Include="Templates\MICROSITE\Mail-Order-Payment-Success\OrderSubmitted.st" />
+    <None Include="Templates\MICROSITE\Mail-Order-Payment-Success\PendingOrder.st" />
+    <None Include="Templates\MICROSITE\Mail-Order-Payment-Success\Row.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell4.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell4.st" />
+    <None Include="Templates\MICROSITE\TopMenuMobile\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\TopMenuMobile\main.st" />
+    <None Include="Templates\MICROSITE\TopMenuMobile\row.st" />
+    <None Include="Templates\MICROSITE\Mail\family-AskQuestion.st" />
+    <None Include="Templates\MICROSITE\Mail\family-BulkBuy.st" />
+    <None Include="Templates\MICROSITE\Mail\family-DownloadUpdate.st" />
+    <None Include="Templates\MICROSITE\Mail\ForgotPwd.st" />
+    <None Include="Templates\MICROSITE\Mail\Forgotuseridmain.st" />
+    <None Include="Templates\MICROSITE\Mail\ForgotuserPwdRow.st" />
+    <None Include="Templates\MICROSITE\Mail\OrderSubmitted.st" />
+    <None Include="Templates\MICROSITE\Mail\PendingOrder.st" />
+    <None Include="Templates\MICROSITE\Mail\product-AskQuestion.st" />
+    <None Include="Templates\MICROSITE\Mail\product-BulkBuy.st" />
+    <None Include="Templates\MICROSITE\Mail\product-DownloadUpdate.st" />
+    <None Include="Templates\MICROSITE\Mail\ReActivation.st" />
+    <None Include="Templates\MICROSITE\Mail\Register.st" />
+    <None Include="Templates\MICROSITE\Mail\Row.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell1.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell2.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell3.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell_Family.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell_Family1.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\cell_Family_Brand.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\mainfl.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\main.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\row.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\row1.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategorytop\YHSCell.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\Advmain.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\ProductListOLD\productlist_even.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\ProductListOLD\productlist_odd.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\productlist_WESeven.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\ProductListOLD\productlist_WESodd.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\ProductListOLD\productpageno.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\productpagenoNext.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\producttable_even.st" />
+    <None Include="Templates\MICROSITE\ProductListOLD\producttable_odd.st" />
+    <None Include="Templates\MICROSITE\TopMenu\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\TopMenu\main.st" />
+    <None Include="Templates\MICROSITE\TopMenu\row.st" />
+    <None Include="Templates\MICROSITE\Csfamilypagelogo\cell.st" />
+    <None Include="Templates\MICROSITE\Csfamilypagelogo\main.st" />
+    <None Include="Templates\MICROSITE\Csfamilypagelogo\row.st" />
+    <None Include="Templates\MICROSITE\Csfamilypagewithsubfamily\cell.st" />
+    <None Include="Templates\MICROSITE\Csfamilypagewithsubfamily\main.st" />
+    <None Include="Templates\MICROSITE\Csfamilypagewithsubfamily\row.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\cell.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\FPmain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Csfamilypage\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Csfamilypage\main1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Csfamilypage\main2.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\Procell.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\ProcellHead.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\Promain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Csfamilypage\Prorow.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Csfamilypage\ProrowHead.st" />
+    <None Include="Templates\MICROSITE\Csfamilypage\row.st" />
+    <None Include="Templates\MICROSITE\Familypage\BulkBuyPP.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Familypage\cell.st" />
+    <None Include="Templates\MICROSITE\Familypage\DowloadUpdate.st" />
+    <None Include="Templates\MICROSITE\Familypage\DownloadCell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Familypage\DownloadCell_Product.st" />
+    <None Include="Templates\MICROSITE\Familypage\DownloadMain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Familypage\DownloadMain_Product.st" />
+    <None Include="Templates\MICROSITE\Familypage\DownloadRow.st" />
+    <None Include="Templates\MICROSITE\Familypage\DownloadRow_Product.st" />
+    <None Include="Templates\MICROSITE\Familypage\main.st" />
+    <None Include="Templates\MICROSITE\Familypage\multilistitem.st" />
+    <None Include="Templates\MICROSITE\Familypage\row.st" />
+    <None Include="Templates\MICROSITE\Familypage\WithDowloadUpdate.st" />
+    <None Include="Templates\MICROSITE\mAboutus\cell.st" />
+    <None Include="Templates\MICROSITE\mAboutus\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\mAboutus\row.st" />
+    <None Include="Templates\MICROSITE\MainMenu\cell.st" />
+    <None Include="Templates\MICROSITE\MainMenu\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\MainMenu\row.st" />
+    <None Include="Templates\MICROSITE\mContactus\cell.st" />
+    <None Include="Templates\MICROSITE\mContactus\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\mContactus\row.st" />
+    <None Include="Templates\MICROSITE\NewProductNavContactus\cell.st" />
+    <None Include="Templates\MICROSITE\NewProductNavContactus\cellnew.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\NewProductNavContactus\main.st" />
+    <None Include="Templates\MICROSITE\NewProductNavContactus\mainNew.st" />
+    <None Include="Templates\MICROSITE\NewProductNavContactus\row.st" />
+    <None Include="Templates\MICROSITE\NewProductNav\cell.st" />
+    <None Include="Templates\MICROSITE\NewProductNav\cellnew.st" />
+    <None Include="Templates\MICROSITE\NewProductNav\main.st" />
+    <None Include="Templates\MICROSITE\NewProductNav\mainNew.st" />
+    <None Include="Templates\MICROSITE\NewProductNav\row.st" />
+    <None Include="Templates\MICROSITE\NewProduct\cell.st" />
+    <None Include="Templates\MICROSITE\NewProduct\cellnew.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\NewProduct\main.st" />
+    <None Include="Templates\MICROSITE\NewProduct\mainNew.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\NewProduct\row.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\PowerSearch\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\PowerSearch\multilistitem.st" />
+    <None Include="Templates\MICROSITE\PowerSearch\multilistitem1.st" />
+    <None Include="Templates\MICROSITE\PowerSearch\multilistmain.st" />
+    <None Include="Templates\MICROSITE\PowerSearch\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\PowerSearch\producttable_even.st" />
+    <None Include="Templates\MICROSITE\PowerSearch\producttable_odd.st" />
+    <None Include="Templates\MICROSITE\ProductList\Advmain.st" />
+    <None Include="Templates\MICROSITE\ProductList\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\ProductList\productlist_GridView.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\ProductList\producttable_even.st" />
+    <None Include="Templates\MICROSITE\ProductList\producttable_odd.st" />
+    <None Include="Templates\MICROSITE\Product\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Product\Copy %282%29 of cell.st" />
+    <None Include="Templates\MICROSITE\Product\Copy of cell.st" />
+    <None Include="Templates\MICROSITE\Product\DowloadUpdate.st" />
+    <None Include="Templates\MICROSITE\Product\DownloadCell.st" />
+    <None Include="Templates\MICROSITE\Product\DownloadMain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\Product\DownloadRow.st" />
+    <None Include="Templates\MICROSITE\Product\main.st" />
+    <None Include="Templates\MICROSITE\Product\row.st" />
+    <None Include="Templates\MICROSITE\Product\WithDowloadUpdate.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell2.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell3.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell_Family.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell_Family1.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\cell_Family_Brand.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\main.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\row.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\row1.st" />
+    <None Include="Templates\MICROSITE\searchrsltcategoryleft\YHSCell.st" />
+    <None Include="Templates\NEWPRODUCTHIGHLIGHTSCATLIST\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\NEWPRODUCTHIGHLIGHTSCATLIST\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\NEWPRODUCTHIGHLIGHTSCATLIST\row.st" />
+    <None Include="Templates\NewProductLogNav\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\NewProductLogNav\main.st" />
+    <None Include="Templates\NewProductLogNav\row.st" />
+    <None Include="Templates\NewProductNav\cell.st" />
+    <None Include="Templates\NewProductNav\main.st" />
+    <None Include="Templates\NewProductNav\row.st" />
+    <None Include="Templates\NewProduct\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\NewProduct\cellnew.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\NewProduct\mainNew.st" />
+    <None Include="Templates\NewProduct\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\NewProduct\row.st" />
+    <None Include="Templates\Newsupdate\cell.st" />
+    <None Include="Templates\Newsupdate\main.st" />
+    <None Include="Templates\Newsupdate\row.st" />
+    <Content Include="Templates\PopularProduct\cellnew.st" />
+    <Content Include="Templates\PopularProduct\mainNew.st" />
+    <Content Include="Templates\PopularProduct\row.st" />
+    <Content Include="Templates\PopularSearch\mainNew.st" />
+    <Content Include="Templates\PopularSearch\row.st" />
+    <Content Include="Templates\PopularSearch\cell.st" />
+    <None Include="Templates\Privacepolicy\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Privacepolicy\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Privacepolicy\row.st" />
+    <Content Include="Templates\Product\askaquestion.st" />
+    <None Include="Templates\Product\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Product\DownloadCell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Product\DownloadMain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Product\DownloadRow.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Product\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Product\row.st" />
+    <None Include="Templates\Promotions\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Promotions\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Promotions\row.st" />
+    <Content Include="Templates\RecentProduct\cell.st">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Templates\RecentProduct\main.st" />
+    <Content Include="Templates\RecentProduct\row.st" />
+    <None Include="Templates\Sitemap\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Sitemap\cell1.st" />
+    <None Include="Templates\Sitemap\Allmain.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Sitemap\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Sitemap\row.st" />
+    <None Include="Templates\Subcategorylist\cell.st" />
+    <None Include="Templates\Subcategorylist\main.st" />
+    <None Include="Templates\Subcategorylist\row.st" />
+    <None Include="Templates\Termsandconditions\cell.st" />
+    <None Include="Templates\Termsandconditions\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Termsandconditions\row.st" />
+    <Content Include="Templates\Toplog\banner.st" />
+    <None Include="Templates\Toplog\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Toplog\cell1.st" />
+    <None Include="Templates\Toplog\cellsub.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Toplog\cellsub1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Toplog\mainold.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Toplog\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Templates\Toplog\main_cache.st" />
+    <None Include="Templates\Toplog\row.st" />
+    <None Include="Templates\TopMobile\cell.st" />
+    <None Include="Templates\TopMobile\main.st" />
+    <None Include="Templates\TopMobile\row.st" />
+    <Content Include="Templates\TopScrollCategory\cell.st" />
+    <Content Include="Templates\TopScrollCategory\cell1.st" />
+    <Content Include="Templates\TopScrollCategory\main.st" />
+    <Content Include="Templates\TopScrollCategory\row.st" />
+    <None Include="Templates\TopSearch\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\TopSearch\cell1.st" />
+    <None Include="Templates\TopSearch\main1.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\TopSearch\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\TopSearch\row.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\TopSearch\row1.st" />
+    <None Include="Templates\Top\cell.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Top\cellsub.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Top\main.st">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Templates\Top\row.st" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Browsers\" />
+    <Folder Include="App_Data\" />
+    <Folder Include="Old_App_Code\" />
+    <Folder Include="Webservices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CatalogDB\CatalogDB.csproj">
+      <Project>{7A492C69-5995-41BB-90D1-96EBB650F7F1}</Project>
+      <Name>CatalogDB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CommonServices\CommonServices.csproj">
+      <Project>{9E003E83-B25A-4B17-A5D0-53A030B4FAB5}</Project>
+      <Name>CommonServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EasyAsk\EasyAsk.csproj">
+      <Project>{37B7153C-64EB-44EF-808F-0FB49E2D3388}</Project>
+      <Name>EasyAsk</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Helper\Helpers.csproj">
+      <Project>{6FB9CAD4-7481-4C2C-95CD-299F24E1979D}</Project>
+      <Name>Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TemplateRender\TemplateRender.csproj">
+      <Project>{2C389F7D-04CF-4E36-A573-729CA24FA862}</Project>
+      <Name>TemplateRender</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\Account.aspx.de.resx" />
+    <Content Include="App_LocalResources\Account.aspx.resx" />
+    <Content Include="App_LocalResources\AlertMessage.aspx.de.resx" />
+    <Content Include="App_LocalResources\AlertMessage.aspx.resx" />
+    <Content Include="App_LocalResources\ChangePassword.aspx.de.resx" />
+    <Content Include="App_LocalResources\ChangePassword.aspx.resx" />
+    <Content Include="App_LocalResources\ChangeUserName.aspx.resx" />
+    <Content Include="App_LocalResources\CompanyProfile.aspx.de.resx" />
+    <Content Include="App_LocalResources\CompanyProfile.aspx.resx" />
+    <Content Include="App_LocalResources\Confirm.aspx.de.resx" />
+    <Content Include="App_LocalResources\Confirm.aspx.resx" />
+    <Content Include="App_LocalResources\ConfirmMessage.aspx.de.resx" />
+    <Content Include="App_LocalResources\ConfirmMessage.aspx.resx">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_LocalResources\Contact.aspx.de.resx" />
+    <Content Include="App_LocalResources\Contact.aspx.resx" />
+    <Content Include="App_LocalResources\Default.aspx.de.resx" />
+    <Content Include="App_LocalResources\Default.aspx.resx" />
+    <Content Include="App_LocalResources\EditUserProfile.aspx.de.resx" />
+    <Content Include="App_LocalResources\EditUserProfile.aspx.resx" />
+    <Content Include="App_LocalResources\FamilyDisplay.aspx.de.resx" />
+    <Content Include="App_LocalResources\FamilyDisplay.aspx.resx" />
+    <Content Include="App_LocalResources\ForgotPassWord.aspx.de.resx" />
+    <Content Include="App_LocalResources\ForgotPassWord.aspx.resx" />
+    <Content Include="App_LocalResources\ForgotUsername.aspx.de.resx" />
+    <Content Include="App_LocalResources\ForgotUsername.aspx.resx" />
+    <Content Include="App_LocalResources\Invoice.ascx.de.resx" />
+    <Content Include="App_LocalResources\Invoice.ascx.resx" />
+    <Content Include="App_LocalResources\Login.aspx.de.resx" />
+    <Content Include="App_LocalResources\Login.aspx.resx" />
+    <Content Include="App_LocalResources\MConfirmMessage.aspx.de.resx" />
+    <Content Include="App_LocalResources\MConfirmMessage.aspx.resx">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_LocalResources\MForgotPassWord.aspx.de.resx" />
+    <Content Include="App_LocalResources\MForgotPassWord.aspx.resx" />
+    <Content Include="App_LocalResources\MultiUserSetup.aspx.resx" />
+    <Content Include="App_LocalResources\MyAccount.aspx.de.resx" />
+    <Content Include="App_LocalResources\MyAccount.aspx.resx" />
+    <Content Include="App_LocalResources\OrderDetails.aspx.de.resx" />
+    <Content Include="App_LocalResources\OrderDetails.aspx.resx" />
+    <Content Include="App_LocalResources\OrderReport.aspx.de.resx" />
+    <Content Include="App_LocalResources\OrderReport.aspx.resx" />
+    <Content Include="App_LocalResources\OrderReview.aspx.de.resx" />
+    <Content Include="App_LocalResources\OrderReview.aspx.resx" />
+    <Content Include="App_LocalResources\Orders.aspx.de.resx" />
+    <Content Include="App_LocalResources\Orders.aspx.resx" />
+    <Content Include="App_LocalResources\Payment.aspx.de.resx" />
+    <Content Include="App_LocalResources\Payment.aspx.resx" />
+    <Content Include="App_LocalResources\Paymentdetails.aspx.de.resx" />
+    <Content Include="App_LocalResources\PaymentDetails.aspx.resx" />
+    <Content Include="App_LocalResources\PopChangePwd.aspx.de.resx" />
+    <Content Include="App_LocalResources\PopChangePwd.aspx.resx" />
+    <Content Include="App_LocalResources\PrintInvoice.aspx.de.resx" />
+    <Content Include="App_LocalResources\PrintInvoice.aspx.resx" />
+    <Content Include="App_LocalResources\ProductDetails.aspx.de.resx" />
+    <Content Include="App_LocalResources\ProductDetails.aspx.resx" />
+    <Content Include="App_LocalResources\ProductFeatures.aspx.de.resx" />
+    <Content Include="App_LocalResources\ProductFeatures.aspx.resx" />
+    <Content Include="App_LocalResources\Promotion.aspx.de.resx" />
+    <Content Include="App_LocalResources\Promotion.aspx.resx" />
+    <Content Include="App_LocalResources\QuoteCart.aspx.de.resx" />
+    <Content Include="App_LocalResources\QuoteCart.aspx.resx" />
+    <Content Include="App_LocalResources\QuoteInformation.aspx.de.resx" />
+    <Content Include="App_LocalResources\QuoteInformation.aspx.resx" />
+    <Content Include="App_LocalResources\QuoteList.aspx.de.resx" />
+    <Content Include="App_LocalResources\QuoteList.aspx.resx" />
+    <Content Include="App_LocalResources\QuoteReview.aspx.de.resx" />
+    <Content Include="App_LocalResources\QuoteReview.aspx.resx" />
+    <Content Include="App_LocalResources\QuoteView.aspx.de.resx" />
+    <Content Include="App_LocalResources\QuoteView.aspx.resx" />
+    <Content Include="App_LocalResources\RetailerEditUserProfile.aspx.resx" />
+    <Content Include="App_LocalResources\SearchResult.aspx.de.resx" />
+    <Content Include="App_LocalResources\SearchResult.aspx.resx" />
+    <Content Include="App_LocalResources\Shipping.aspx.de.resx" />
+    <Content Include="App_LocalResources\Shipping.aspx.resx" />
+    <Content Include="App_LocalResources\ShippingInfo.aspx.de.resx" />
+    <Content Include="App_LocalResources\ShippingInfo.aspx.resx" />
+    <Content Include="App_LocalResources\UserBasicInfo.aspx.de.resx" />
+    <Content Include="App_LocalResources\UserBasicInfo.aspx.resx" />
+    <Content Include="App_LocalResources\UserProfile.aspx.de.resx" />
+    <Content Include="App_LocalResources\UserProfile.aspx.resx" />
+    <Content Include="App_LocalResources\WishListDetails.aspx.de.resx" />
+    <Content Include="App_LocalResources\WishListDetails.aspx.resx" />
+    <EmbeddedResource Include="Report1.rdlc" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>22930</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:22930/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

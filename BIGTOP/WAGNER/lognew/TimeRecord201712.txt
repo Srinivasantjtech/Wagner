@@ -1,0 +1,789 @@
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:36:00.0324436
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:36:00.0784462
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:36:05.1087339
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:36:05.1347354
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:36:10.4090371
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:36:10.4460392
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:36:14.0192436
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:36:14.0252439
+Time        : 12/7/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_Attribute_name] '918,133,101'
+Date        : 12:50:40.0735764
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCKEL303E
+Date        : 12:57:10.4519047
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : DISCONTINUED NO LONGER AVAILABLECL1020
+Date        : 13:12:36.7798877
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : GenerateHorizontalHTMLJson---System.Data.EvaluateException: Cannot find column [Merge].
+   at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Select(String filterExpression)
+   at TradingBell.WebCat.CommonServices.FamilyServices.GenerateHorizontalHTMLJson(String _familyID, DataSet Ds, DataSet dsPriceTableAll, DataSet EADs, String Rawurl_dy) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CommonServices\FamilyServices.cs:line 1533
+Date        : 13:15:01.1111429
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : GenerateHorizontalHTMLJson---System.Data.EvaluateException: Cannot find column [Merge].
+   at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataTable.Select(String filterExpression)
+   at TradingBell.WebCat.CommonServices.FamilyServices.GenerateHorizontalHTMLJson(String _familyID, DataSet Ds, DataSet dsPriceTableAll, DataSet EADs, String Rawurl_dy) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CommonServices\FamilyServices.cs:line 1533
+Date        : 13:21:01.5467587
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU/4731T00
+Date        : 13:26:28.7514737
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU8731T00
+Date        : 13:26:28.8694805
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU/4731T00
+Date        : 13:32:25.6118850
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU8731T00
+Date        : 13:32:39.9487050
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU/4731T00
+Date        : 13:33:36.1429191
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU8731T00
+Date        : 13:33:39.9501369
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU/4731T00
+Date        : 13:50:03.4963925
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU8731T00
+Date        : 13:50:07.3256115
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU/4731T00
+Date        : 15:08:46.9425582
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU8731T00
+Date        : 15:08:46.9705598
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU/4731T00
+Date        : 17:12:13.2731760
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : IN STOCK12MU8731T00
+Date        : 17:12:13.3131783
+Time        : 12/8/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:04:30.6430631
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:04:30.7990720
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:04:48.1290632
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:04:48.2000673
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:04:52.5263148
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:04:52.5573165
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:04:56.9875699
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:04:56.9895700
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : GenerateHorizontalHTMLJson---System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at TradingBell.WebCat.CommonServices.FamilyServices.GenerateHorizontalHTMLJson(String _familyID, DataSet Ds, DataSet dsPriceTableAll, DataSet EADs, String Rawurl_dy) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CommonServices\FamilyServices.cs:line 1536
+Date        : 12:36:33.7549670
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:53:23.0136933
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:53:23.1657020
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:53:27.6539587
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:53:27.9289745
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:53:31.6791890
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:53:31.7041904
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 12:53:36.9284892
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 12:53:37.0284949
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 13:16:51.6822646
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 13:16:51.8082718
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 13:16:56.1965228
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 13:16:56.2205241
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 13:17:00.7847852
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 13:17:00.7927857
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 13:17:05.0290280
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 13:17:05.0400286
+Time        : 12/9/2017
+^^-------------------------------------------------------------------^^
+Method        : System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.20.101:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.urlPostjson(String url) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 425
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.userBreadCrumbClick(String path) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 235
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4845
+Date        : 09:49:36.4906069
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 09:49:36.9686343
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.20.101:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.urlPostjson(String url) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 425
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.userBreadCrumbClick(String path) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 235
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4845
+Date        : 09:49:57.9628351
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 09:49:58.0018373
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.20.101:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.urlPostjson(String url) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 425
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.userBreadCrumbClick(String path) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 235
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4845
+Date        : 09:50:19.0060387
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 09:50:19.1380462
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.20.101:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.urlPostjson(String url) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 425
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.userBreadCrumbClick(String path) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 235
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4845
+Date        : 09:50:40.1842500
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 09:50:40.2662547
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:22:40.4339902
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:22:46.5153381
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:22:48.8954742
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:22:52.6616896
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:22:52.6976917
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:22:58.3830169
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:22:58.4310196
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICKFAMILYPAGEPRODUCT '965877','PRODUCT'
+Date        : 15:42:31.8967709
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:06:53.6712878
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:07:11.0382812
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:07:11.0392812
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.urlPostjson(String url) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 425
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.userBreadCrumbClick(String path) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 235
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4845
+Date        : 17:08:51.0750029
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.urlPostjson(String url) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 425
+   at TradingBell.WebCat.EasyAsk.Impl.RemoteEasyAsk.userBreadCrumbClick(String path) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\ASPClient\Impl\RemoteEasyAsk.cs:line 235
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4845
+Date        : 17:10:31.0847232
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:10:31.0947237
+Time        : 12/11/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:05:53.0011657
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:05:57.2964114
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:05:57.3864165
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:06:00.4795934
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:06:00.4835937
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 11:06:02.7517234
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 11:06:02.7607239
+Time        : 12/12/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 14:53:09.2162862
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 999
+Date        : 14:53:09.5063028
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 14:54:24.3515837
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 14:54:24.4205876
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 990905
+Date        : 14:57:59.7889060
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : x=
+Date        : 14:58:02.4180564
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 990980
+Date        : 14:58:21.8551681
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 990980
+Date        : 14:58:21.8551681
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+^^-------------------------------------------------------------------^^
+Method        : x=
+Date        : 14:58:26.0524082
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 990981
+Date        : 14:58:37.6430711
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : x=
+Date        : 14:58:37.6600721
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 990982
+Date        : 14:58:39.0201499
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICKFAMILYPAGEPRODUCT '990905','PRODUCT';exec STP_TBWC_PICKFAMILYPAGEPRODUCT '990980','PRODUCT';exec STP_TBWC_PICKFAMILYPAGEPRODUCT '990981','PRODUCT';exec STP_TBWC_PICKFAMILYPAGEPRODUCT '990982','PRODUCT';exec STP_TBWC_PICKFAMILYPAGEPRODUCT '990905,990980,990981,990982','ATTACHMENT'
+Date        : 14:58:41.0992688
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:12:50.1898340
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:12:54.9631070
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:12:55.1511178
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:12:58.9513351
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:12:59.8853886
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:13:00.1394031
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:35:53.5009549
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:35:56.4481235
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:35:56.4981263
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:35:59.0052697
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:35:59.0322713
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:36:03.1365060
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:36:03.1445065
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : YHSCell_dt1
+Date        : 17:22:24.2314838
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 976187
+Date        : 17:22:24.3674915
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : x=1,5,27
+Date        : 17:22:24.9735262
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 976188
+Date        : 17:22:25.0465304
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 976189
+Date        : 17:22:25.1495363
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : x=1,5
+Date        : 17:22:25.6275636
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICKFAMILYPAGEPRODUCT_TABLEDESIGNER '976187','PRODUCT','1,5,27';exec STP_TBWC_PICKFAMILYPAGEPRODUCT_TABLEDESIGNER '976188','PRODUCT','1,5,27';exec STP_TBWC_PICKFAMILYPAGEPRODUCT_TABLEDESIGNER '976189','PRODUCT','1,5';exec STP_TBWC_PICKFAMILYPAGEPRODUCT '976187,976188,976189','ATTACHMENT'
+Date        : 17:22:25.8375756
+Time        : 12/13/2017
+^^-------------------------------------------------------------------^^
+Method        : YHSCell_dt3
+Date        : 12:16:01.8746678
+Time        : 12/15/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_XML] 11169
+Date        : 12:16:10.2341459
+Time        : 12/15/2017
+^^-------------------------------------------------------------------^^
+Method        : x=352,353,884,883
+Date        : 12:17:27.7745809
+Time        : 12/15/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICKFAMILYPAGEPRODUCT_TABLEDESIGNER '11169','PRODUCT','352,353,884,883';exec STP_TBWC_PICKFAMILYPAGEPRODUCT '11169','ATTACHMENT'
+Date        : 12:17:49.6358313
+Time        : 12/15/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 10:02:12.6548119
+Time        : 12/19/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 999
+Date        : 10:02:13.5228616
+Time        : 12/19/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 10:04:06.1163016
+Time        : 12/19/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 10:04:06.1833054
+Time        : 12/19/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 999
+Date        : 10:04:06.2503092
+Time        : 12/19/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 12:27:48.6962823
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 12:27:48.7542856
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 12:27:53.3195467
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 12:27:53.3215468
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 12:27:58.0098150
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 12:27:58.0168154
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 12:28:00.7849737
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 12:28:00.7939742
+Time        : 12/20/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 15:36:38.6771174
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 15:37:15.3252136
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 15:37:18.2333799
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 15:37:20.8045270
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 15:37:23.6046871
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 15:37:23.6386891
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4849
+Date        : 15:37:28.7529816
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4686
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4906
+Date        : 15:37:28.8249857
+Time        : 12/21/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 999
+Date        : 11:11:17.2730599
+Time        : 12/23/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 11:11:17.4050674
+Time        : 12/23/2017
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1523,,,,,OPTION_NAME_ALL
+Date        : 11:18:50.3499744
+Time        : 12/23/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 999
+Date        : 11:18:50.3819762
+Time        : 12/23/2017
+^^-------------------------------------------------------------------^^

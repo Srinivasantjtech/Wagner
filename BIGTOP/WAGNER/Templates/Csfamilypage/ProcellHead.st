@@ -1,0 +1,1 @@
+<th width="10%">$ATTRIBUTE_NAME$ </th>

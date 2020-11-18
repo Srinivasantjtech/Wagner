@@ -1,0 +1,1 @@
+<html> <head><title></title></head><body><p>Dear Customer,</p><p>RE: BIGTOP WEB SITE LOGIN ID REQUEST</p><p>Please see below for Customer Login ID's.</p><p></p><br/><table > $TBWDataList:{$it.TBWDataListItem$}$ </table><p>BestRegards</p><p> Wagner Team</p></body></html>

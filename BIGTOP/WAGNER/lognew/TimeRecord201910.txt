@@ -1,0 +1,1102 @@
+Method        : /12-reference-ho-dvc-subwoofer-dayton-audio/speaker-drivers-audiophile/audio-speakers-pa/rss315ho-44-72421/993827/pd/
+Date        : 18:30:19.6884411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : inside  else page_pre
+Date        : 18:30:21.1854411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : inside  Get_Value_Breadcrum
+Date        : 18:30:23.2924411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : inside  Get_Value_Breadcrum_SNew
+Date        : 18:30:27.4864411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : AllProducts////WESAUSTRALASIA////Audio Speakers & PA////Speaker Drivers Audiophile////UserSearch=Family Id=9938273---EA1
+Date        : 18:31:33.9894411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICKFPRODUCTPRICE_EA '','72421','999'
+Date        : 18:33:45.6364411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: The source contains no DataRows.
+   at System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   at System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_ProductPage_Values_Direct(String DataType, DataTable Fds, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dsadv, String Pid, String Fid, String pro_code) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 12166
+Date        : 18:35:09.9074411
+Time        : 10/9/2019
+^^-------------------------------------------------------------------^^
+Method        : /12-reference-ho-dvc-subwoofer-dayton-audio/speaker-drivers-audiophile/audio-speakers-pa/rss315ho-44-72421/993827/pd/
+Date        : 12:22:34.4412548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : AllProducts////WESAUSTRALASIA////Audio Speakers & PA////Speaker Drivers Audiophile////UserSearch=Family Id=9938273---EA1
+Date        : 12:22:37.1572548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICKFPRODUCTPRICE_EA_WAGNER '','72421','999'
+Date        : 12:22:39.3552548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: The source contains no DataRows.
+   at System.Data.DataTableExtensions.LoadTableFromEnumerable[T](IEnumerable`1 source, DataTable table, Nullable`1 options, FillErrorEventHandler errorHandler)
+   at System.Data.DataTableExtensions.CopyToDataTable[T](IEnumerable`1 source)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_ProductPage_Values_Direct(String DataType, DataTable Fds, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dsadv, String Pid, String Fid, String pro_code) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 12168
+Date        : 12:23:16.4952548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : PROD_STOCK_FLAG 0-72421
+Date        : 12:23:16.6372548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : PROD_STOCK_STATUS 0-72421
+Date        : 12:23:16.6382548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : STOCK_STATUS_DESC NO STATUS AVAILABLE-72421
+Date        : 12:23:16.6442548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : isSameLogic True
+Date        : 12:23:16.6452548
+Time        : 10/11/2019
+^^-------------------------------------------------------------------^^
+Method        : /cellular-accessories/ct/
+Date        : 14:55:59.2367811
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/cellular-accessories/ct/
+Date        : 14:55:59.2367811
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 14:56:02.5907480
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 14:56:04.2477352
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 14:56:04.2917349
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 14:56:04.3117347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 14:56:04.3117347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 14:56:04.3117347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 14:56:04.3127347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 14:56:04.3137347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 14:56:04.3187347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 14:56:04.3297347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 14:56:04.3337347
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 14:56:04.3557345
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 14:56:04.3657344
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 14:56:07.3697072
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:07.3997069
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:07.4297066
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:07.4657063
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:07.4757063
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:07.5217059
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:07.5617055
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 14:56:08.9816913
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:09.0016911
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:09.0316908
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:09.0816903
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:09.1416897
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:09.1916892
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 14:56:09.2116890
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /acer/cellular-accessories/ct/
+Date        : 14:56:12.4656576
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/acer/cellular-accessories/ct/
+Date        : 14:56:13.3156491
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 14:56:15.4076284
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 14:56:38.1194026
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 14:56:38.1194026
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 14:56:38.1694021
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 14:56:38.1794020
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 14:56:38.1894019
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 14:56:38.1894019
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 14:56:38.1994018
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 14:56:38.1994018
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 14:56:38.2094017
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 14:56:38.2094017
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 14:56:38.2124017
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 14:56:38.2294017
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 14:56:38.4713993
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /acer/cellular-accessories/ct/
+Date        : 14:58:30.9032779
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/acer/cellular-accessories/ct/
+Date        : 14:58:31.9932670
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 14:59:22.8917614
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 15:08:07.5045486
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /acer/cellular-accessories/ct/
+Date        : 15:14:44.7907494
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/acer/cellular-accessories/ct/
+Date        : 15:14:44.7977494
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.50:9100/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 15:14:44.9587482
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /cellular-accessories/ct/
+Date        : 15:22:12.6425445
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/cellular-accessories/ct/
+Date        : 15:22:12.6625443
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:22:14.5285268
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 15:22:18.3234938
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 15:22:18.3334937
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 15:22:18.3434936
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 15:22:18.3634934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 15:22:18.3644934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 15:22:18.3644934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 15:22:18.3784934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 15:22:18.3854934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 15:22:18.3904934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 15:22:18.3934934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 15:22:18.4064934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 15:22:18.4234934
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:22:21.0194721
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:21.0394719
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:21.0694716
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:21.1194711
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:21.1594707
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:21.2684702
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:21.3744702
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:22:22.7374594
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:22.7774590
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:22.7894590
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:22.8194588
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:22.8494585
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:22.8694583
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 15:22:22.9614577
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /apple/cellular-accessories/ct/
+Date        : 15:22:27.2104164
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/apple/cellular-accessories/ct/
+Date        : 15:22:27.2214164
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.50:9100/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Apple%27
+Date        : 15:22:27.2314164
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 15:22:57.1011323
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 15:22:57.1111322
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 15:22:57.1311320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 15:22:57.1311320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 15:22:57.1451320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 15:22:57.1511320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 15:22:57.1631320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 15:22:57.1741320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 15:22:57.1821320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 15:22:57.1981320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 15:22:57.2021320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 15:22:57.2261320
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 15:22:57.4131304
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /ipad/apple/cellular-accessories/bb/
+Date        : 15:32:41.0403545
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/ipad/apple/cellular-accessories/bb/
+Date        : 15:32:41.0503544
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.50:9100/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=prod id,False&subcategories=True&returnskus=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%252f%252f%252f%252fWESAUSTRALASIA%252f%252f%252f%252fCELLULAR%2bACCESSORIES%252f%252f%252f%252fAttribSelect%253dBrand%253d%2527Apple%2527&RequestData=CA_AttributeSelected&AttribSel=Model+%3d+%27Apple%3aiPad%27
+Date        : 15:32:41.0703543
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:32:47.0372989
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 15:32:50.3912678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 15:32:50.4032678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 15:32:50.4112678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 15:32:50.4212678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 15:32:50.4302678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 15:32:50.4592678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 15:32:50.4722678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 15:32:50.4782678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 15:32:50.4862678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 15:32:50.4942678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 15:32:50.5362678
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:32:57.5552096
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:01.2351743
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:25.4889354
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:28.2009105
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:32.4898705
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:35.1738441
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:38.4738114
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:41.1137865
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 15:33:44.7517513
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:33:48.3257160
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:33:50.8576909
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:33:53.4496652
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:33:56.6536338
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:33:59.2856093
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:34:02.7095777
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:34:05.4375518
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9661
+Date        : 15:34:08.6795196
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /cellular-accessories/ct/
+Date        : 17:13:22.1603751
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/cellular-accessories/ct/
+Date        : 17:13:22.1713743
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 17:13:24.0662263
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 17:13:31.0086983
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 17:13:31.0176983
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 17:13:31.0236983
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 17:13:31.0296983
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 17:13:31.0796943
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 17:13:31.0996927
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 17:13:31.1096919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 17:13:31.1096919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 17:13:31.1106919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 17:13:31.1106919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 17:13:31.1196919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 17:13:31.1366919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 17:13:33.9564919
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:33.9864895
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:34.0564839
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:34.0664831
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:34.0864815
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:34.1264783
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:34.1564759
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 17:13:37.7301935
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:37.7601911
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:37.8001879
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:37.8301855
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:37.8601831
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:37.8701823
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 17:13:37.9301775
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /acer/cellular-accessories/ct/
+Date        : 17:13:42.0818471
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/acer/cellular-accessories/ct/
+Date        : 17:13:42.1018455
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 17:13:42.1118447
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 17:13:46.6134863
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 17:13:46.6234855
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 17:13:46.6734815
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 17:13:46.6834807
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 17:13:46.7234775
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 17:13:46.7334767
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 17:13:46.7334767
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 17:13:46.7344767
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 17:13:46.7354767
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 17:13:46.7624767
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 17:13:46.7774767
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 17:13:46.9854607
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:22.6636887
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:22.6736879
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:25.3534735
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:25.4034695
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:27.5153023
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:27.5353007
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:29.5471415
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:29.5571407
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:31.4069927
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:31.4269911
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:32.8968735
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:32.9368703
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:34.7867223
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:34.7967215
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:36.6585751
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:36.7015727
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:39.4603527
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:39.4703519
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7451
+Date        : 17:14:41.3542095
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7051
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 7508
+Date        : 17:14:41.3742079
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /acer/cellular-accessories/ct/
+Date        : 18:02:00.8387417
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/acer/cellular-accessories/ct/
+Date        : 18:02:00.8467425
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 18:02:00.9537532
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 18:02:10.6732051
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /batteries-power-banks/ipad/apple/cellular-accessories/bb/
+Date        : 18:02:32.9617739
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/batteries-power-banks/ipad/apple/cellular-accessories/bb/
+Date        : 18:02:32.9827760
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=prod id,False&subcategories=True&returnskus=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%252f%252f%252f%252fWESAUSTRALASIA%252f%252f%252f%252fCELLULAR%2bACCESSORIES%252f%252f%252f%252fAttribSelect%253dBrand%253d%2527Apple%2527&RequestData=CA_AttributeSelected&AttribSel=Model+%3d+%27Apple%3aiPad%27
+Date        : 18:02:33.0807818
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9735
+Date        : 18:02:41.4139775
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 18:02:45.4900675
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 18:02:45.5000677
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 18:02:45.5300683
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 18:02:45.5400685
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 18:02:45.5400685
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 18:02:45.5500687
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 18:02:45.5700691
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 18:02:45.6000697
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 18:02:45.6000697
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 18:02:45.6100699
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 18:02:45.6200709
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /batteries-power-banks/ipad/apple/cellular-accessories/bb/
+Date        : 18:10:31.8994386
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/batteries-power-banks/ipad/apple/cellular-accessories/bb/
+Date        : 18:10:31.9024389
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=prod id,False&subcategories=True&returnskus=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%252f%252f%252f%252fWESAUSTRALASIA%252f%252f%252f%252fCELLULAR%2bACCESSORIES%252f%252f%252f%252fAttribSelect%253dBrand%253d%2527Apple%2527&RequestData=CA_AttributeSelected&AttribSel=Model+%3d+%27Apple%3aiPad%27
+Date        : 18:10:31.9504413
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /ipad/apple/cellular-accessories/bb/
+Date        : 18:11:02.0721062
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/ipad/apple/cellular-accessories/bb/
+Date        : 18:11:02.0721062
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=prod id,False&subcategories=True&returnskus=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%252f%252f%252f%252fWESAUSTRALASIA%252f%252f%252f%252fCELLULAR%2bACCESSORIES%252f%252f%252f%252fAttribSelect%253dBrand%253d%2527Apple%2527&RequestData=CA_AttributeSelected&AttribSel=Model+%3d+%27Apple%3aiPad%27
+Date        : 18:17:01.1789145
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /apple/cellular-accessories/ct/
+Date        : 18:35:40.1686063
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/apple/cellular-accessories/ct/
+Date        : 18:35:40.1836078
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Apple%27
+Date        : 18:35:40.2596106
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at TradingBell.WebCat.TemplateRender.TBWTemplateEngine.BuildRecordsTemplateRow() in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\TemplateRender\TBWTemplateEngine.cs:line 5162
+Date        : 18:36:17.9423876
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 18:36:18.0023888
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /apple/cellular-accessories/ct/
+Date        : 18:36:46.1699799
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/apple/cellular-accessories/ct/
+Date        : 18:36:46.1749804
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Apple%27
+Date        : 18:36:46.2219827
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 18:36:50.4460827
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : /apple/cellular-accessories/ct/
+Date        : 18:36:56.8832464
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/apple/cellular-accessories/ct/
+Date        : 18:36:57.6932626
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Apple%27
+Date        : 18:37:31.2639516
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^
+Method        : http://172.30.20.51:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Apple%27
+Date        : 19:40:07.3149402
+Time        : 10/21/2019
+^^-------------------------------------------------------------------^^

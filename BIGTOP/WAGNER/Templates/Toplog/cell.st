@@ -1,0 +1,2 @@
+<li>  <a href="$TBT_REWRITEURL$/pl/"> <img onmouseout="this.src='$CDN$images/square-icons/$TBT_CATEGORY_ID$.png';" onmouseover="this.src='$CDN$images/square-icons/$TBT_CATEGORY_ID$-hover.png';" class="img-responsive"  alt="$TBT_CATEGORY_NAME_ORG$" id="circleButton" src="$CDN$images/square-icons/$TBT_CATEGORY_ID$.png"/> </a> $if(IS_SUBCAT)$ <div class="drop"> <div class="drop-holder"> <div class="frame">
+	<h2 class="drop_title">$TBT_CATEGORY_NAME_ORG$</h2> <ul class="$TBT_CATEGORY_ID$"> $SUBCAT_LIST$ </ul> </div> </div> </div> $endif$ </li>

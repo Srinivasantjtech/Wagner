@@ -1,0 +1,1278 @@
+Method        : <a  class="dropdown-toggle" href="/orderDetails.aspx?CartItems=0" rel="nofollow">
+  Cart:0 items - &#36; 0.00
+  <b class="glyphicon glyphicon-menu-down"></b>
+</a>~    <!-- <li class="padding_10 border_bottom padding_bottom15 padding_top15" style=" padding-bottom: 15px; padding-top: 15px;padding: 10px;border-bottom: thin solid #ddd;">
+  <div class="pull-left margin_left15 drop_width">
+      <div>
+        <strong style="color:#434a4f;"> No Items Added </strong>
+      </div>
+  </div>
+  <div class="clear"></div>
+</li> -->~0~103901~hY%2bVreToZv4Vf3KYe5WoIkLvfSt0F21uLINRZ53qzjGSkYV%2fHUqxrBMoFzhRFskOMf0egHXq%2flaxx79x9LeXFqde6XMDsksM~<div id="emptyCart" class="emptycart" style="display:block;">
+  <h2>No Items Added</h2>
+  <div class="clear"></div>
+</div>
+Date        : 13:17:06.2927634
+Time        : 7/3/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 13:22:38.9797920
+Time        : 7/3/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 13:22:39.0057935
+Time        : 7/3/2017
+^^-------------------------------------------------------------------^^
+Method        : <a  class="dropdown-toggle" href="/orderDetails.aspx?CartItems=0" rel="nofollow">
+  Cart:0 items - &#36; 0.00
+  <b class="glyphicon glyphicon-menu-down"></b>
+</a>~    <!-- <li class="padding_10 border_bottom padding_bottom15 padding_top15" style=" padding-bottom: 15px; padding-top: 15px;padding: 10px;border-bottom: thin solid #ddd;">
+  <div class="pull-left margin_left15 drop_width">
+      <div>
+        <strong style="color:#434a4f;"> No Items Added </strong>
+      </div>
+  </div>
+  <div class="clear"></div>
+</li> -->~0~103901~hY%2bVreToZv4Vf3KYe5WoIkLvfSt0F21uLINRZ53qzjGSkYV%2fHUqxrBMoFzhRFskOMf0egHXq%2flaxx79x9LeXFqde6XMDsksM~<div id="emptyCart" class="emptycart" style="display:block;">
+  <h2>No Items Added</h2>
+  <div class="clear"></div>
+</div>
+Date        : 13:26:17.4152858
+Time        : 7/3/2017
+^^-------------------------------------------------------------------^^
+Method        : <a  class="dropdown-toggle" href="/orderDetails.aspx?CartItems=0" rel="nofollow">
+  Cart:0 items - &#36; 0.00
+  <b class="glyphicon glyphicon-menu-down"></b>
+</a>~    <!-- <li class="padding_10 border_bottom padding_bottom15 padding_top15" style=" padding-bottom: 15px; padding-top: 15px;padding: 10px;border-bottom: thin solid #ddd;">
+  <div class="pull-left margin_left15 drop_width">
+      <div>
+        <strong style="color:#434a4f;"> No Items Added </strong>
+      </div>
+  </div>
+  <div class="clear"></div>
+</li> -->~0~103901~hY%2bVreToZv4Vf3KYe5WoIkLvfSt0F21uLINRZ53qzjGSkYV%2fHUqxrBMoFzhRFskOMf0egHXq%2flaxx79x9LeXFqde6XMDsksM~<div id="emptyCart" class="emptycart" style="display:block;">
+  <h2>No Items Added</h2>
+  <div class="clear"></div>
+</div>
+Date        : 13:28:57.6554510
+Time        : 7/3/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 14:43:47.6560617
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 14:46:24.0460067
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 14:46:24.0510070
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 14:50:03.8395782
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 14:50:06.9007532
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:05:27.9214326
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:05:31.7226500
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:09:24.2289486
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:09:24.2349490
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:13:35.6013263
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:13:35.6093268
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:25:52.0774503
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:25:52.0914511
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:26:25.4653600
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:26:25.4733605
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:26:57.1961749
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:26:57.2001751
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:27:08.2308061
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:27:08.2358063
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 15:31:31.9278887
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 15:31:31.9378892
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:06:19.6603001
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.IO.IOException: The handle is invalid.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.ReadCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.FileStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.StreamReader.ReadBuffer(Char[] userBuffer, Int32 userOffset, Int32 desiredChars, Boolean& readToUserBuffer)
+   at System.IO.StreamReader.Read(Char[] buffer, Int32 index, Int32 count)
+   at Newtonsoft.Json.JsonTextReader.ReadData(Boolean append, Int32 charsRequired)
+   at Newtonsoft.Json.JsonTextReader.ReadData(Boolean append)
+   at Newtonsoft.Json.JsonTextReader.ReadStringIntoBuffer(Char quote)
+   at Newtonsoft.Json.JsonTextReader.ParseString(Char quote)
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.ReadInternal()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Converters.DataTableConverter.CheckedRead(JsonReader reader)
+   at Newtonsoft.Json.Converters.DataTableConverter.CreateRow(JsonReader reader, DataTable dt, JsonSerializer serializer)
+   at Newtonsoft.Json.Converters.DataTableConverter.ReadJson(JsonReader reader, Type objectType, Object existingValue, JsonSerializer serializer)
+   at Newtonsoft.Json.Converters.DataSetConverter.ReadJson(JsonReader reader, Type objectType, Object existingValue, JsonSerializer serializer)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.DeserializeConvertable(JsonConverter converter, JsonReader reader, Type objectType, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(TextReader reader, Type objectType)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4933
+Date        : 16:07:02.8837724
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:07:02.9657771
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:07:02.9677772
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:17:19.4960406
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:17:19.5030410
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:18:00.5743901
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:18:00.5803905
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:22:13.1838386
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:22:13.2008395
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:22:39.9713707
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:22:39.9763710
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:23:07.7779612
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:23:07.7909619
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 16:25:36.4194630
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 16:25:36.4344638
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:19:31.5545021
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:19:31.5585023
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:19:31.9585252
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:19:31.9595253
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:19:32.3855496
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:19:32.3855496
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:19:32.7655714
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:19:32.7695716
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:59:34.2299273
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:59:34.2409279
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:59:34.7199553
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:59:35.3739927
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:59:35.3839933
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:59:35.7750157
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:59:35.7790159
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : B4 Price code1
+Date        : 18:10:35.0017213
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : &eap_PriceCode=1
+Date        : 18:10:35.0027213
+Time        : 7/4/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_Attribute_name] '918,133,101'
+Date        : 17:17:21.8958879
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : GenerateHorizontalHTMLJson---System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.CommonServices.FamilyServices.GenerateHorizontalHTMLJson(String _familyID, DataSet Ds, DataSet dsPriceTableAll, DataSet EADs, String Rawurl_dy) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CommonServices\FamilyServices.cs:line 1530
+Date        : 17:17:22.0048942
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_Attribute_name] '918,133,101'
+Date        : 17:17:49.1814486
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : GenerateHorizontalHTMLJson---System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.CommonServices.FamilyServices.GenerateHorizontalHTMLJson(String _familyID, DataSet Ds, DataSet dsPriceTableAll, DataSet EADs, String Rawurl_dy) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CommonServices\FamilyServices.cs:line 1530
+Date        : 17:17:49.2414520
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_Attribute_name] '918,133,101'
+Date        : 17:18:49.1458784
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : GenerateHorizontalHTMLJson---System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.CommonServices.FamilyServices.GenerateHorizontalHTMLJson(String _familyID, DataSet Ds, DataSet dsPriceTableAll, DataSet EADs, String Rawurl_dy) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\CommonServices\FamilyServices.cs:line 1530
+Date        : 17:19:07.2239124
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:21:37.0224804
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:21:37.2854954
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:21:38.0695402
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:21:38.0865412
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:21:38.6685745
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:21:38.7005763
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 17:21:39.6696318
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 17:21:39.6986334
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_PICK_FAMILYNAME_WAGNER '959873','28850'
+Date        : 17:24:37.9228273
+Time        : 7/14/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:19:54.2591782
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:19:54.9222161
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:19:54.9322167
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:19:55.4032436
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:19:55.4842482
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand(String ReturnType, Boolean CreateXml) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4846
+Date        : 15:19:56.0152786
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Create_NewProducts_Json() in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4683
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetCategoryAndBrand_Applicationstart(String ReturnType) in f:\Catalogstudio\VS_2012\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 4903
+Date        : 15:19:56.0612812
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5701',3
+Date        : 15:21:22.6782355
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5704',3
+Date        : 15:21:22.8202436
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8836',3
+Date        : 15:21:22.8842472
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9268',3
+Date        : 15:21:22.9572514
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9444',3
+Date        : 15:21:23.0112545
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'60179',3
+Date        : 15:21:23.0642575
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'958699',3
+Date        : 15:21:23.1362617
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959887',3
+Date        : 15:21:23.1812642
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'962279',3
+Date        : 15:21:23.2332672
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'966520',3
+Date        : 15:21:23.3032712
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'967676',3
+Date        : 15:21:23.3542741
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968263',3
+Date        : 15:21:23.4042770
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971634',3
+Date        : 15:21:23.4572800
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'973419',3
+Date        : 15:21:23.5262840
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976385',3
+Date        : 15:21:23.5772869
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2677',3
+Date        : 15:21:23.6502911
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2840',3
+Date        : 15:21:23.7252953
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2849',3
+Date        : 15:21:23.8113003
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179904
+Date        : 15:21:50.7888433
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179899
+Date        : 15:25:54.2957711
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179899
+Date        : 15:26:03.2442829
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179899
+Date        : 15:26:07.0955032
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179899
+Date        : 15:26:10.2066811
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5701',3
+Date        : 15:26:32.8049737
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5704',3
+Date        : 15:26:32.8899785
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8836',3
+Date        : 15:26:33.0239862
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9268',3
+Date        : 15:26:33.1259920
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9444',3
+Date        : 15:26:33.1809952
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'60179',3
+Date        : 15:26:33.2319981
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'958699',3
+Date        : 15:26:33.2960018
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959887',3
+Date        : 15:26:33.3560052
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'962279',3
+Date        : 15:26:33.4270093
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'966520',3
+Date        : 15:26:33.5910186
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'967676',3
+Date        : 15:26:33.6500220
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968263',3
+Date        : 15:26:33.7080253
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971634',3
+Date        : 15:26:33.7960304
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'973419',3
+Date        : 15:26:33.8800352
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976385',3
+Date        : 15:26:33.9330382
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2677',3
+Date        : 15:26:34.0370442
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2840',3
+Date        : 15:26:34.1090483
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2849',3
+Date        : 15:26:34.1810524
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179904
+Date        : 15:26:42.3095173
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5701',3
+Date        : 15:42:03.2901944
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5704',3
+Date        : 15:42:03.3731991
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8836',3
+Date        : 15:42:03.4572040
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9268',3
+Date        : 15:42:03.5342084
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9444',3
+Date        : 15:42:03.5952118
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'60179',3
+Date        : 15:42:03.6442146
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'958699',3
+Date        : 15:42:03.6932174
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959887',3
+Date        : 15:42:03.7492207
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'962279',3
+Date        : 15:42:03.8222248
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'966520',3
+Date        : 15:42:03.8722277
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'967676',3
+Date        : 15:42:03.9442318
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968263',3
+Date        : 15:42:04.0842398
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971634',3
+Date        : 15:42:04.1702447
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'973419',3
+Date        : 15:42:04.2612499
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976385',3
+Date        : 15:42:04.3442547
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2677',3
+Date        : 15:42:04.3902573
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2840',3
+Date        : 15:42:04.4452605
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2849',3
+Date        : 15:42:04.5032638
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7096',3
+Date        : 15:42:16.8629707
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7098',3
+Date        : 15:42:17.0299803
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7159',3
+Date        : 15:42:17.1759886
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7193',3
+Date        : 15:42:17.2279916
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7194',3
+Date        : 15:42:17.3069961
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7195',3
+Date        : 15:42:17.3389979
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7197',3
+Date        : 15:42:17.3830005
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7408',3
+Date        : 15:42:17.4500043
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8679',3
+Date        : 15:42:17.5050074
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8768',3
+Date        : 15:42:17.5720113
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8775',3
+Date        : 15:42:17.6740171
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8793',3
+Date        : 15:42:17.7400209
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8819',3
+Date        : 15:42:17.7890237
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9166',3
+Date        : 15:42:17.8400266
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9201',3
+Date        : 15:42:17.8910295
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9253',3
+Date        : 15:42:17.9420324
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9256',3
+Date        : 15:42:17.9920353
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9274',3
+Date        : 15:42:18.0830405
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179904
+Date        : 15:42:28.8946589
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Error        : Could not find stored procedure 'STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID'.
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179899
+Date        : 15:48:08.3160727
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179899
+Date        : 15:48:12.6423201
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5701',3
+Date        : 15:48:59.0569749
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'5704',3
+Date        : 15:48:59.1509803
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8836',3
+Date        : 15:48:59.2369852
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9268',3
+Date        : 15:48:59.3029890
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9444',3
+Date        : 15:48:59.3519918
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'60179',3
+Date        : 15:48:59.4389967
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'958699',3
+Date        : 15:48:59.5170012
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959887',3
+Date        : 15:48:59.5790048
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'962279',3
+Date        : 15:48:59.6340079
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'966520',3
+Date        : 15:48:59.6840108
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'967676',3
+Date        : 15:48:59.7780161
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968263',3
+Date        : 15:48:59.8780219
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971634',3
+Date        : 15:48:59.9450257
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'973419',3
+Date        : 15:49:00.0190299
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976385',3
+Date        : 15:49:00.0780333
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2677',3
+Date        : 15:49:00.1340365
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2840',3
+Date        : 15:49:00.1910398
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'2849',3
+Date        : 15:49:00.2580436
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7096',3
+Date        : 15:49:11.0016581
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7098',3
+Date        : 15:49:11.0566612
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7159',3
+Date        : 15:49:11.1286654
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : OnError
+Date        : 3:49:11 PM
+Time        : 7/17/2017
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7193',3
+Date        : 15:49:11.1976693
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7194',3
+Date        : 15:49:11.2486722
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7195',3
+Date        : 15:49:11.3646789
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7197',3
+Date        : 15:49:11.4206821
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'7408',3
+Date        : 15:49:11.4896860
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8679',3
+Date        : 15:49:11.5666904
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8768',3
+Date        : 15:49:11.6156932
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8775',3
+Date        : 15:49:11.6906975
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8793',3
+Date        : 15:49:11.7987037
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'8819',3
+Date        : 15:49:11.8727079
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9166',3
+Date        : 15:49:11.9407118
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9201',3
+Date        : 15:49:12.0137160
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9253',3
+Date        : 15:49:12.0857201
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9256',3
+Date        : 15:49:12.1687248
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'9274',3
+Date        : 15:49:12.2197278
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 179904
+Date        : 15:49:20.4481984
+Time        : 7/17/2017
+^^-------------------------------------------------------------------^^
+Method        :  exec STP_TBWC_DELETE_PAYMENT_RECORD_UNPAID 181745
+Date        : 12:16:43.8323590
+Time        : 7/18/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'990883',3
+Date        : 11:38:59.0421991
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'990883',3
+Date        : 11:40:00.7687296
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'990844',3
+Date        : 11:40:00.8447340
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988511',3
+Date        : 11:40:00.9257386
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988514',3
+Date        : 11:40:00.9697411
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988332',3
+Date        : 11:40:01.0287445
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988109',3
+Date        : 11:40:01.0817475
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988020',3
+Date        : 11:40:01.1377508
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988640',3
+Date        : 11:40:01.1887537
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'987970',3
+Date        : 11:40:01.2407566
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'987969',3
+Date        : 11:40:01.2967598
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976543',3
+Date        : 11:40:01.3527631
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976501',3
+Date        : 11:40:01.4457684
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976454',3
+Date        : 11:40:01.5137723
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988228',3
+Date        : 11:40:01.5667753
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988393',3
+Date        : 11:40:01.6197783
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976216',3
+Date        : 11:40:01.6967827
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976187',3
+Date        : 11:40:01.7707870
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988296',3
+Date        : 11:40:01.8477914
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'990883',3
+Date        : 11:40:23.8880520
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'990844',3
+Date        : 11:40:23.9010527
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988511',3
+Date        : 11:40:23.9200538
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988514',3
+Date        : 11:40:23.9280543
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988332',3
+Date        : 11:40:23.9400550
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988109',3
+Date        : 11:40:23.9560559
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988020',3
+Date        : 11:40:23.9680566
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988640',3
+Date        : 11:40:23.9740569
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'987970',3
+Date        : 11:40:23.9780571
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'987969',3
+Date        : 11:40:23.9820574
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976543',3
+Date        : 11:40:23.9860576
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976501',3
+Date        : 11:40:23.9900578
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976454',3
+Date        : 11:40:23.9930580
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988228',3
+Date        : 11:40:23.9960582
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988393',3
+Date        : 11:40:24.0090589
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976216',3
+Date        : 11:40:24.0160593
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'976187',3
+Date        : 11:40:24.0200595
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'988296',3
+Date        : 11:40:24.0240598
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'975521',3
+Date        : 11:41:45.7107320
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972936',3
+Date        : 11:41:45.7617349
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972751',3
+Date        : 11:41:45.8107377
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972747',3
+Date        : 11:41:45.8657409
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972750',3
+Date        : 11:41:45.9447454
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972745',3
+Date        : 11:41:46.0077490
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971651',3
+Date        : 11:41:46.0437510
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971650',3
+Date        : 11:41:46.1077547
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968189',3
+Date        : 11:41:46.1647580
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965038',3
+Date        : 11:41:46.1887593
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972973',3
+Date        : 11:41:46.2677638
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965036',3
+Date        : 11:41:46.3867707
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965035',3
+Date        : 11:41:46.4777759
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'975469',3
+Date        : 11:41:46.5387793
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'3260',3
+Date        : 11:41:46.5917824
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'3255',3
+Date        : 11:41:46.6407852
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959675',3
+Date        : 11:41:46.6897880
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959674',3
+Date        : 11:41:46.7377907
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'975521',3
+Date        : 14:46:20.1381530
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972936',3
+Date        : 14:46:20.3291639
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972751',3
+Date        : 14:46:20.5001737
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972747',3
+Date        : 14:46:20.5551769
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972750',3
+Date        : 14:46:20.6131802
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972745',3
+Date        : 14:46:20.6741837
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971651',3
+Date        : 14:46:20.7631888
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971650',3
+Date        : 14:46:20.8361929
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968189',3
+Date        : 14:46:20.9021967
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965038',3
+Date        : 14:46:20.9692005
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972973',3
+Date        : 14:46:21.0342043
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965036',3
+Date        : 14:46:21.1112087
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965035',3
+Date        : 14:46:21.1782125
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'975469',3
+Date        : 14:46:21.2352158
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'3260',3
+Date        : 14:46:21.2992194
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'3255',3
+Date        : 14:46:21.6472393
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959675',3
+Date        : 14:46:21.6982422
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959674',3
+Date        : 14:46:21.7732465
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'975521',3
+Date        : 15:38:27.2700147
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972936',3
+Date        : 15:38:27.7840441
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972751',3
+Date        : 15:38:27.7950447
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972747',3
+Date        : 15:38:27.8130458
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972750',3
+Date        : 15:38:27.8220463
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972745',3
+Date        : 15:38:27.8280466
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971651',3
+Date        : 15:38:27.8390473
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'971650',3
+Date        : 15:38:27.8430475
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'968189',3
+Date        : 15:38:27.8470477
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965038',3
+Date        : 15:38:27.8500479
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'972973',3
+Date        : 15:38:27.8550482
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965036',3
+Date        : 15:38:27.8590484
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'965035',3
+Date        : 15:38:27.8660488
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'975469',3
+Date        : 15:38:27.8700490
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'3260',3
+Date        : 15:38:27.8730492
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'3255',3
+Date        : 15:38:27.8800496
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959675',3
+Date        : 15:38:27.8970506
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^
+Method        : exec [STP_GETFAMILY_STARTING_PRICE] 999,'959674',3
+Date        : 15:38:27.9010508
+Time        : 7/26/2017
+^^-------------------------------------------------------------------^^

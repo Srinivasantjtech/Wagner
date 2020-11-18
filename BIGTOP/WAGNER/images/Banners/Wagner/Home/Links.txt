@@ -1,0 +1,12 @@
+{
+	"Banner":[
+		{
+			"IMG_NAME":"Wagner_Banners_1",
+			"URL":"tv-brackets/ps/"
+		},
+		{
+			"IMG_NAME":"Wagner_Banners_2",
+			"URL":"personal-protective-equipment-ppe/tools-test/pl/"
+		}
+	]
+}

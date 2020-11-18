@@ -1,0 +1,361 @@
+Source        : WES
+Method        : GetSubCategoryEA
+Date        : 1:05:10 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at UC_maincategory.GetSubCategoryEA()
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple()
+^^-------------------------------------------------------------------^^
+Source        : WES
+Method        : GetSubCategoryEA
+Date        : 1:18:51 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at UC_maincategory.GetSubCategoryEA()
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple()
+^^-------------------------------------------------------------------^^
+Source        : TradingBell.WebCat.EasyAsk
+Method        : GetAttributeProductsJson
+Date        : 1:39:33 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Object reference not set to an instance of an object.
+Stack Trace    : at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.GetAttributeProductsJson(String DataPage, String SearchStr, String AttributeType, String AttributeValue, String Brand, String resultPerPage, String CurrentPageNo, String NextPage, String EA) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\EasyAsk\EasyAsk_WAGNER.cs:line 14258
+^^-------------------------------------------------------------------^^
+Source        : .Net SqlClient Data Provider
+Method        : OnError
+Date        : 1:39:37 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Incorrect syntax near '-'.
+Stack Trace    : at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)Source        : System.Data
+Method        : Bind
+Date        : 2:49:46 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Cannot find column [Category_id].
+Stack Trace    : at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataExpression..ctor(DataTable table, String expression)
+   at System.Data.Select..ctor(DataTable table, String filterExpression, String sort, DataViewRowState recordStates)
+   at System.Data.DataTable.Select(String filterExpression)
+   at TradingBell.WebCat.TemplateRender.TBWTemplateEngine.ST_Bottom_Load() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\TemplateRender\TBWTemplateEngine.cs:line 9241
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 4:14:01 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 4:14:04 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12993
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 5:11:53 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 5:11:55 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12993
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 5:12:42 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 5:12:43 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12993
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 5:20:07 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 5:45:17 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA()
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple()
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 6:41:05 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 6:41:05 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12993
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 7:19:28 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : System.Data
+Method        : Bind
+Date        : 7:22:51 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Cannot find column [URL_RW_PATH].
+Stack Trace    : at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataExpression..ctor(DataTable table, String expression)
+   at System.Data.Select..ctor(DataTable table, String filterExpression, String sort, DataViewRowState recordStates)
+   at System.Data.DataTable.Select(String filterExpression)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12958
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 7:22:51 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12995
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 7:23:26 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : System.Data
+Method        : Bind
+Date        : 7:30:02 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Cannot find column [URL_RW_PATH].
+Stack Trace    : at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataExpression..ctor(DataTable table, String expression)
+   at System.Data.Select..ctor(DataTable table, String filterExpression, String sort, DataViewRowState recordStates)
+   at System.Data.DataTable.Select(String filterExpression)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12958
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 7:30:02 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12995
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 7:41:01 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : System.Data
+Method        : Bind
+Date        : 8:28:20 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Cannot find column [URL_RW_PATH].
+Stack Trace    : at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataExpression..ctor(DataTable table, String expression)
+   at System.Data.Select..ctor(DataTable table, String filterExpression, String sort, DataViewRowState recordStates)
+   at System.Data.DataTable.Select(String filterExpression)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12958
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 8:28:20 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12995
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : StringToNumber
+Date        : 8:29:19 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Input string was not in a correct format.
+Stack Trace    : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at search_searchrsltproductfamily.GetStoreConfig() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 116
+   at search_searchrsltproductfamily.Page_Load(Object sender, EventArgs e) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\search\searchrsltproductfamily.ascx.cs:line 101
+^^-------------------------------------------------------------------^^
+Source        : System.Data
+Method        : Bind
+Date        : 8:39:17 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Cannot find column [URL_RW_PATH].
+Stack Trace    : at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.BinaryNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataExpression..ctor(DataTable table, String expression, Type type)
+   at System.Data.DataExpression..ctor(DataTable table, String expression)
+   at System.Data.Select..ctor(DataTable table, String filterExpression, String sort, DataViewRowState recordStates)
+   at System.Data.DataTable.Select(String filterExpression)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12958
+^^-------------------------------------------------------------------^^
+Source        : mscorlib
+Method        : AbortInternal
+Date        : 8:39:17 PM
+Time        : 7/22/2020
+Computer    : P3-SD22
+Error        : Thread was being aborted.
+Stack Trace    : at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.RedirectPermanent(String url)
+   at UC_maincategory.GetSubCategoryEA() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12995
+   at UC_maincategory.Get_Value_Breadcrum_SNew_simple() in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\WAGNER\UC\maincategory.ascx.cs:line 12435
+^^-------------------------------------------------------------------^^

@@ -1,0 +1,6 @@
+.open { display: none; }
+@media only screen and (max-width: 767px) {
+#nav {display: none;}
+.open {display: block;}
+#pageslide {width: 200px; overflow: auto;}
+}

@@ -1,0 +1,1065 @@
+Method        : /mp3/ps/
+Date        : 09:32:59.9036679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/mp3/ps/
+Date        : 09:32:59.9096679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=mp3
+Date        : 09:32:59.9216679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:33:01.8746679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 09:33:03.1476679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 09:33:03.1756679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCables & Connectors
+Date        : 09:33:03.1806679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 09:33:03.1866679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 09:33:03.2016679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesNew Products
+Date        : 09:33:03.2206679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 09:33:03.2316679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesTools & Test
+Date        : 09:33:03.4686679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:33:08.5116679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:33:10.1506679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /automotive/mp3/ps/
+Date        : 09:33:20.8686679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/automotive/mp3/ps/
+Date        : 09:33:21.3646679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : AllProducts////WESAUSTRALASIA////UserSearch1=mp3////AutomotiveGet_Value_Breadcrum
+Date        : 09:33:28.1686679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:33:58.4106679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAdaptors / FM Transmitters
+Date        : 09:34:01.5436679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMounting Brackets
+Date        : 09:34:01.5516679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /automotive/mp3/ps/
+Date        : 09:42:44.9036679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/automotive/mp3/ps/
+Date        : 09:42:44.9116679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:42:54.4076679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAdaptors / FM Transmitters
+Date        : 09:42:56.6146679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMounting Brackets
+Date        : 09:42:56.6466679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:46:49.6356679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:46:51.9466679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /mp3/ps/
+Date        : 09:47:10.8066679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/mp3/ps/
+Date        : 09:47:10.8216679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=mp3
+Date        : 09:47:10.8346679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:47:12.6866679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 09:47:13.5226679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 09:47:13.5326679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCables & Connectors
+Date        : 09:47:13.5576679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 09:47:13.5726679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 09:47:13.5876679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesNew Products
+Date        : 09:47:13.6006679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 09:47:13.6336679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesTools & Test
+Date        : 09:47:13.8266679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:47:16.5356679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:47:17.4726679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:47:18.3376679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:47:18.8116679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /audio-speakers-pa/mp3/ps/
+Date        : 09:47:22.9646679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/audio-speakers-pa/mp3/ps/
+Date        : 09:47:23.0076679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 09:47:25.8126679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPA & Multi-Zone
+Date        : 09:47:28.7296679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpeaker Ceiling & Inwall
+Date        : 09:47:28.7346679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /mp3/ps/
+Date        : 10:01:41.3456679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/mp3/ps/
+Date        : 10:01:41.3656679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=mp3
+Date        : 10:01:41.3916679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:01:44.0886679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 10:01:44.7706679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 10:01:44.7876679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCables & Connectors
+Date        : 10:01:44.8026679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 10:01:44.8116679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 10:01:44.8166679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesNew Products
+Date        : 10:01:44.8216679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 10:01:44.8306679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesTools & Test
+Date        : 10:01:44.8366679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:01:47.8546679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:01:48.3216679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:01:49.3686679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:01:50.5196679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /audio-speakers-pa/mp3/ps/
+Date        : 10:01:53.6446679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/audio-speakers-pa/mp3/ps/
+Date        : 10:01:53.6946679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : AllProducts////WESAUSTRALASIA////UserSearch1=mp3////Audio Speakers & PAGet_Value_Breadcrum
+Date        : 10:01:53.7006679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:01:56.2046679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPA & Multi-Zone
+Date        : 10:01:58.7006679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpeaker Ceiling & Inwall
+Date        : 10:01:58.7326679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /cellular-accessories/ct/
+Date        : 10:02:46.1556679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/cellular-accessories/ct/
+Date        : 10:02:46.1656679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9695
+Date        : 10:02:48.0096679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 10:02:49.4976679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 10:02:49.5226679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 10:02:49.5296679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 10:02:49.5396679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 10:02:49.5436679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 10:02:49.5496679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 10:02:49.5576679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 10:02:49.5636679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 10:02:49.5696679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 10:02:49.5846679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 10:02:49.6236679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.NullReferenceException: Object reference not set to an instance of an object.
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9695
+Date        : 10:02:53.5316679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 10:02:53.5526679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 10:02:53.5806679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 10:02:53.5936679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 10:02:53.6066679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 10:02:53.6206679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at UC_categorylist.DynamicPag_RenderHTMLjson(String url, Int32 ipageno, String eapath, String BCEAPath, String ViewMode, String irecords, String balrecords) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\WAGNER\UC\categorylist.ascx.cs:line 3639
+Date        : 10:02:53.6406679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /acer/cellular-accessories/ct/
+Date        : 10:03:14.4416679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/acer/cellular-accessories/ct/
+Date        : 10:03:14.4676679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=wesCatBrand&indexed=1&ResultsPerPage=0&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA%2f%2f%2f%2fCellular+Accessories&RequestData=CA_AttributeSelected&AttribSel=Brand%3d%27Acer%27
+Date        : 10:03:14.4776679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAccessories & Data
+Date        : 10:03:20.0396679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV & MP3 Accessories
+Date        : 10:03:20.0496679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAntennas - Connectors - Accessories
+Date        : 10:03:20.0546679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBatteries & Power Banks
+Date        : 10:03:20.0656679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesBluetooth Solutions
+Date        : 10:03:20.0716679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCar Install & Mounting
+Date        : 10:03:20.0756679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCarrying & Styling
+Date        : 10:03:20.0896679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesChargers
+Date        : 10:03:20.0956679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesHandsfree
+Date        : 10:03:20.0996679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesMemory & SIM Cards
+Date        : 10:03:20.1046679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPhone Repair Tools
+Date        : 10:03:20.1086679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpare Parts
+Date        : 10:03:20.1146679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://cdn-staging.wes.com.au/WAG/images/noimage.gif
+Date        : 10:03:20.3116679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /iconia-tab-a500/acer/cellular-accessories/bb/
+Date        : 10:07:11.6836679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/iconia-tab-a500/acer/cellular-accessories/bb/
+Date        : 10:07:11.7186679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=prod id,False&subcategories=True&returnskus=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%252f%252f%252f%252fWESAUSTRALASIA%252f%252f%252f%252fCELLULAR%2bACCESSORIES%252f%252f%252f%252fAttribSelect%253dBrand%253d%2527Acer%2527&RequestData=CA_AttributeSelected&AttribSel=Model+%3d+%27Acer%3aIconia%2bTab%2bA500%27
+Date        : 10:07:11.7456679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /mp3/ps/
+Date        : 10:31:47.2716679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/mp3/ps/
+Date        : 10:31:47.2876679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=mp3
+Date        : 10:31:47.3046679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:32:51.8196679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 10:32:52.4346679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 10:32:52.4476679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCables & Connectors
+Date        : 10:32:52.4666679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 10:32:52.4706679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 10:32:52.4906679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 10:32:52.4996679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesNew Products
+Date        : 10:32:52.5006679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesTools & Test
+Date        : 10:32:52.5136679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:32:58.7586679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:33:00.3396679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:33:02.8976679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/audio-speakers-pa/mp3/ps/
+Date        : 10:33:04.9766679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /audio-speakers-pa/mp3/ps/
+Date        : 10:33:04.9826679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : AllProducts////WESAUSTRALASIA////UserSearch1=mp3////Audio Speakers & PAGet_Value_Breadcrum
+Date        : 10:33:04.9946679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:33:07.5856679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPA & Multi-Zone
+Date        : 10:33:08.1116679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSpeaker Ceiling & Inwall
+Date        : 10:33:08.3756679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /pa-multi-zone/mp3/ps/
+Date        : 10:33:18.1026679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/pa-multi-zone/mp3/ps/
+Date        : 10:33:18.1196679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : AllProducts////WESAUSTRALASIA////UserSearch=mp3////Audio Speakers & PA////PA & Multi-ZoneGet_Value_Breadcrum
+Date        : 10:33:18.1366679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 10:33:21.2376679
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /tv-brackets/ps/
+Date        : 12:34:22.2476441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/tv-brackets/ps/
+Date        : 12:34:22.2706441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=tv+brackets
+Date        : 12:34:22.2806441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:34:25.9346441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 12:34:26.5556441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 12:34:26.5686441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV TV SAT Installation
+Date        : 12:34:26.5906441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 12:34:26.5936441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 12:34:26.5976441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesElectronic Components
+Date        : 12:34:26.6176441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesNew Products
+Date        : 12:34:26.6756441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 12:34:26.8056441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSecurity
+Date        : 12:34:26.8656441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesService & Repair Parts
+Date        : 12:34:26.8726441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:34:32.4426441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:34:34.2406441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:38:38.8226441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:38:39.5136441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : /tv-brackets/ps/
+Date        : 12:38:50.1426441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : inside if  page_pre/tv-brackets/ps/
+Date        : 12:38:50.1696441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=tv+brackets
+Date        : 12:38:50.1776441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:38:53.6006441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 12:38:54.4656441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAV TV SAT Installation
+Date        : 12:38:54.4746441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 12:38:54.4756441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 12:38:54.4846441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 12:38:54.4876441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesElectronic Components
+Date        : 12:38:54.4946441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesNew Products
+Date        : 12:38:54.5026441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 12:38:54.5096441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesSecurity
+Date        : 12:38:54.5196441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesService & Repair Parts
+Date        : 12:38:54.5316441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:39:00.3376441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9613
+Date        : 12:39:02.8466441
+Time        : 8/2/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:716e24e7-191d-4de5-8ff9-85a9b9285f0f
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:17:08.8352792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:b9a3df5f-787a-428a-ba39-902d759c80df
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:19:26.6922792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:75d48140-1ef0-46d3-8a0a-8e55469bbf29
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:20:44.5912792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:75d48140-1ef0-46d3-8a0a-8e55469bbf29
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:21:05.4242792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:f1e2fc20-76b1-4791-af74-e35cf06d211a
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:22:58.8532792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:bdc4f12c-dd00-42f6-bb66-ae3dfbf748bf
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:32:33.0202792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:bdc4f12c-dd00-42f6-bb66-ae3dfbf748bf
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:33:32.7782792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : inside continue
+Date        : 12:37:07.5322792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : Remove continue22843
+Date        : 12:37:07.5492792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : Add productid
+Date        : 12:37:07.5922792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:d24ec721-04e0-410c-996c-8eee9ff2a578
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:37:23.1802792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:d24ec721-04e0-410c-996c-8eee9ff2a578
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:37:40.3092792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:d24ec721-04e0-410c-996c-8eee9ff2a578
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:38:27.2152792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : System.Data.SqlClient.SqlException (0x80131904): Incorrect syntax near '='.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\CatalogDB\HelperDB.cs:line 1559
+ClientConnectionId:1d8bc484-6252-4f41-acc4-8dde1e08aec0
+Error Number:102,State:1,Class:15,3,0,,,GET_USER_BILL_INFO
+Date        : 12:40:37.9302792
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : /71858/ps/
+Date        : 19:50:18.3451248
+Time        : 8/13/2019
+^^-------------------------------------------------------------------^^
+Method        : /mp3/ps/
+Date        : 12:41:55.1189661
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : http://14.202.163.38:9300/EasyAsk/apps/Advisor.jsp?disp=json&oneshot=1&dct=webcat&indexed=1&ResultsPerPage=6&defsortcols=EAScore,False&subcategories=True&eap_PriceCode=1&RequestAction=advisor&CatPath=AllProducts%2f%2f%2f%2fWESAUSTRALASIA&RequestData=CA_Search&q=mp3
+Date        : 12:42:14.0966050
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9652
+Date        : 12:42:53.3155234
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAudio Speakers & PA
+Date        : 12:42:55.5944822
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesAutomotive
+Date        : 12:42:55.5954835
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCables & Connectors
+Date        : 12:42:55.6004900
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesCellular Accessories
+Date        : 12:42:55.6024926
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesData & Computer
+Date        : 12:42:55.6054965
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesPower & Lighting
+Date        : 12:42:55.6095017
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : attributesTools & Test
+Date        : 12:42:55.6105030
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9652
+Date        : 12:43:02.6906953
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^
+Method        : System.ArgumentException: Column 'PROD_SUBSTITUTE' does not belong to table Table.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.Get_Family_Product_ValuesJson(String DataType, DataTable ds, INavigateResults res, IResultRow item1, String name, DataSet Dssdv, String attributetype, String attributevalue) in d:\Tradingbell\Development\CDN_Wagner_Production\Wagner_2012_Prod_Source\EasyAsk\EasyAsk_WAGNER.cs:line 9652
+Date        : 12:43:04.1986531
+Time        : 8/17/2019
+^^-------------------------------------------------------------------^^

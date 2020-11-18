@@ -1,0 +1,78 @@
+Method        : System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at TradingBell.WebCat.EasyAsk.EasyAsk_WAGNER.LoadLinkTXT(String login) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\EasyAsk\EasyAsk_WAGNER.cs:line 8151
+Date        : 13:19:08.1282266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\CatalogDB\HelperDB.cs:line 1564,,,,,OPTION_NAME_ALL
+Date        : 13:23:36.2012266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\CatalogDB\HelperDB.cs:line 1564,,,,,OPTION_NAME_ALL
+Date        : 13:23:36.2632266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\CatalogDB\HelperDB.cs:line 1564,,,,,OPTION_NAME_ALL
+Date        : 13:23:36.2952266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\CatalogDB\HelperDB.cs:line 1564,,,,,OPTION_NAME_ALL
+Date        : 13:23:36.5982266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\CatalogDB\HelperDB.cs:line 1564,,,,,OPTION_NAME_ALL
+Date        : 13:23:36.6582266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at TradingBell.WebCat.CatalogDB.HelperDB.GetGenericDataDB(String Catalog_ID, String Param1, String Param2, String Param3, String Param4, String ReturnOption, ReturnType ReturnType) in E:\TradingBell\Development\CDN_BIGTOP\BIGTOP\CatalogDB\HelperDB.cs:line 1564,,,,,OPTION_NAME_ALL
+Date        : 13:23:36.6882266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 777
+Date        : 13:23:37.2262266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 777
+Date        : 13:23:37.2342266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^
+Method        : exec STP_TBWC_CANCEL_ORDER_ITEM_PRERECORDS 777
+Date        : 13:23:37.2402266
+Time        : 11/18/2020
+^^-------------------------------------------------------------------^^

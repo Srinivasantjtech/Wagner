@@ -1,0 +1,17 @@
+IsSucess:False,7/17/2020 02:30:31.0565434
+************************,7/17/2020 02:31:20.6125434
+ br  Orderid=138469authenticate_successful,7/17/2020 02:31:22.7905434
+IsSucess:False,7/17/2020 02:46:59.8285434
+************************,7/17/2020 02:47:00.0615434
+ br  Orderid=138481authenticate_successful,7/17/2020 02:47:00.3695434
+IsSucess:False,7/17/2020 10:54:45.9315434
+************************,7/17/2020 10:55:02.8955434
+ br  Orderid=138481authenticate_successful,7/17/2020 10:55:05.4545434
+IsSucess:False,7/17/2020 11:16:02.7425434
+************************,7/17/2020 11:16:02.8105434
+ br  Orderid=138481authenticate_successful,7/17/2020 11:16:02.8795434
+Order Amount Missmatch34.57--4.15--Orderid138481,7/17/2020 11:24:59.4645434
+Order Amount Missmatch34.57--4.15--Orderid138481,7/17/2020 11:26:04.2735434
+Order Amount Missmatch34.57--4.15--Orderid138481,7/17/2020 11:27:29.3315434
+ br  Orderid=138481authenticate_failed,7/17/2020 11:30:59.8405434
+ br  Orderid=138481authenticate_failed,7/17/2020 11:34:57.8415434

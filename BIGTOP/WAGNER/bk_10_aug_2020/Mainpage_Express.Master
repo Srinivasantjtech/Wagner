@@ -1,0 +1,1090 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Mainpage_Express.master.cs" Inherits="WES.Mainpage_Express" %>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%
+    Response.Buffer = true;
+%>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <%@ Import Namespace="System.Data" %>
+<%@ Import Namespace ="TradingBell.WebCat.Helpers" %>
+<%@ Import Namespace ="TradingBell.WebCat.CatalogDB" %>
+<%@ Import Namespace="System.Collections.Generic" %>
+<%@ Import Namespace ="TradingBell.WebCat.CommonServices" %>
+<head id="Head1" runat="server">
+    <asp:ContentPlaceHolder ID="metatag" runat="server">
+    </asp:ContentPlaceHolder>
+     
+    <style>
+        .dpyblk {
+            display: block;
+        }
+
+        .dpynone { 
+            display: none;
+        }
+    </style>
+   
+    <link rel="publisher" href="https://plus.google.com/116358396388718801562" />
+    <link rel="search" type="application/opensearchdescription+xml" title="Wagner Online Store"
+        href="/opensearch.xml" />
+    <link rel="icon" href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>images/favicon.ico" />
+    <meta name="language" content="english" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <%--  <meta http-equiv="content-type" content="text/html; charset=utf-8" />--%>
+  <%--  <meta http-equiv="content-type" content="charset=utf-8" />--%>
+    <link id="SeoTag" rel="canonical" href="https://www.wagneronline.com.au/" runat="server" />
+    <%=ST_prev_next() %>
+
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link href="https://www.wagneronline.com.au" rel="dns-prefetch" />
+     <link href="https://cdn.wes.com.au/" rel="dns-prefetch" />
+    <title></title>
+    <meta name="description" content="Wagner Electronics Online Store for Audio Visual Installation, Cellular Accessories, Electronic Components, Batteries, Chargers, AC / DC Power Supplies, Lighting, Telephone accessories, Electronic Test Equipment, Tools, Audio Speakers, car sound, Data Racks, Computer Accessories, Cat5/6 Cables, TV Antennas, Public address (PA) 100v, home theatre, security cctv and IP cameras, alarm systems, Leads and Wire, Plugs and Sockets, Soldering Ions and Accessories and more." />
+    <meta name="keywords" content="Wagner Electronics Online Store, Audio, amplifiers, speakers, alarms, transformers, relays and switches, connectors, hi fi, tv brackets, surround sound, memory cards / blank media, subwoofer, amplifier, mp3 player, cctv camera & domes, Electronic Components, Hakko, Tools, Engineers, cellink, fire evacuation, enclosures, opus one, remote controls, heatshrink, capacitors and resistors, inductors and toroids, phoenolic pcb, heatsinks, fuses / circuit breakers, trimpots, crimps, intercoms, multimeters, digital video recorders, cctv domes, microphones, level controls, mixers, electronics, Cellink, Cellular Accessories, Audio Visual Installation, Network, Optical Fibre, Data Centre, Custom Manufacturing, Surge Protection, Interconnect, Apple, Samsung, Nokia, Distributors - Wagner Electronics" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/combined.css" rel="stylesheet" />
+     <script src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>Scripts/combined_express.js"></script>
+
+    <%--<link href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>css/bootstrap.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" rel="stylesheet" type="text/css"/>--%>
+    <%--<link href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/main.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" rel="stylesheet" type="text/css" media="screen" />--%>
+    <%--<link href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>css/main1.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" rel="stylesheet" type="text/css"/>--%>
+   <%-- <%if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("login.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("myaccount.aspx") == true)
+   { %>
+    <link href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/forms.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" rel="stylesheet" type="text/css" media="screen" />
+    <%} %>--%>
+   <%-- <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css" />
+    <link href="//fonts.googleapis.com/css?family=Oswald:400,300" rel="stylesheet" type="text/css" />--%>
+    <%--<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>scripts/jquery-1.11.1.js" type="text/javascript"></script>--%>
+   
+  
+        <%--<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>scripts/jquery-3.1.1.min.js" type="text/javascript"></script>--%>
+   <script type="text/javascript">
+
+       $(document).ready(function () {
+           $('.scrollup').click(function () {
+               $("html, body").animate({ scrollTop: 0 }, 600);
+               return false;
+           });
+
+       });
+       $(document).ready(function () {
+           $('.scrollTop').click(function () {
+               $("html, body").animate({ scrollTop: 0 }, 600);
+               return false;
+           });
+
+       });
+       $(document).ready(function () {
+           $('ul#categorynav li').mouseenter(function (e) {
+               $(this).children('div.drop').delay(1000).slideDown('fast');
+
+           });
+           $('ul#categorynav li').mouseleave(function (e) {
+               $(this).children('div.drop').stop().hide();
+
+           });
+       });
+
+</script>
+   <%--  <script type="text/javascript">
+         $(window).load(function(){
+             $('.jq_sidebar_fix').sidebarFix({
+                 frame: $('.middle')
+             });
+         });
+		</script>--%>
+     <script type="text/javascript">
+         (function (i, s, o, g, r, a, m) {
+             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                 (i[r].q = i[r].q || []).push(arguments)
+             }, i[r].l = 1 * new Date(); a = s.createElement(o),
+
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+
+         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+         ga('create', 'UA-46606700-1', 'auto');
+         ga('send', 'pageview');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Ads: 1051450606 --> <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-5R78S54"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'GTM-5R78S54'); </script>
+    <style>
+
+
+</style>
+    <%if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("fl.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("pd.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("login.aspx") == true)
+   { %>
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=myCallBack&render=explicit" async defer></script>
+    <%} %>
+    <%--<link rel="stylesheet" type="text/css" href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/animate.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" media="screen" />--%>
+    <%--<script type="text/javascript" src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>scripts/animate_on_scroll.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>"></script>--%>
+   
+         <%-- <script src="/Scripts/Notification_Subscribe.js" type="text/javascript"></script>--%>
+     <%--   <script src="/scripts/stickySidebar.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>" type="text/javascript"></script>
+    <style type="text/css">
+#sidebar { height:580px; overflow-y:auto;  }
+#sidebar.sticky { float: none; position: fixed; top: 0px; z-index: 6; left: auto;width:20%; }
+		
+</style>
+    <script type="text/javascript" >
+        $(document).ready(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 200) {
+                    $('#sidebar').stickySidebar({
+                        sidebarTopMargin: 68,
+                        footerThreshold: 100
+                    });
+                } else {
+                    $('#sidebar').stickySidebar({
+                        sidebarTopMargin: 180,
+                        footerThreshold: 100
+                    });
+                }
+            });
+
+        });
+    </script>--%>
+   <%--  || HttpContext.Current.Request.Url.ToString().ToLower().Contains("pd.aspx") == true--%>
+ <%--   <%if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("fl.aspx") == true)
+   { %>
+    <script language="javascript" type="text/javascript">
+        var recaptcha1;
+        var recaptcha2;
+        var recaptcha3;
+        var myCallBack = function () {
+            recaptcha1 = grecaptcha.render('recaptcha1', {
+             
+                'sitekey': '<%=ConfigurationManager.AppSettings["Googlerecaptcha"] %>',
+                     'theme': 'light'
+                 });
+
+                 recaptcha2 = grecaptcha.render('recaptcha2', {
+            
+                     'sitekey': '<%=ConfigurationManager.AppSettings["Googlerecaptcha"] %>',
+                 'theme': 'light'
+             });
+
+                 recaptcha3 = grecaptcha.render('recaptcha3', {
+              
+                     'sitekey': '<%=ConfigurationManager.AppSettings["Googlerecaptcha"] %>',
+                 'theme': 'light'
+             });
+             };
+    </script>
+    <% } %>--%>
+
+
+    <% if (HttpContext.Current.Session["USER_ID"] != "" && Convert.ToInt32(HttpContext.Current.Session["USER_ID"].ToString()) > 0 && HttpContext.Current.Session["USER_ID"].ToString() != "777")
+                                   {
+                                      
+                                %>
+
+    <!-- Facebook Pixel Code -->
+
+<%--<script type="text/javascript">
+
+    !function(f,b,e,v,n,t,s)
+
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+        n.queue=[];t=b.createElement(e);t.async=!0;
+
+        t.src=v;s=b.getElementsByTagName(e)[0];
+
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+    'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '767164720111274', {
+
+        em: '{{ <%= Session["Emailid"].ToString() %> }}',
+
+        fn: '{{ <%= Session["Firstname"].ToString() %>  }}',
+
+        ln: '{{ <%= Session["Lastname"].ToString() %>  }}'
+
+    });
+
+    fbq('track', 'PageView');
+
+</script>--%>
+
+<noscript><img height="1" width="1" style="display:none"
+
+  src="http://www.facebook.com/tr?id=767164720111274&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- End Facebook Pixel Code -->
+
+
+        <% }  %>
+
+     <% else {  %>
+
+   <!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }; if (!f._fbq) f._fbq = n;
+        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '767164720111274');
+    fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=767164720111274&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->  
+
+
+       <% }  %>
+</head>
+    <%--  <div class="notify_box clearfix" id="notification_wagner" style="display:none">
+	<div class="notity_img">
+    	<img src="images/push-notifications.png" class="img-responsive" alt="Notification">
+    </div>
+    <div class="notify_text">
+    	<h4>Get Latest Updates by Wagner</h4>
+        <p>Click allow when prompted about Notification</p>
+    </div>
+    <div class="notify_btn">
+    	<a href="#" class="btn btn-default" onclick="HideSubscribe();">Not Now</a>
+        <a href="#" class="btn btn-primary" onclick="CallSubscribe();">Allow</a>
+    </div>
+</div>--%>
+  <%--  onload="checksubscription();"--%>
+
+    <script type="text/javascript">
+        function myFunction()
+
+        {
+     //       tb_show(null, null, null);
+        }
+
+        //$(window).unload(function () {
+        //    alert("smithjtech");
+        //});
+
+        window.onbeforeunload = function (e) {
+     //       alert("unload");
+        
+            if (document.getElementById("ctl00_maincontent_hfhidepaypaldiv").value == "1") {
+                document.getElementById("ctl00_success_payment_whiteScreen").style.display = "block";
+                document.getElementById("ctl00_success_payment_popup").style.display = "block";
+            }
+   //         tb_show(null, null, null);
+        }
+
+
+    </script>
+<body class="fondo_" style="-webkit-print-color-adjust: exact;" id="shopping_cart"  onunload="myFunction()">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <form id="form1" runat="server">
+        <%--   <div class="mar_share">
+          <div class="share_label" >Share</div>
+          <ul class="Share_ul_m">       
+            <li class="share_li">
+            <a class="sicon_fb" href="https://www.facebook.com/sharer/sharer.php?u=http://<%= HttpContext.Current.Request.Url.Host%><%=HttpContext.Current.Request.RawUrl%>" title="share on facebook" target="_blank">
+      
+            </a></li>
+            <li class="share_li">
+            <a class="sicon_tw" href="http://twitter.com/share?url=http://<%= HttpContext.Current.Request.Url.Host%><%=HttpContext.Current.Request.RawUrl%>" title="share on twitter" target="_blank">
+     
+            </a></li>
+              <li class="share_li">
+              <a class="sicon_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://<%= HttpContext.Current.Request.Url.Host%><%=HttpContext.Current.Request.RawUrl%>" title="share on Linkedin" target="_blank">
+           
+              </a></li>
+            <li class="share_li">
+            <a class="sicon_pin" href="https://pinterest.com/pin/create/button/?url=&amp;media=http://<%= HttpContext.Current.Request.Url.Host%><%=HttpContext.Current.Request.RawUrl%>"  title="share on pinterest" target="_blank">
+         
+            </a></li>
+            <li class="share_li"> 
+            <a class="sicon_email" href="mailto:?Subject=Wagner Electronics&amp;Body= http://<%= HttpContext.Current.Request.Url.Host%><%=HttpContext.Current.Request.RawUrl%>"  title="share on email" target="_blank">
+          
+            </a></li>
+             <li class="share_li">
+             <a class="sicon_gplus" href="https://plus.google.com/share?url=http://<%= HttpContext.Current.Request.Url.Host%><%=HttpContext.Current.Request.RawUrl%>" title="share on googleplus" target="_blank">
+           
+             </a></li>
+        <li class="share_li">
+          <span class="st_sharethis_custom" ></span>
+        </li>  
+        
+          </ul>
+        </div>--%>
+
+    <%--    <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true" ScriptMode="Release"
+            EnablePartialRendering="false">
+        </asp:ScriptManager>--%>
+
+        <%=ST_Top_Cart_item() %>
+
+
+       <%-- <div class="slide_header hidden-sm hidden-xs" style="display: none;">
+            <div class="container-fluid">
+                <div class="ph10">
+                    <div class="col-md-5 nolftpadd">
+                        <div class="hidden_logo">
+                            <a href="/">
+                                <img class="img-responsive" alt="Wagner Electronics" src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>images/wagner-logo-white.png" />
+
+                            </a>
+                        </div>
+                    </div>
+                    <%   string shtml = string.Empty;
+                         string stylefilter = string.Empty;
+                         string stylesearch = string.Empty;
+                         shtml = ST_TOP_CATEGORY_SCROLLMENU();
+                         if (shtml.Length > 0)
+                         {
+                             stylefilter = "col-md-5 dpyblk";
+                             stylesearch = "col-md-5";
+                         }
+                         else
+                         {
+                             stylefilter = "col-md-5 dpynone";
+                             stylesearch = "col-md-10";
+                         }
+
+                         if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("ct.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("express_checkout.aspx") == true)
+                         {
+                             stylesearch = "col-md-5";
+                         }
+                                
+                    %>
+
+
+                    <% if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("ct.aspx") == false)
+                       { %>
+                    <div class="<%=stylefilter %>">
+                        <div class="scroll_filter-wrap">
+                            <a data-toggle="dropdown" class="dropdown-toggle" href="#"></a>
+                            <li id="scroll_filter" class="dropdown">
+                                <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false">Filters By Category</a>
+                                <%=shtml%>
+                                <%--<%=ST_TOP_CATEGORY_SCROLLMENU()%>-%>
+                            </li>
+                        </div>
+                    </div>
+                    <% } %>
+
+                    <div class="<%=stylesearch %>">
+                        <div class="mainsearchbox clearfix">
+                            <%--<form action="#" method="get" class="form-horizontal">-%>
+                            <fieldset class="search-box">
+                                <input type="text" placeholder="Quick Product Search" id="txtsearch_automenu" onkeypress="return urlredirect_enter(event)" />
+                                <button value="Search" class="srch-btn" type="submit" onclick="return urlredirectK_automenu(event)"></button>
+                            </fieldset>
+                            <%--</form>-%>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5">
+                        <div class="hidden_viewcart">
+                            <ul class="top-menu">
+                                <li id="navcart-top" class="dropdown">
+                                    <%=CartCount %>
+                                    <%   
+                                        string cart_cnt_top = "0";
+                                        int n;
+                                        bool isNumeric = int.TryParse(CartCount_mobile, out n);
+                                        if (CartCount_mobile != "" && isNumeric == true)
+                                        {
+                                            cart_cnt_top = CartCount_mobile;
+                                        }
+                                        else
+                                        {
+                                            CartCount_mobile = "0";
+                                            cart_cnt_top = "0";
+                                        }
+                                        if (Convert.ToInt32(cart_cnt_top) > 0)
+                                        {
+                     
+                                    %>
+                                    <div class="dropdown-menu" id="navcart-top-div">
+                                        <ul class="inner-cart">
+
+                                            <%=Cartdetail%>
+                                        </ul>
+                                    </div>
+                                    <%} %>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>--%>
+
+
+        <div class="container-fluid zerospace">
+            <div class="hidden-lg">
+                <div id="page_view">
+                    <header class="">
+          <div class="container padding_left_right_mob hidden-lg hidden-md">
+            
+            <nav role="navigation">
+              <ul id="main_menu">                    
+              	<li class="wlogo"><a href="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>">Home</a></li>
+                <li class="products dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle focused" href="#products_menu" aria-expanded="false">Products</a>
+                	<div id="mobile-product" class="dropdown-menu">
+                    	<div>
+                        	<div id="mobile-product_menu">
+                            	 <%=ST_TOP_CatMenuMobile()%>
+                            
+                              
+                                
+                             </div>
+                             
+                        </div>
+                    </div>
+                </li>
+                <li class="mobilesearch dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Search</a>
+                	<div class="dropdown-menu">
+                         <div id="store_finder">
+                            <div>
+                                <div class="browse">
+                                    <p class="text-center"><span>Quick Product Search!</span></p>
+
+ 									<p class="text-center"><span>Enter key words or product Codes</span></p>
+                                </div>
+                                <div class="mainsearchbox clearfix">
+                                	
+                               
+                                        <fieldset class="search-box">
+                                            <input type="text" placeholder="Quick Product Search!" name="srcfield" id="srcfield"/>
+                                            <button value="Search" class="srch-btn" type="submit" onclick="return urlredirectKM(event)" onkeypress="return urlredirectK(event)"></button>
+                                        </fieldset>
+                                  
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                </li>
+                <li class="stores dropdown"><a data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="bp bp2 bp3 bp4">Stores</span><span class="bp bp1">Account</span></a>
+                	<div id="tab-dropdown" class="dropdown-menu">
+               <div id="my_accounts">
+                                                                                             <%  if (System.Web.HttpContext.Current.Session["USER_ID"] != null && System.Web.HttpContext.Current.Session["USER_ID"].ToString() != "" && Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) > 0 && Convert.ToInt32(System.Web.HttpContext.Current.Session["USER_ID"].ToString()) != 777)
+                                                                                                 {
+ %>
+ <div>
+                    
+                                                                                 
+                                            <div style="border-top: 1px dashed #1059a3;  padding-top: 20px;" class="create">
+                                                <h2>User Logout<a href="/logout.aspx" class="btn"><span>Logout</span></a></h2>
+                                            </div>
+
+                                            <div style="border-top: 1px dashed #1059a3; 
+                                            border-bottom: 1px dashed #1059a3;  padding-top: 20px;" class="create">
+                                                <h2>View Cart <a href="#" class="btn"><span>View Cart</span></a></h2>
+                                            </div>
+ 
+                                            <div style="border-top: 1px dashed #1059a3; 
+                                            border-bottom: 1px dashed #1059a3;  padding-top: 20px;" class="create">
+                                                <h2>MyAccount <a href="/myaccount.aspx" class="btn"><span>MyAccount</span></a></h2>
+                                            
+                    				
+                    																											
+                                    </div>
+
+              </div>
+
+ <% } %>
+ <% else
+                                                                                                 { %>
+ <div>
+                    
+                                                                                 
+                                            <div style="border-top: 1px dashed #1059a3;  padding-top: 20px;" class="create">
+                                                <h2>Registered User<a href="/login.aspx" class="btn"><span>Login</span></a></h2>
+                                            </div>
+                                            
+                                            <div style="border-top: 1px dashed #1059a3;  padding-top: 20px;" class="create">
+                                                <h2>New to Wagner? <a href="/login.aspx" class="btn"><span>Create an Account</span></a></h2>
+                                            </div>
+
+                                            <div style="border-top: 1px dashed #1059a3; 
+                                            border-bottom: 1px dashed #1059a3;  padding-top: 20px;" class="create">
+                                                <h2>View Cart <a href="/orderDetails.aspx?&bulkorder=1&Pid=0&ORDER_ID=0" class="btn"><span>View Cart</span></a></h2>
+                                            </div>
+                                           
+                    				
+                    																											
+                                    </div>
+
+              </div>
+ <%} %>
+                                  
+                    </div>
+                    
+                </li>
+                
+                <li class="account dropdown" id="Contactus"> <a class="dropdown-toggle" href="/contactus.aspx" aria-expanded="false"><span class="bp bp3 bp4">My </span>Contact<span class="salutation bp bp3 bp4" id=""></span></a> 
+                	<div class="dropdown-menu info-bg">	
+                        <div class="hidden-xs">
+                        	<div id="awesome-tab">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a data-toggle="tab" href="/contactus.aspx">Contact Us</a></li>
+                                <li><a data-toggle="tab" href="#mobile-about">About Us</a></li>
+                                
+                                
+                            </ul>
+                            
+                      
+                            
+                        </div>
+    					
+                        </div>
+                        
+                        
+
+                        
+                        
+                      
+                    </div>
+                
+                </li>
+                
+                
+                
+                <li class="cart dropdown" id="atagtoogle">
+                
+              
+                  <%  if (Convert.ToInt32(CartCount_mobile) > 0)
+                      {
+                     %>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#" aria-expanded="false" >
+                    <% } %>
+                    <%else
+                      { %>
+                      <a class="dropdown-toggle" href="/orderDetails.aspx?CartItems=0" aria-expanded="false" rel="nofollow">
+                          <% } %>
+                 
+                 <span id="itemsCount">&nbsp;<%=CartCount_mobile%></span><span class="mob_cart_item">Cart Items</span></a> 
+               
+               <% string cart_cnt_mob = CartCount_mobile;
+                  string ddmclass = "";
+                  if (Convert.ToInt32(cart_cnt_mob) > 0)
+                  {
+                      ddmclass = "dropdown-menu";
+                  }
+                      %>
+                      <div id="cart_mop" class="<%=ddmclass%>">
+                <%   
+                     
+                    if (Convert.ToInt32(cart_cnt_mob) > 0)
+                    {
+                   
+                      %>
+                 <%--<div class="dropdown-menu" >--%>
+                     <div id="cart">
+          
+             <%=Cartdetail_mobile%>  
+          </div>
+         <%-- </div>--%>
+                	<%} %>
+                    </div>
+                
+                </li>
+                
+              </ul>
+
+              
+              
+            </nav>
+            
+          </div>
+        </header>
+                </div>
+            </div>
+         <%--   <div class="topmenu-wrapper margin_btm_30">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="welcome">
+                                <%
+                                    if (HttpContext.Current.Session["EXPRESS_CHECKOUT"] == null)
+                                        HttpContext.Current.Session["EXPRESS_CHECKOUT"] = "False";
+                                    
+                                    if (HttpContext.Current.Session["USER_ID"] != "" && Convert.ToInt32(HttpContext.Current.Session["USER_ID"].ToString()) > 0 && HttpContext.Current.Session["USER_ID"].ToString() != "777" )
+                                   {
+                                       string username = "";
+                                       if (HttpContext.Current.Session["LOGIN_NAME_TOP"] != null && HttpContext.Current.Session["LOGIN_NAME_TOP"].ToString() != null)
+                                           username = HttpContext.Current.Session["LOGIN_NAME_TOP"].ToString();
+                                       else
+                                           username = GetLoginName_top();   
+                                %>
+                                <h5>Welcome <%= username%></h5>
+                                <%
+          }
+                                %>
+                            </div>
+                        </div>
+                        <div class="col-sm-16">
+                            <div class="top-menu-box">
+                                <ul class="top-menu">
+                                    <li>
+                                        <a href="/onlinecatalogue.aspx">Online Catalogue</a>
+                                    </li>
+                                    <li>
+                                        <a href="/myaccount.aspx">My Account</a>
+                                    </li>
+                                    <li>
+                                        <a href="/contactus.aspx">Contact Us</a>
+                                    </li>
+                                    <li>
+                                        <% 
+                                            if (HttpContext.Current.Session["EXPRESS_CHECKOUT"] == null)
+                                                HttpContext.Current.Session["EXPRESS_CHECKOUT"] = "False";
+                                                
+                                            if (HttpContext.Current.Session["USER_ID"] != "" && Convert.ToInt32(HttpContext.Current.Session["USER_ID"].ToString()) > 0 && HttpContext.Current.Session["USER_ID"].ToString() != "777")
+                                           {
+     
+                                        %>
+                                        <a href="/logout.aspx">Logout</a>
+                                        <%
+          }
+         
+                                        %>
+                                        <%
+                                           else
+                                           {
+                                        %>
+                                        <a href="/login.aspx">Login / Register</a>
+                                        <%
+          } %>
+                                    </li>
+                                    <li id="navcart" class="dropdown">
+                                        <%=CartCount %>
+                                        <%   
+                                            string cart_cnt = CartCount_mobile;
+                                            if (Convert.ToInt32(cart_cnt) > 0)
+                                            {
+                     
+                                        %>
+                                        <div class="dropdown-menu" id="navcart-div">
+                                            <ul class="inner-cart">
+                                                <%=Cartdetail%>
+                                            </ul>
+                                        </div>
+                                        <% } %>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>--%>
+        </div>
+        <asp:ContentPlaceHolder ID="success" runat="server">
+        </asp:ContentPlaceHolder>
+         <asp:ContentPlaceHolder ID="headerTop" runat="server">
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="header" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="leftnav" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="maincontent" runat="server">
+           
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="Popupcontent" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="rightnav" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <asp:ContentPlaceHolder ID="footer" runat="server">
+        </asp:ContentPlaceHolder>
+
+
+
+    </form>
+
+
+    
+    <%--<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>scripts/allmasterscript.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>" type="text/javascript"></script>--%>
+    <script type="text/javascript">
+        $(window).scroll(function () {
+
+            if ($(window).scrollTop() > 200) {
+                $(".slide_header").slideDown();
+            }
+
+            if ($(window).scrollTop() < 200) {
+                $(".slide_header").slideUp();
+            }
+
+        });
+
+
+
+    </script>
+    <script type="text/javascript">
+        $('.dropdown-menu').click(function (e) {
+            e.stopPropagation();
+        });
+    </script>
+    <script type="text/javascript">
+        $('.dropdown-menu').click(function (e) {
+            e.stopPropagation();
+        });
+    </script>
+    <script type="text/javascript">
+        $('.dropdown-menu').click(function (e) {
+            e.stopPropagation();
+        });
+    </script>
+    <script type="text/javascript">
+        $('.dropdown-menu a[data-toggle="tab"]').click(function (e) {
+            e.stopPropagation()
+            $(this).tab('show')
+        })
+    </script>
+    <%if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("pd.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("fl.aspx") == true)
+      { %>
+    <%--<link href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/zoom/css/cloudzoom.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" type="text/css" rel="stylesheet" media="screen" />--%>
+    <%--<script type="text/javascript" src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/zoom/js/cloudzoom.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>"></script>--%>
+
+
+
+
+    <script type="text/javascript">
+        $(function () {
+            $('#zoom1').bind('click', function () {            // Bind a click event to a Cloud Zoom instance.
+                var cloudZoom = $(this).data('CloudZoom');  // On click, get the Cloud Zoom object,
+                cloudZoom.closeZoom();
+                $.fancybox.open(cloudZoom.getGalleryList()); // and pass Cloud Zoom's image list to Fancy Box.
+                return false;
+            });
+        });
+    </script>
+    <script type="text/javascript">
+
+        CloudZoom.quickStart(); // cz
+        JetZoom.quickStart();
+        StarZoom.quickStart();
+    </script>
+    <%} %>
+
+    <script type="text/javascript">
+        $('#main_menu li a').focus(function () {
+            $('#main_menu li a').removeClass('focused');
+            $(this).addClass('focused');
+        });
+    </script>
+    <%if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("pd.aspx") == true || HttpContext.Current.Request.Url.ToString().ToLower().Contains("fl.aspx") == true)
+      { %>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            $('#myTab a').click(function (e) {
+                e.preventDefault();
+                $(this).tab('show');
+            })
+        });
+    </script>
+    <%} %>
+    <script type="text/javascript" src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>scripts/jquery.accordion.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#only-one [data-accordion]').accordion();
+
+            $('#multiple [data-accordion]').accordion({
+                singleOpen: false
+            });
+
+            $('#single[data-accordion]').accordion({
+                transitionEasing: 'cubic-bezier(0.455, 0.030, 0.515, 0.955)',
+                transitionSpeed: 200
+            });
+        });
+    </script>
+    <%--<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CurrentUrl"].ToString()%>scripts/jquery.customSelect.js" type="text/javascript"></script>--%>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.sortselect').customSelect();
+        });
+    </script>
+
+
+
+    <%if (HttpContext.Current.Request.Url.ToString().ToLower().Contains("checkout.aspx") == false)
+      { %>
+    <%--<link rel="stylesheet" type="text/css" media="screen" href="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>css/thickboxAddtocart.css?v=<%=System.Configuration.ConfigurationManager.AppSettings["CSSVersion"].ToString()%>" />--%>
+    <%--<script src="<%=System.Configuration.ConfigurationManager.AppSettings["CDN"].ToString()%>scripts/thickboxaddtocart.js?v=<%=System.Configuration.ConfigurationManager.AppSettings["JSVersion"].ToString()%>" type="text/javascript"></script>--%>
+    <%} %>
+    <script type="text/javascript" language="javascript">
+        jQuery(document).ready(function () {
+            $("img.lazy").lazyload();
+        });
+    </script>
+    <script type="text/javascript">
+        $(".filterhover").click(
+     function () {
+         $('#filter_collapse').collapse('show');
+     }, function () {
+         $('#filter_collapse').collapse('hide');
+     }
+    );
+        $(".selectionhover").click(
+     function () {
+         $('#selected_category').collapse('show');
+     }, function () {
+         $('#selected_category').collapse('hide');
+     }
+    );
+    </script>
+    <script type="text/javascript">
+        $(".filterhover").click(
+     function () {
+         $('#filter_collapse').collapse('show');
+     }, function () {
+         $('#filter_collapse').collapse('hide');
+     },
+        function () {
+            $('#filter_collapse_mobile').collapse('show');
+        }, function () {
+            $('#filter_collapse_mobile').collapse('hide');
+        }
+    );
+        $(".selectionhover").click(
+     function () {
+         $('#selected_category').collapse('show');
+     }, function () {
+         $('#selected_category').collapse('hide');
+     }
+    );
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+
+            var width = $(window).width();
+            $(window).resize(function () {
+                if ($(this).width() < 991) {
+                    $('.mobile_filter').removeClass('in');
+                } else {
+                    $('.mobile_filter').addClass('in');
+                }
+            });
+
+            if ($(window).width() < 991) {
+
+                $('.mobile_selection').removeClass('in');
+            }
+
+            var width = $(window).width();
+            $(window).resize(function () {
+                if ($(this).width() < 991) {
+                    $('.mobile_selection').removeClass('in');
+                } else {
+                    $('.mobile_selection').addClass('in');
+                }
+            });
+
+            if ($(window).width() < 991) {
+
+                $('.mobile_selection').removeClass('in');
+            }
+
+        });
+
+        $('#pricesorter').hover(function () {
+            $('.dropdown-menu', this).show();
+        }, function () {
+            $('.dropdown-menu', this).hide();
+        });
+    </script>
+    <%--<script  src="/scripts/lazyload.js" type="text/javascript"></script>--%>
+    <%--<script type="text/javascript">
+      (function (i, s, o, g, r, a, m) {
+          i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+              (i[r].q = i[r].q || []).push(arguments)
+          }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+      })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+      ga('create', 'UA-46606700-1', 'auto');
+      ga('send', 'pageview');
+    </script>--%>
+    <%--  <script charset="utf-8" type="text/javascript">        var switchTo5x = true;</script>
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script language="javascript" type="text/javascript">
+
+
+    stLight.options({
+        publisher: '97a61d83-fafb-47db-abde-e207bd97a153', onhover: 'false'
+    });
+
+</script>--%>
+    <script type="text/javascript">
+        $('#list').click(function () { $('#home-product .product-grid').addClass('list-wrapper'); });
+        $('#grid').click(function () { $('#home-product .product-grid').removeClass('list-wrapper'); });
+
+        $("#list").click(function () {
+            $(this).addClass('blue_text');
+            $('#grid').removeClass('blue_text');
+        });
+        $('#grid').addClass('blue_text');
+        $("#grid").click(function () {
+            $(this).addClass('blue_text');
+            $('#list').removeClass('blue_text');
+        });
+
+        $('.navbar .dropdown').hover(function () {
+            $(this).addClass('open').find('.dropdown-menu').first().stop(true, true).show();
+        }, function () {
+            $(this).removeClass('open').find('.dropdown-menu').first().stop(true, true).hide();
+        });
+        $('#selected_category').click(function (e) {
+            e.stopPropagation();
+        });
+    </script>
+
+       <%
+           try
+           {
+               OrderServices objOrderServices = new OrderServices();
+               ProductServices objprodservice = new ProductServices();
+               HelperServices objHelperServices = new HelperServices();
+               OrderServices.OrderInfo oOrdInfo = new OrderServices.OrderInfo();
+               HelperDB objHelperDB = new HelperDB();
+               DataSet dsOItem = new DataSet();
+               int Orderid = 0;
+               if (Session["ORDER_ID"] != "0")
+               {
+                   Orderid = Convert.ToInt32(Session["ORDER_ID"]);
+               }
+               else
+               {
+                   Orderid = Convert.ToInt32(Session["OrderDetExp_orderid"]);
+               }
+
+               dsOItem = objOrderServices.GetOrderItems(Orderid);
+               //  OrderServices.OrderInfo OrderInfo = new OrderServices.OrderInfo();
+               oOrdInfo = objOrderServices.GetOrder(Orderid);
+
+               //  newOrderItems = new OrderServices.OrderItem[dsOItem.Tables[0].Rows.Count];
+               string transprod = "";
+               string username = "";
+               try
+               {
+                   if (HttpContext.Current.Session["LOGIN_NAME_TOP"] != null)
+                   {
+                       username = HttpContext.Current.Session["LOGIN_NAME_TOP"].ToString();
+                   }
+               }
+               catch (Exception ex)
+               {
+
+               }
+
+               for (int i = 0; i < dsOItem.Tables[0].Rows.Count; i++)
+               {
+                   string pid = dsOItem.Tables[0].Rows[i]["PRODUCT_ID"].ToString();
+                   // int fid= objprodservice.GetFamilyID(objHelperServices.CI(pid));
+                   string pcode = dsOItem.Tables[0].Rows[i]["Catalog_Item_No"].ToString();
+                   string Name = dsOItem.Tables[0].Rows[i]["DESCRIPTION"].ToString();
+                   decimal ProdTotal = objHelperServices.CDEC(dsOItem.Tables[0].Rows[i]["PRICE_EXT_APPLIED"].ToString());
+                   string ProdTotal_str = objHelperServices.FixDecPlace(ProdTotal);
+                   int Qty = objHelperServices.CI(dsOItem.Tables[0].Rows[i]["QTY"]);
+                   string categoryname = "";
+                   try
+                   {
+                       DataTable Sqltb = new DataTable();
+
+                       Sqltb = (DataTable)objHelperDB.GetGenericDataDB("2", pid.ToString(), "", "GET_PARENT_CATEGORY_ID_PATH_INPUT_PID", HelperDB.ReturnType.RTTable); ;
+                       if (Sqltb != null)
+                       {
+
+                           string[]   catpath = Sqltb.Rows[0]["CATEGORY_PATH"].ToString().Split(new string[] { "////" }, StringSplitOptions.None);
+                           categoryname = catpath[0];
+
+                       }
+
+
+
+                   }
+                   catch (Exception ex)
+                   {
+                       // objErrorHandler.CreateLog(ex.ToString());
+                   }
+
+                   //newOrderItems[i] = new OrderServices.OrderItem { sku = pid, Name = Name, Category = "", Price = ProdTotal, Quantity = Qty };
+                   if (i == 0)
+                   {
+                       transprod = " [{ 'sku': '" + pcode + "', 'name': '" + Name + "', 'category': '" + categoryname + "', 'price': '" + ProdTotal_str + "', 'quantity': '" + Qty + "'  } ";
+                   }
+                   else
+                   {
+                       transprod = transprod + "," + " { 'sku': '" + pcode + "', 'name': '" + Name + "', 'category': '" + categoryname + "', 'price': '" + ProdTotal_str + "', 'quantity': '" + Qty + "'  } ";
+                   }
+
+               }
+               transprod = transprod + "]";
+               //        string script = "<script>" +
+               //"dataLayer.push(  {'event': 'Checkout'," +
+
+
+
+
+
+
+               //    "'transactionId':'" + oOrdInfo.OrderID + "', " +
+               //    "'transactionAffiliation':'" + username + "'," +
+               //    "'transactionTotal': '" +  objHelperServices.CDEC(oOrdInfo.TotalAmount) + "'," +
+               //    "'transactionTax': '" +  objHelperServices.CDEC(oOrdInfo.TaxAmount) + "', " +
+               //    "'transactionShipping': '" +  objHelperServices.CDEC(oOrdInfo.ShipCost) + "' , " +
+               //    "'transactionProducts': " + transprod + " }); </script>";
+
+               //        Response.Write(script);
+
+               //if (!Page.ClientScript.IsStartupScriptRegistered("datalayers"))
+               //    Page.ClientScript.RegisterStartupScript(this.GetType(), "datalayers", script, true);
+
+
+               //if (ttOrder.Enabled == false)
+               //{
+               //    objErrorHandler.CreateLog("inside enable false");
+               //    ScrollToControl("ctl00_maincontent_PayOkDiv", false);
+               //    // PayOkDiv.Focus();
+               //}
+           }
+           catch (Exception ex)
+           {
+               // objErrorHandler.CreateLog(ex.ToString());
+           }
+
+         %>
+
+    
+     
+
+</body>
+</html>
+

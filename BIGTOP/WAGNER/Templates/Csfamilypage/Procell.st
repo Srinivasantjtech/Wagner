@@ -1,0 +1,1 @@
+<td data-title="$ATTRIBUTE_TITLE$"> $ATTRIBUTE_VALUE$</td>
